@@ -30,6 +30,20 @@
     ms:{regionLabel:'WILAYAH',subtitle:'Tingkap percuma anda ke penstriman terbaik dunia.',countryNote:'Cadangan untuk {country}',eyebrow:'PANDUAN PENSTRIMAN TEMPATAN',remoteHint:'Gunakan ▲ ▼ ◀ ▶ untuk navigasi',status:'{count} perkhidmatan tersedia',footer:'Katalog penstriman · Hanya perkhidmatan rasmi atau jelas menyediakan kandungan percuma.'},
     sw:{regionLabel:'ENEO',subtitle:'Dirisha lako la bure kuelekea utiririshaji bora duniani.',countryNote:'Mapendekezo kwa {country}',eyebrow:'MWONGOZO WA UTIRIRISHAJI WA ENEO HUSIKA',remoteHint:'Tumia ▲ ▼ ◀ ▶ kuvinjari',status:'Huduma {count} zinapatikana',footer:'Orodha ya utiririshaji · Huduma rasmi au zinazotoa maudhui ya bure waziwazi pekee.'}
   };
+  const categoryCopy = {
+    en:{'新闻':'News','电影':'Movies','直播':'Live','运动':'Sports'}, zh:{'新闻':'新闻','电影':'电影','直播':'直播','运动':'运动'},
+    ja:{'新闻':'ニュース','电影':'映画','直播':'ライブ','运动':'スポーツ'}, ko:{'新闻':'뉴스','电影':'영화','直播':'라이브','运动':'스포츠'},
+    pt:{'新闻':'Notícias','电影':'Filmes','直播':'Ao vivo','运动':'Desporto'}, es:{'新闻':'Noticias','电影':'Películas','直播':'En directo','运动':'Deportes'},
+    fr:{'新闻':'Actualités','电影':'Films','直播':'En direct','运动':'Sports'}, de:{'新闻':'Nachrichten','电影':'Filme','直播':'Live','运动':'Sport'},
+    it:{'新闻':'Notizie','电影':'Film','直播':'Dirette','运动':'Sport'}, ru:{'新闻':'Новости','电影':'Фильмы','直播':'Прямой эфир','运动':'Спорт'},
+    ar:{'新闻':'الأخبار','电影':'أفلام','直播':'مباشر','运动':'رياضة'}, hi:{'新闻':'समाचार','电影':'फ़िल्में','直播':'लाइव','运动':'खेल'},
+    th:{'新闻':'ข่าว','电影':'ภาพยนตร์','直播':'ถ่ายทอดสด','运动':'กีฬา'}, tr:{'新闻':'Haberler','电影':'Filmler','直播':'Canlı','运动':'Spor'},
+    vi:{'新闻':'Tin tức','电影':'Phim','直播':'Trực tiếp','运动':'Thể thao'}, id:{'新闻':'Berita','电影':'Film','直播':'Langsung','运动':'Olahraga'},
+    nl:{'新闻':'Nieuws','电影':'Films','直播':'Live','运动':'Sport'}, pl:{'新闻':'Wiadomości','电影':'Filmy','直播':'Na żywo','运动':'Sport'},
+    uk:{'新闻':'Новини','电影':'Фільми','直播':'Наживо','运动':'Спорт'}, fa:{'新闻':'اخبار','电影':'فیلم‌ها','直播':'زنده','运动':'ورزش'},
+    he:{'新闻':'חדשות','电影':'סרטים','直播':'בשידור חי','运动':'ספורט'}, ms:{'新闻':'Berita','电影':'Filem','直播':'Langsung','运动':'Sukan'},
+    sw:{'新闻':'Habari','电影':'Filamu','直播':'Moja kwa moja','运动':'Michezo'}
+  };
   const fallbackCopy = { htmlLang:'en', ...uiCopy.en, descriptions:{} };
   const pageNavAware = (() => {
     try { return String(window.NaviSwitch?.getCapabilities?.() || '').includes('freestreaming_pagenav_v1'); }
@@ -53,7 +67,10 @@
   }
   function copyForCountry(code) {
     const { language, htmlLang } = localeForCountry(code);
-    return { ...fallbackCopy, ...(uiCopy[language] || uiCopy.en), htmlLang };
+    return { ...fallbackCopy, ...(uiCopy[language] || uiCopy.en), language, htmlLang };
+  }
+  function localizedCategory(title, language) {
+    return title === 'Top 50' ? title : (categoryCopy[language] || categoryCopy.en)[title] || title;
   }
   function localizedCountryName(code, fallback, locale) {
     try { return new Intl.DisplayNames([locale], { type:'region' }).of(code) || fallback; }
@@ -94,10 +111,11 @@
     $('#status-line').textContent = copy.status.replace('{count}', sections.reduce((total, section) => total + section.services.length, 0));
     const menu = $('#sidebar-menu'); const catalog = $('#catalog'); menu.replaceChildren(); catalog.replaceChildren();
     for (const section of sections) {
+      const label = localizedCategory(section.title, copy.language);
       const sectionId = `section-${section.id}`; const item = document.createElement('li'); const menuLink = document.createElement('a');
-      menuLink.href = `#${sectionId}`; menuLink.dataset.tvZone = 'category'; menuLink.dataset.section = section.id; menuLink.innerHTML = `<span class="menu-icon">${section.icon}</span><span>${section.title}</span>`; item.append(menuLink); menu.append(item);
+      menuLink.href = `#${sectionId}`; menuLink.dataset.tvZone = 'category'; menuLink.dataset.section = section.id; menuLink.innerHTML = `<span class="menu-icon">${section.icon}</span><span>${label}</span>`; item.append(menuLink); menu.append(item);
       const block = document.createElement('section'); block.className = 'section'; block.id = sectionId;
-      const header = document.createElement('div'); header.className = 'section-header'; header.innerHTML = `<span class="section-icon">${section.icon}</span><h2></h2>`; $('h2', header).textContent = section.title;
+      const header = document.createElement('div'); header.className = 'section-header'; header.innerHTML = `<span class="section-icon">${section.icon}</span><h2></h2>`; $('h2', header).textContent = label;
       const grid = document.createElement('div'); grid.className = 'site-grid'; section.services.forEach(service => { const card = makeCard(service); card.dataset.section = section.id; grid.append(card); }); block.append(header, grid); catalog.append(block);
     }
     document.querySelectorAll('.sidebar-menu a').forEach(link => link.addEventListener('click', () => { $('#sidebar').classList.remove('open'); $('#menu-toggle').setAttribute('aria-expanded', 'false'); }));
