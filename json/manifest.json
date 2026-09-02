@@ -1,0 +1,932 @@
+{
+  "countries": [
+    {
+      "countryCode": "AD",
+      "file": "20260902_070649_AD.json"
+    },
+    {
+      "countryCode": "AE",
+      "file": "20260902_070649_AE.json"
+    },
+    {
+      "countryCode": "AF",
+      "file": "20260902_070649_AF.json"
+    },
+    {
+      "countryCode": "AG",
+      "file": "20260902_070649_AG.json"
+    },
+    {
+      "countryCode": "AI",
+      "file": "20260902_070649_AI.json"
+    },
+    {
+      "countryCode": "AL",
+      "file": "20260902_070649_AL.json"
+    },
+    {
+      "countryCode": "AM",
+      "file": "20260902_070649_AM.json"
+    },
+    {
+      "countryCode": "AO",
+      "file": "20260902_070649_AO.json"
+    },
+    {
+      "countryCode": "AR",
+      "file": "20260902_070649_AR.json"
+    },
+    {
+      "countryCode": "AS",
+      "file": "20260902_070649_AS.json"
+    },
+    {
+      "countryCode": "AT",
+      "file": "20260902_070649_AT.json"
+    },
+    {
+      "countryCode": "AU",
+      "file": "20260902_070649_AU.json"
+    },
+    {
+      "countryCode": "AW",
+      "file": "20260902_070649_AW.json"
+    },
+    {
+      "countryCode": "AX",
+      "file": "20260902_070649_AX.json"
+    },
+    {
+      "countryCode": "AZ",
+      "file": "20260902_070649_AZ.json"
+    },
+    {
+      "countryCode": "BA",
+      "file": "20260902_070649_BA.json"
+    },
+    {
+      "countryCode": "BB",
+      "file": "20260902_070649_BB.json"
+    },
+    {
+      "countryCode": "BD",
+      "file": "20260902_070649_BD.json"
+    },
+    {
+      "countryCode": "BE",
+      "file": "20260902_070649_BE.json"
+    },
+    {
+      "countryCode": "BF",
+      "file": "20260902_070649_BF.json"
+    },
+    {
+      "countryCode": "BG",
+      "file": "20260902_070649_BG.json"
+    },
+    {
+      "countryCode": "BH",
+      "file": "20260902_070649_BH.json"
+    },
+    {
+      "countryCode": "BI",
+      "file": "20260902_070649_BI.json"
+    },
+    {
+      "countryCode": "BJ",
+      "file": "20260902_070649_BJ.json"
+    },
+    {
+      "countryCode": "BM",
+      "file": "20260902_070649_BM.json"
+    },
+    {
+      "countryCode": "BN",
+      "file": "20260902_070649_BN.json"
+    },
+    {
+      "countryCode": "BO",
+      "file": "20260902_070649_BO.json"
+    },
+    {
+      "countryCode": "BQ",
+      "file": "20260902_070649_BQ.json"
+    },
+    {
+      "countryCode": "BR",
+      "file": "20260902_070649_BR.json"
+    },
+    {
+      "countryCode": "BS",
+      "file": "20260902_070649_BS.json"
+    },
+    {
+      "countryCode": "BT",
+      "file": "20260902_070649_BT.json"
+    },
+    {
+      "countryCode": "BW",
+      "file": "20260902_070649_BW.json"
+    },
+    {
+      "countryCode": "BY",
+      "file": "20260902_070649_BY.json"
+    },
+    {
+      "countryCode": "BZ",
+      "file": "20260902_070649_BZ.json"
+    },
+    {
+      "countryCode": "CA",
+      "file": "20260902_070649_CA.json"
+    },
+    {
+      "countryCode": "CD",
+      "file": "20260902_070649_CD.json"
+    },
+    {
+      "countryCode": "CF",
+      "file": "20260902_070649_CF.json"
+    },
+    {
+      "countryCode": "CG",
+      "file": "20260902_070649_CG.json"
+    },
+    {
+      "countryCode": "CH",
+      "file": "20260902_070649_CH.json"
+    },
+    {
+      "countryCode": "CI",
+      "file": "20260902_070649_CI.json"
+    },
+    {
+      "countryCode": "CK",
+      "file": "20260902_070649_CK.json"
+    },
+    {
+      "countryCode": "CL",
+      "file": "20260902_070649_CL.json"
+    },
+    {
+      "countryCode": "CM",
+      "file": "20260902_070649_CM.json"
+    },
+    {
+      "countryCode": "CN",
+      "file": "20260902_070649_CN.json"
+    },
+    {
+      "countryCode": "CO",
+      "file": "20260902_070649_CO.json"
+    },
+    {
+      "countryCode": "CR",
+      "file": "20260902_070649_CR.json"
+    },
+    {
+      "countryCode": "CU",
+      "file": "20260902_070649_CU.json"
+    },
+    {
+      "countryCode": "CV",
+      "file": "20260902_070649_CV.json"
+    },
+    {
+      "countryCode": "CW",
+      "file": "20260902_070649_CW.json"
+    },
+    {
+      "countryCode": "CY",
+      "file": "20260902_070649_CY.json"
+    },
+    {
+      "countryCode": "CZ",
+      "file": "20260902_070649_CZ.json"
+    },
+    {
+      "countryCode": "DE",
+      "file": "20260902_070649_DE.json"
+    },
+    {
+      "countryCode": "DJ",
+      "file": "20260902_070649_DJ.json"
+    },
+    {
+      "countryCode": "DK",
+      "file": "20260902_070649_DK.json"
+    },
+    {
+      "countryCode": "DM",
+      "file": "20260902_070649_DM.json"
+    },
+    {
+      "countryCode": "DO",
+      "file": "20260902_070649_DO.json"
+    },
+    {
+      "countryCode": "DZ",
+      "file": "20260902_070649_DZ.json"
+    },
+    {
+      "countryCode": "EC",
+      "file": "20260902_070649_EC.json"
+    },
+    {
+      "countryCode": "EE",
+      "file": "20260902_070649_EE.json"
+    },
+    {
+      "countryCode": "EG",
+      "file": "20260902_070649_EG.json"
+    },
+    {
+      "countryCode": "EH",
+      "file": "20260902_070649_EH.json"
+    },
+    {
+      "countryCode": "ES",
+      "file": "20260902_070649_ES.json"
+    },
+    {
+      "countryCode": "ET",
+      "file": "20260902_070649_ET.json"
+    },
+    {
+      "countryCode": "FI",
+      "file": "20260902_070649_FI.json"
+    },
+    {
+      "countryCode": "FJ",
+      "file": "20260902_070649_FJ.json"
+    },
+    {
+      "countryCode": "FK",
+      "file": "20260902_070649_FK.json"
+    },
+    {
+      "countryCode": "FM",
+      "file": "20260902_070649_FM.json"
+    },
+    {
+      "countryCode": "FO",
+      "file": "20260902_070649_FO.json"
+    },
+    {
+      "countryCode": "FR",
+      "file": "20260902_070649_FR.json"
+    },
+    {
+      "countryCode": "GA",
+      "file": "20260902_070649_GA.json"
+    },
+    {
+      "countryCode": "GB",
+      "file": "20260902_070649_GB.json"
+    },
+    {
+      "countryCode": "GD",
+      "file": "20260902_070649_GD.json"
+    },
+    {
+      "countryCode": "GE",
+      "file": "20260902_070649_GE.json"
+    },
+    {
+      "countryCode": "GF",
+      "file": "20260902_070649_GF.json"
+    },
+    {
+      "countryCode": "GG",
+      "file": "20260902_070649_GG.json"
+    },
+    {
+      "countryCode": "GH",
+      "file": "20260902_070649_GH.json"
+    },
+    {
+      "countryCode": "GI",
+      "file": "20260902_070649_GI.json"
+    },
+    {
+      "countryCode": "GL",
+      "file": "20260902_070649_GL.json"
+    },
+    {
+      "countryCode": "GM",
+      "file": "20260902_070649_GM.json"
+    },
+    {
+      "countryCode": "GN",
+      "file": "20260902_070649_GN.json"
+    },
+    {
+      "countryCode": "GP",
+      "file": "20260902_070649_GP.json"
+    },
+    {
+      "countryCode": "GQ",
+      "file": "20260902_070649_GQ.json"
+    },
+    {
+      "countryCode": "GR",
+      "file": "20260902_070649_GR.json"
+    },
+    {
+      "countryCode": "GT",
+      "file": "20260902_070649_GT.json"
+    },
+    {
+      "countryCode": "GU",
+      "file": "20260902_070649_GU.json"
+    },
+    {
+      "countryCode": "GW",
+      "file": "20260902_070649_GW.json"
+    },
+    {
+      "countryCode": "GY",
+      "file": "20260902_070649_GY.json"
+    },
+    {
+      "countryCode": "HK",
+      "file": "20260902_070649_HK.json"
+    },
+    {
+      "countryCode": "HN",
+      "file": "20260902_070649_HN.json"
+    },
+    {
+      "countryCode": "HR",
+      "file": "20260902_070649_HR.json"
+    },
+    {
+      "countryCode": "HT",
+      "file": "20260902_070649_HT.json"
+    },
+    {
+      "countryCode": "HU",
+      "file": "20260902_070649_HU.json"
+    },
+    {
+      "countryCode": "ID",
+      "file": "20260902_070649_ID.json"
+    },
+    {
+      "countryCode": "IE",
+      "file": "20260902_070649_IE.json"
+    },
+    {
+      "countryCode": "IL",
+      "file": "20260902_070649_IL.json"
+    },
+    {
+      "countryCode": "IM",
+      "file": "20260902_070649_IM.json"
+    },
+    {
+      "countryCode": "IN",
+      "file": "20260902_070649_IN.json"
+    },
+    {
+      "countryCode": "IQ",
+      "file": "20260902_070649_IQ.json"
+    },
+    {
+      "countryCode": "IR",
+      "file": "20260902_070649_IR.json"
+    },
+    {
+      "countryCode": "IS",
+      "file": "20260902_070649_IS.json"
+    },
+    {
+      "countryCode": "IT",
+      "file": "20260902_070649_IT.json"
+    },
+    {
+      "countryCode": "JE",
+      "file": "20260902_070649_JE.json"
+    },
+    {
+      "countryCode": "JM",
+      "file": "20260902_070649_JM.json"
+    },
+    {
+      "countryCode": "JO",
+      "file": "20260902_070649_JO.json"
+    },
+    {
+      "countryCode": "JP",
+      "file": "20260902_070649_JP.json"
+    },
+    {
+      "countryCode": "KE",
+      "file": "20260902_070649_KE.json"
+    },
+    {
+      "countryCode": "KG",
+      "file": "20260902_070649_KG.json"
+    },
+    {
+      "countryCode": "KH",
+      "file": "20260902_070649_KH.json"
+    },
+    {
+      "countryCode": "KM",
+      "file": "20260902_070649_KM.json"
+    },
+    {
+      "countryCode": "KN",
+      "file": "20260902_070649_KN.json"
+    },
+    {
+      "countryCode": "KR",
+      "file": "20260902_070649_KR.json"
+    },
+    {
+      "countryCode": "KW",
+      "file": "20260902_070649_KW.json"
+    },
+    {
+      "countryCode": "KY",
+      "file": "20260902_070649_KY.json"
+    },
+    {
+      "countryCode": "KZ",
+      "file": "20260902_070649_KZ.json"
+    },
+    {
+      "countryCode": "LA",
+      "file": "20260902_070649_LA.json"
+    },
+    {
+      "countryCode": "LB",
+      "file": "20260902_070649_LB.json"
+    },
+    {
+      "countryCode": "LC",
+      "file": "20260902_070649_LC.json"
+    },
+    {
+      "countryCode": "LI",
+      "file": "20260902_070649_LI.json"
+    },
+    {
+      "countryCode": "LK",
+      "file": "20260902_070649_LK.json"
+    },
+    {
+      "countryCode": "LR",
+      "file": "20260902_070649_LR.json"
+    },
+    {
+      "countryCode": "LS",
+      "file": "20260902_070649_LS.json"
+    },
+    {
+      "countryCode": "LT",
+      "file": "20260902_070649_LT.json"
+    },
+    {
+      "countryCode": "LU",
+      "file": "20260902_070649_LU.json"
+    },
+    {
+      "countryCode": "LV",
+      "file": "20260902_070649_LV.json"
+    },
+    {
+      "countryCode": "LY",
+      "file": "20260902_070649_LY.json"
+    },
+    {
+      "countryCode": "MA",
+      "file": "20260902_070649_MA.json"
+    },
+    {
+      "countryCode": "MC",
+      "file": "20260902_070649_MC.json"
+    },
+    {
+      "countryCode": "MD",
+      "file": "20260902_070649_MD.json"
+    },
+    {
+      "countryCode": "ME",
+      "file": "20260902_070649_ME.json"
+    },
+    {
+      "countryCode": "MF",
+      "file": "20260902_070649_MF.json"
+    },
+    {
+      "countryCode": "MG",
+      "file": "20260902_070649_MG.json"
+    },
+    {
+      "countryCode": "MH",
+      "file": "20260902_070649_MH.json"
+    },
+    {
+      "countryCode": "MK",
+      "file": "20260902_070649_MK.json"
+    },
+    {
+      "countryCode": "ML",
+      "file": "20260902_070649_ML.json"
+    },
+    {
+      "countryCode": "MM",
+      "file": "20260902_070649_MM.json"
+    },
+    {
+      "countryCode": "MN",
+      "file": "20260902_070649_MN.json"
+    },
+    {
+      "countryCode": "MO",
+      "file": "20260902_070649_MO.json"
+    },
+    {
+      "countryCode": "MP",
+      "file": "20260902_070649_MP.json"
+    },
+    {
+      "countryCode": "MQ",
+      "file": "20260902_070649_MQ.json"
+    },
+    {
+      "countryCode": "MR",
+      "file": "20260902_070649_MR.json"
+    },
+    {
+      "countryCode": "MS",
+      "file": "20260902_070649_MS.json"
+    },
+    {
+      "countryCode": "MT",
+      "file": "20260902_070649_MT.json"
+    },
+    {
+      "countryCode": "MU",
+      "file": "20260902_070649_MU.json"
+    },
+    {
+      "countryCode": "MV",
+      "file": "20260902_070649_MV.json"
+    },
+    {
+      "countryCode": "MW",
+      "file": "20260902_070649_MW.json"
+    },
+    {
+      "countryCode": "MX",
+      "file": "20260902_070649_MX.json"
+    },
+    {
+      "countryCode": "MY",
+      "file": "20260902_070649_MY.json"
+    },
+    {
+      "countryCode": "MZ",
+      "file": "20260902_070649_MZ.json"
+    },
+    {
+      "countryCode": "NA",
+      "file": "20260902_070649_NA.json"
+    },
+    {
+      "countryCode": "NC",
+      "file": "20260902_070649_NC.json"
+    },
+    {
+      "countryCode": "NE",
+      "file": "20260902_070649_NE.json"
+    },
+    {
+      "countryCode": "NG",
+      "file": "20260902_070649_NG.json"
+    },
+    {
+      "countryCode": "NI",
+      "file": "20260902_070649_NI.json"
+    },
+    {
+      "countryCode": "NL",
+      "file": "20260902_070649_NL.json"
+    },
+    {
+      "countryCode": "NO",
+      "file": "20260902_070649_NO.json"
+    },
+    {
+      "countryCode": "NP",
+      "file": "20260902_070649_NP.json"
+    },
+    {
+      "countryCode": "NR",
+      "file": "20260902_070649_NR.json"
+    },
+    {
+      "countryCode": "NU",
+      "file": "20260902_070649_NU.json"
+    },
+    {
+      "countryCode": "NZ",
+      "file": "20260902_070649_NZ.json"
+    },
+    {
+      "countryCode": "OM",
+      "file": "20260902_070649_OM.json"
+    },
+    {
+      "countryCode": "PA",
+      "file": "20260902_070649_PA.json"
+    },
+    {
+      "countryCode": "PE",
+      "file": "20260902_070649_PE.json"
+    },
+    {
+      "countryCode": "PF",
+      "file": "20260902_070649_PF.json"
+    },
+    {
+      "countryCode": "PG",
+      "file": "20260902_070649_PG.json"
+    },
+    {
+      "countryCode": "PH",
+      "file": "20260902_070649_PH.json"
+    },
+    {
+      "countryCode": "PK",
+      "file": "20260902_070649_PK.json"
+    },
+    {
+      "countryCode": "PL",
+      "file": "20260902_070649_PL.json"
+    },
+    {
+      "countryCode": "PM",
+      "file": "20260902_070649_PM.json"
+    },
+    {
+      "countryCode": "PR",
+      "file": "20260902_070649_PR.json"
+    },
+    {
+      "countryCode": "PS",
+      "file": "20260902_070649_PS.json"
+    },
+    {
+      "countryCode": "PT",
+      "file": "20260902_070649_PT.json"
+    },
+    {
+      "countryCode": "PW",
+      "file": "20260902_070649_PW.json"
+    },
+    {
+      "countryCode": "PY",
+      "file": "20260902_070649_PY.json"
+    },
+    {
+      "countryCode": "QA",
+      "file": "20260902_070649_QA.json"
+    },
+    {
+      "countryCode": "RE",
+      "file": "20260902_070649_RE.json"
+    },
+    {
+      "countryCode": "RO",
+      "file": "20260902_070649_RO.json"
+    },
+    {
+      "countryCode": "RS",
+      "file": "20260902_070649_RS.json"
+    },
+    {
+      "countryCode": "RU",
+      "file": "20260902_070649_RU.json"
+    },
+    {
+      "countryCode": "RW",
+      "file": "20260902_070649_RW.json"
+    },
+    {
+      "countryCode": "SA",
+      "file": "20260902_070649_SA.json"
+    },
+    {
+      "countryCode": "SB",
+      "file": "20260902_070649_SB.json"
+    },
+    {
+      "countryCode": "SC",
+      "file": "20260902_070649_SC.json"
+    },
+    {
+      "countryCode": "SD",
+      "file": "20260902_070649_SD.json"
+    },
+    {
+      "countryCode": "SE",
+      "file": "20260902_070649_SE.json"
+    },
+    {
+      "countryCode": "SG",
+      "file": "20260902_070649_SG.json"
+    },
+    {
+      "countryCode": "SI",
+      "file": "20260902_070649_SI.json"
+    },
+    {
+      "countryCode": "SK",
+      "file": "20260902_070649_SK.json"
+    },
+    {
+      "countryCode": "SL",
+      "file": "20260902_070649_SL.json"
+    },
+    {
+      "countryCode": "SM",
+      "file": "20260902_070649_SM.json"
+    },
+    {
+      "countryCode": "SN",
+      "file": "20260902_070649_SN.json"
+    },
+    {
+      "countryCode": "SO",
+      "file": "20260902_070649_SO.json"
+    },
+    {
+      "countryCode": "SR",
+      "file": "20260902_070649_SR.json"
+    },
+    {
+      "countryCode": "SS",
+      "file": "20260902_070649_SS.json"
+    },
+    {
+      "countryCode": "ST",
+      "file": "20260902_070649_ST.json"
+    },
+    {
+      "countryCode": "SV",
+      "file": "20260902_070649_SV.json"
+    },
+    {
+      "countryCode": "SX",
+      "file": "20260902_070649_SX.json"
+    },
+    {
+      "countryCode": "SY",
+      "file": "20260902_070649_SY.json"
+    },
+    {
+      "countryCode": "SZ",
+      "file": "20260902_070649_SZ.json"
+    },
+    {
+      "countryCode": "TC",
+      "file": "20260902_070649_TC.json"
+    },
+    {
+      "countryCode": "TD",
+      "file": "20260902_070649_TD.json"
+    },
+    {
+      "countryCode": "TG",
+      "file": "20260902_070649_TG.json"
+    },
+    {
+      "countryCode": "TH",
+      "file": "20260902_070649_TH.json"
+    },
+    {
+      "countryCode": "TJ",
+      "file": "20260902_070649_TJ.json"
+    },
+    {
+      "countryCode": "TL",
+      "file": "20260902_070649_TL.json"
+    },
+    {
+      "countryCode": "TM",
+      "file": "20260902_070649_TM.json"
+    },
+    {
+      "countryCode": "TN",
+      "file": "20260902_070649_TN.json"
+    },
+    {
+      "countryCode": "TO",
+      "file": "20260902_070649_TO.json"
+    },
+    {
+      "countryCode": "TR",
+      "file": "20260902_070649_TR.json"
+    },
+    {
+      "countryCode": "TT",
+      "file": "20260902_070649_TT.json"
+    },
+    {
+      "countryCode": "TV",
+      "file": "20260902_070649_TV.json"
+    },
+    {
+      "countryCode": "TW",
+      "file": "20260902_070649_TW.json"
+    },
+    {
+      "countryCode": "TZ",
+      "file": "20260902_070649_TZ.json"
+    },
+    {
+      "countryCode": "UA",
+      "file": "20260902_070649_UA.json"
+    },
+    {
+      "countryCode": "UG",
+      "file": "20260902_070649_UG.json"
+    },
+    {
+      "countryCode": "US",
+      "file": "20260902_070649_US.json"
+    },
+    {
+      "countryCode": "UY",
+      "file": "20260902_070649_UY.json"
+    },
+    {
+      "countryCode": "UZ",
+      "file": "20260902_070649_UZ.json"
+    },
+    {
+      "countryCode": "VC",
+      "file": "20260902_070649_VC.json"
+    },
+    {
+      "countryCode": "VE",
+      "file": "20260902_070649_VE.json"
+    },
+    {
+      "countryCode": "VG",
+      "file": "20260902_070649_VG.json"
+    },
+    {
+      "countryCode": "VI",
+      "file": "20260902_070649_VI.json"
+    },
+    {
+      "countryCode": "VN",
+      "file": "20260902_070649_VN.json"
+    },
+    {
+      "countryCode": "VU",
+      "file": "20260902_070649_VU.json"
+    },
+    {
+      "countryCode": "WF",
+      "file": "20260902_070649_WF.json"
+    },
+    {
+      "countryCode": "WS",
+      "file": "20260902_070649_WS.json"
+    },
+    {
+      "countryCode": "XK",
+      "file": "20260902_070649_XK.json"
+    },
+    {
+      "countryCode": "YE",
+      "file": "20260902_070649_YE.json"
+    },
+    {
+      "countryCode": "YT",
+      "file": "20260902_070649_YT.json"
+    },
+    {
+      "countryCode": "ZA",
+      "file": "20260902_070649_ZA.json"
+    },
+    {
+      "countryCode": "ZM",
+      "file": "20260902_070649_ZM.json"
+    },
+    {
+      "countryCode": "ZW",
+      "file": "20260902_070649_ZW.json"
+    },
+    {
+      "countryCode": "(NOT SET)",
+      "file": "20260902_070649__not_set_.json"
+    }
+  ]
+}

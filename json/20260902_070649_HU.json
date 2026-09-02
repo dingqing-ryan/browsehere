@@ -1,0 +1,459 @@
+{
+  "generatedAt": "20260902_070649",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "topNPerCountry": 50,
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "HU",
+      "country": "Hungary",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "schedulerzrh.aitcloud.de",
+          "category": "Top 50",
+          "eventCount": 831063,
+          "totalUsers": 33
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hu.stripchat.com",
+          "category": "Top 50",
+          "eventCount": 336130,
+          "totalUsers": 28
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "player.telekomtvgo.hu",
+          "category": "Top 50",
+          "eventCount": 249111,
+          "totalUsers": 41
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "retailvideo-s01live-vs001.akamaized.net",
+          "category": "直播",
+          "eventCount": 170454,
+          "totalUsers": 3
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "retailvideo-s02live-vs001.akamaized.net",
+          "category": "直播",
+          "eventCount": 167621,
+          "totalUsers": 3
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m4sport.hu",
+          "category": "运动",
+          "eventCount": 167493,
+          "totalUsers": 150
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 134796,
+          "totalUsers": 9817
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sweet.tv",
+          "category": "Top 50",
+          "eventCount": 106828,
+          "totalUsers": 37
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hdfilmcehennemi.nl",
+          "category": "电影",
+          "eventCount": 103543,
+          "totalUsers": 36
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xhamster.com",
+          "category": "Top 50",
+          "eventCount": 95251,
+          "totalUsers": 263
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xnxx.com",
+          "category": "Top 50",
+          "eventCount": 93419,
+          "totalUsers": 431
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "videa.hu",
+          "category": "Top 50",
+          "eventCount": 84765,
+          "totalUsers": 5467
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "chaturbate.com",
+          "category": "Top 50",
+          "eventCount": 75748,
+          "totalUsers": 21
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hu.xhamster.com",
+          "category": "Top 50",
+          "eventCount": 74047,
+          "totalUsers": 237
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xvideos.com",
+          "category": "Top 50",
+          "eventCount": 73607,
+          "totalUsers": 327
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "eurovolley.tv",
+          "category": "Top 50",
+          "eventCount": 60185,
+          "totalUsers": 2
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "us-live.tv",
+          "category": "直播",
+          "eventCount": 57170,
+          "totalUsers": 1
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hu.xhamsterlive.com",
+          "category": "直播",
+          "eventCount": 53090,
+          "totalUsers": 20
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "jobbmintatv.pro",
+          "category": "Top 50",
+          "eventCount": 52956,
+          "totalUsers": 1789
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 46788,
+          "totalUsers": 36
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pornhub.com",
+          "category": "Top 50",
+          "eventCount": 46044,
+          "totalUsers": 391
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveland.af",
+          "category": "直播",
+          "eventCount": 41103,
+          "totalUsers": 1
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "eporner.com",
+          "category": "Top 50",
+          "eventCount": 40811,
+          "totalUsers": 87
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mediaklikk.hu",
+          "category": "Top 50",
+          "eventCount": 38447,
+          "totalUsers": 100
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "chaturbate.lat",
+          "category": "Top 50",
+          "eventCount": 32995,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "napiszex.com",
+          "category": "Top 50",
+          "eventCount": 32747,
+          "totalUsers": 244
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tapmad.com",
+          "category": "Top 50",
+          "eventCount": 31151,
+          "totalUsers": 3
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "yetteltv.hu",
+          "category": "Top 50",
+          "eventCount": 25631,
+          "totalUsers": 1
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dnevniki-vampira-vse-serii.rest",
+          "category": "Top 50",
+          "eventCount": 24803,
+          "totalUsers": 1
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "nofeu.com",
+          "category": "Top 50",
+          "eventCount": 24552,
+          "totalUsers": 3
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hockeyslovakia.sk",
+          "category": "Top 50",
+          "eventCount": 22761,
+          "totalUsers": 1
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fr.stripchat.com",
+          "category": "Top 50",
+          "eventCount": 22462,
+          "totalUsers": 1
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jagledam.com",
+          "category": "Top 50",
+          "eventCount": 20490,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "indavideo.hu",
+          "category": "Top 50",
+          "eventCount": 20377,
+          "totalUsers": 796
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "24.yallashoots.fun",
+          "category": "Top 50",
+          "eventCount": 20314,
+          "totalUsers": 1
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "onlinestream.live",
+          "category": "直播",
+          "eventCount": 19525,
+          "totalUsers": 17
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "filminvazio.pro",
+          "category": "电影",
+          "eventCount": 16862,
+          "totalUsers": 459
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "twitch.tv",
+          "category": "直播",
+          "eventCount": 16634,
+          "totalUsers": 18
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.sorozat-barat.info",
+          "category": "Top 50",
+          "eventCount": 16424,
+          "totalUsers": 356
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.xnxx.com",
+          "category": "Top 50",
+          "eventCount": 14527,
+          "totalUsers": 292
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.facebook.com",
+          "category": "Top 50",
+          "eventCount": 13871,
+          "totalUsers": 407
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hu.tubev.sex",
+          "category": "Top 50",
+          "eventCount": 13694,
+          "totalUsers": 46
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cool-tv.net",
+          "category": "Top 50",
+          "eventCount": 13113,
+          "totalUsers": 3
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.xvideos.com",
+          "category": "Top 50",
+          "eventCount": 12675,
+          "totalUsers": 249
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "caracoltv.com",
+          "category": "Top 50",
+          "eventCount": 10480,
+          "totalUsers": 1
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveball.sx",
+          "category": "直播",
+          "eventCount": 10340,
+          "totalUsers": 9
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rtl.hu",
+          "category": "Top 50",
+          "eventCount": 10113,
+          "totalUsers": 16
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hu.fikfapcams.com",
+          "category": "Top 50",
+          "eventCount": 9226,
+          "totalUsers": 4
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "trixxx.hu",
+          "category": "Top 50",
+          "eventCount": 9002,
+          "totalUsers": 47
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pornox.hu",
+          "category": "Top 50",
+          "eventCount": 8781,
+          "totalUsers": 35
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 39,
+          "eventCount": 2850185,
+          "totalUsers": 21616
+        },
+        {
+          "category": "电影",
+          "recordCount": 2,
+          "eventCount": 120405,
+          "totalUsers": 495
+        },
+        {
+          "category": "直播",
+          "recordCount": 8,
+          "eventCount": 535937,
+          "totalUsers": 72
+        },
+        {
+          "category": "运动",
+          "recordCount": 1,
+          "eventCount": 167493,
+          "totalUsers": 150
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ]
+    }
+  ]
+}
