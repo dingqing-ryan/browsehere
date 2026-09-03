@@ -1,0 +1,339 @@
+{
+  "generatedAt": "20260903_054004",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 50,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "JP",
+      "country": "Japan",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "online.familyclub.jp",
+          "category": "Top 50",
+          "eventCount": 2526444,
+          "totalUsers": 838
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "twitcasting.tv",
+          "category": "直播",
+          "eventCount": 517904,
+          "totalUsers": 96
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kick.com",
+          "category": "直播",
+          "eventCount": 475685,
+          "totalUsers": 33
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mainichi.jp",
+          "category": "Top 50",
+          "eventCount": 335357,
+          "totalUsers": 241
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "movie.hanshintigers.jp",
+          "category": "Top 50",
+          "eventCount": 316801,
+          "totalUsers": 195
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sp.gch.jp",
+          "category": "Top 50",
+          "eventCount": 264191,
+          "totalUsers": 60
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "safie.link",
+          "category": "Top 50",
+          "eventCount": 254444,
+          "totalUsers": 3
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mem.ametalk-club.tv-asahi.co.jp",
+          "category": "Top 50",
+          "eventCount": 184942,
+          "totalUsers": 78
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibre.uno",
+          "category": "运动",
+          "eventCount": 176803,
+          "totalUsers": 189
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "javmix.tv",
+          "category": "Top 50",
+          "eventCount": 173712,
+          "totalUsers": 61
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "baseball.mb.softbank.jp",
+          "category": "Top 50",
+          "eventCount": 153350,
+          "totalUsers": 58
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "junmatsumoto.com",
+          "category": "Top 50",
+          "eventCount": 150727,
+          "totalUsers": 45
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "online-ticket.yoshimoto.co.jp",
+          "category": "Top 50",
+          "eventCount": 124947,
+          "totalUsers": 47
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tver.jp",
+          "category": "Top 50",
+          "eventCount": 116416,
+          "totalUsers": 56
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ja.myavlive.com",
+          "category": "Top 50",
+          "eventCount": 114272,
+          "totalUsers": 38
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretvhd.org",
+          "category": "运动",
+          "eventCount": 113535,
+          "totalUsers": 101
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibretv2.online",
+          "category": "运动",
+          "eventCount": 105011,
+          "totalUsers": 12
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "stagecrowd.live",
+          "category": "Top 50",
+          "eventCount": 98390,
+          "totalUsers": 31
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ja.hotzcam.com",
+          "category": "Top 50",
+          "eventCount": 91551,
+          "totalUsers": 8
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.nicovideo.jp",
+          "category": "Top 50",
+          "eventCount": 88066,
+          "totalUsers": 24
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.twitch.tv",
+          "category": "Top 50",
+          "eventCount": 87803,
+          "totalUsers": 10
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 72765,
+          "totalUsers": 5870
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "supjav.com",
+          "category": "Top 50",
+          "eventCount": 72689,
+          "totalUsers": 238
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.giants.jp",
+          "category": "Top 50",
+          "eventCount": 72606,
+          "totalUsers": 66
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ero-video.net",
+          "category": "Top 50",
+          "eventCount": 69785,
+          "totalUsers": 144
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "asahi.com",
+          "category": "Top 50",
+          "eventCount": 67277,
+          "totalUsers": 49
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "7mmtv.sx",
+          "category": "Top 50",
+          "eventCount": 66665,
+          "totalUsers": 52
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.confetti-web.com",
+          "category": "Top 50",
+          "eventCount": 62232,
+          "totalUsers": 6
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "app.hnext.jp",
+          "category": "Top 50",
+          "eventCount": 60031,
+          "totalUsers": 41
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "race.boatcast.jp",
+          "category": "Top 50",
+          "eventCount": 59770,
+          "totalUsers": 16
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "accea.co.jp",
+          "category": "Top 50",
+          "eventCount": 58990,
+          "totalUsers": 18
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vk.sportsbull.jp",
+          "category": "Top 50",
+          "eventCount": 57424,
+          "totalUsers": 146
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "javhdporn.net",
+          "category": "Top 50",
+          "eventCount": 56828,
+          "totalUsers": 22
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 28,
+          "eventCount": 5858475,
+          "totalUsers": 8461
+        },
+        {
+          "category": "电影",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "直播",
+          "recordCount": 2,
+          "eventCount": 993589,
+          "totalUsers": 129
+        },
+        {
+          "category": "运动",
+          "recordCount": 3,
+          "eventCount": 395349,
+          "totalUsers": 302
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 17,
+        "eventCount": 3762634
+      }
+    }
+  ]
+}

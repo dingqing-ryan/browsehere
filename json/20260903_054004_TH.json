@@ -1,0 +1,451 @@
+{
+  "generatedAt": "20260903_054004",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 50,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "TH",
+      "country": "Thailand",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.trueid.net",
+          "category": "Top 50",
+          "eventCount": 1764374,
+          "totalUsers": 572
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dbdnplus.com",
+          "category": "Top 50",
+          "eventCount": 1734528,
+          "totalUsers": 2008
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livescorethai.football",
+          "category": "Top 50",
+          "eventCount": 1157757,
+          "totalUsers": 1699
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xn--b3ctav6b5aat3a6b6d.com",
+          "category": "Top 50",
+          "eventCount": 883918,
+          "totalUsers": 25
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "volleyxall.com",
+          "category": "Top 50",
+          "eventCount": 824741,
+          "totalUsers": 399
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 532913,
+          "totalUsers": 174
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "adintrend.tv",
+          "category": "Top 50",
+          "eventCount": 457992,
+          "totalUsers": 348
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "baball.club",
+          "category": "Top 50",
+          "eventCount": 393150,
+          "totalUsers": 254
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 392278,
+          "totalUsers": 36335
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ball67.com",
+          "category": "Top 50",
+          "eventCount": 373938,
+          "totalUsers": 643
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "u99.micro7878.com",
+          "category": "Top 50",
+          "eventCount": 340432,
+          "totalUsers": 52
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kltratv13.blogspot.com",
+          "category": "运动",
+          "eventCount": 336375,
+          "totalUsers": 60
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "oned.net",
+          "category": "Top 50",
+          "eventCount": 329879,
+          "totalUsers": 547
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "voleylibre.com",
+          "category": "Top 50",
+          "eventCount": 296698,
+          "totalUsers": 57
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "warpdooball.net",
+          "category": "Top 50",
+          "eventCount": 294593,
+          "totalUsers": 266
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "wuachon333.com",
+          "category": "Top 50",
+          "eventCount": 270058,
+          "totalUsers": 8
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "goaldaddythai.info",
+          "category": "Top 50",
+          "eventCount": 241071,
+          "totalUsers": 484
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "edge-1.m-fixer.net",
+          "category": "Top 50",
+          "eventCount": 240899,
+          "totalUsers": 89
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livefootballworldcup.com",
+          "category": "Top 50",
+          "eventCount": 230502,
+          "totalUsers": 130
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "192.168.0.6",
+          "category": "Top 50",
+          "eventCount": 217705,
+          "totalUsers": 2
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lola39.30nqt3mainfkyl16mirror.cfd",
+          "category": "Top 50",
+          "eventCount": 205376,
+          "totalUsers": 75
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "keelalive72.com",
+          "category": "运动",
+          "eventCount": 201794,
+          "totalUsers": 93
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "168dooballl.org",
+          "category": "Top 50",
+          "eventCount": 189439,
+          "totalUsers": 198
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dooball90min.com",
+          "category": "Top 50",
+          "eventCount": 185793,
+          "totalUsers": 157
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-th11.japantvmiru.com",
+          "category": "Top 50",
+          "eventCount": 169053,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socolivep.tv",
+          "category": "Top 50",
+          "eventCount": 165065,
+          "totalUsers": 62
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "edge-2.m-fixer.net",
+          "category": "Top 50",
+          "eventCount": 154897,
+          "totalUsers": 96
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kick.com",
+          "category": "直播",
+          "eventCount": 153354,
+          "totalUsers": 38
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "luckyr.org",
+          "category": "Top 50",
+          "eventCount": 131993,
+          "totalUsers": 7
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.onefc.com",
+          "category": "Top 50",
+          "eventCount": 127278,
+          "totalUsers": 58
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m-fixer.net",
+          "category": "Top 50",
+          "eventCount": 126608,
+          "totalUsers": 72
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "seriedays.com",
+          "category": "Top 50",
+          "eventCount": 126168,
+          "totalUsers": 3011
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "media-hls.doppiocdn.org",
+          "category": "Top 50",
+          "eventCount": 125813,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "goseries4k.com",
+          "category": "Top 50",
+          "eventCount": 125026,
+          "totalUsers": 3564
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.24-hdx.com",
+          "category": "Top 50",
+          "eventCount": 115213,
+          "totalUsers": 5533
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "doball9999.com",
+          "category": "Top 50",
+          "eventCount": 115037,
+          "totalUsers": 278
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "beta.m-fixer.net",
+          "category": "Top 50",
+          "eventCount": 112138,
+          "totalUsers": 77
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "doodii-1.akamomo558.top",
+          "category": "Top 50",
+          "eventCount": 101352,
+          "totalUsers": 95
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ukdevilz.com",
+          "category": "Top 50",
+          "eventCount": 95201,
+          "totalUsers": 572
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "eastmantvv.blogspot.com",
+          "category": "Top 50",
+          "eventCount": 87052,
+          "totalUsers": 41
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "bx-tv.com",
+          "category": "运动",
+          "eventCount": 84338,
+          "totalUsers": 2
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pvl.ph",
+          "category": "运动",
+          "eventCount": 83954,
+          "totalUsers": 109
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "037hddmovies.com",
+          "category": "Top 50",
+          "eventCount": 82648,
+          "totalUsers": 2088
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.123-hdx.com",
+          "category": "Top 50",
+          "eventCount": 82554,
+          "totalUsers": 2858
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ch7.com",
+          "category": "Top 50",
+          "eventCount": 77980,
+          "totalUsers": 73
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "madoball.com",
+          "category": "Top 50",
+          "eventCount": 77736,
+          "totalUsers": 40
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "d10btucg50kagt.cloudfront.net",
+          "category": "Top 50",
+          "eventCount": 77250,
+          "totalUsers": 2
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 42,
+          "eventCount": 13834096,
+          "totalUsers": 63051
+        },
+        {
+          "category": "电影",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "直播",
+          "recordCount": 1,
+          "eventCount": 153354,
+          "totalUsers": 38
+        },
+        {
+          "category": "运动",
+          "recordCount": 4,
+          "eventCount": 706461,
+          "totalUsers": 264
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 3,
+        "eventCount": 327415
+      }
+    }
+  ]
+}

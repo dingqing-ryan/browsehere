@@ -1,0 +1,315 @@
+{
+  "generatedAt": "20260903_054004",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 50,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "MA",
+      "country": "Morocco",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "24.yallashoots.fun",
+          "category": "Top 50",
+          "eventCount": 367434,
+          "totalUsers": 95
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 340270,
+          "totalUsers": 216
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "beinmatch2026.com",
+          "category": "运动",
+          "eventCount": 196273,
+          "totalUsers": 196
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.blogma.sbs",
+          "category": "Top 50",
+          "eventCount": 167452,
+          "totalUsers": 82
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 133936,
+          "totalUsers": 15793
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4score.net",
+          "category": "Top 50",
+          "eventCount": 127197,
+          "totalUsers": 123
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 101321,
+          "totalUsers": 29
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "new.aflam4you.org",
+          "category": "Top 50",
+          "eventCount": 78181,
+          "totalUsers": 20
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "newslive1.homes",
+          "category": "Top 50",
+          "eventCount": 57414,
+          "totalUsers": 92
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go2026.app",
+          "category": "Top 50",
+          "eventCount": 56771,
+          "totalUsers": 70
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.syria-scores.com",
+          "category": "Top 50",
+          "eventCount": 56565,
+          "totalUsers": 23
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "online.hd44.com",
+          "category": "Top 50",
+          "eventCount": 44365,
+          "totalUsers": 7
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kick.com",
+          "category": "直播",
+          "eventCount": 41441,
+          "totalUsers": 65
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strikeout.im",
+          "category": "运动",
+          "eventCount": 39014,
+          "totalUsers": 14
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dagav.com",
+          "category": "直播",
+          "eventCount": 37576,
+          "totalUsers": 1
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "snrtlive.ma",
+          "category": "直播",
+          "eventCount": 36029,
+          "totalUsers": 66
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "newslive.top",
+          "category": "Top 50",
+          "eventCount": 36027,
+          "totalUsers": 74
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "tv10.egydead.live",
+          "category": "Top 50",
+          "eventCount": 32099,
+          "totalUsers": 1145
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "esk.onl",
+          "category": "Top 50",
+          "eventCount": 31974,
+          "totalUsers": 354
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "home.news4last.info",
+          "category": "Top 50",
+          "eventCount": 31793,
+          "totalUsers": 20
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "new.site20260.top",
+          "category": "Top 50",
+          "eventCount": 31268,
+          "totalUsers": 90
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "web.topcinemaa.live",
+          "category": "Top 50",
+          "eventCount": 26432,
+          "totalUsers": 739
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "m.youtube.com",
+          "category": "Top 50",
+          "eventCount": 23061,
+          "totalUsers": 5899
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "web.facebook.com",
+          "category": "Top 50",
+          "eventCount": 22101,
+          "totalUsers": 23
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gametrail.xyz",
+          "category": "Top 50",
+          "eventCount": 20179,
+          "totalUsers": 17
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "3ssila.com",
+          "category": "Top 50",
+          "eventCount": 19680,
+          "totalUsers": 1
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.xnxxvideos.me",
+          "category": "Top 50",
+          "eventCount": 19236,
+          "totalUsers": 524
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.com",
+          "category": "Top 50",
+          "eventCount": 18461,
+          "totalUsers": 49
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "a.q-drama.com",
+          "category": "Top 50",
+          "eventCount": 18323,
+          "totalUsers": 169
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "foutni.com",
+          "category": "电影",
+          "eventCount": 17583,
+          "totalUsers": 70
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 24,
+          "eventCount": 1861540,
+          "totalUsers": 25654
+        },
+        {
+          "category": "电影",
+          "recordCount": 1,
+          "eventCount": 17583,
+          "totalUsers": 70
+        },
+        {
+          "category": "直播",
+          "recordCount": 3,
+          "eventCount": 115046,
+          "totalUsers": 132
+        },
+        {
+          "category": "运动",
+          "recordCount": 2,
+          "eventCount": 235287,
+          "totalUsers": 210
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 20,
+        "eventCount": 1281431
+      }
+    }
+  ]
+}

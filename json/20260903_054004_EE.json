@@ -1,0 +1,419 @@
+{
+  "generatedAt": "20260903_054004",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 50,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "7daysAgo",
+      "endDate": "yesterday"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "EE",
+      "country": "Estonia",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "server1.musical.uz",
+          "category": "Top 50",
+          "eventCount": 148371,
+          "totalUsers": 1
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ritsatv.ru",
+          "category": "Top 50",
+          "eventCount": 130769,
+          "totalUsers": 5
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotret.tv",
+          "category": "新闻",
+          "eventCount": 69792,
+          "totalUsers": 9
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "frv6.sysnet.top",
+          "category": "Top 50",
+          "eventCount": 64803,
+          "totalUsers": 1
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sport.delfi.ee",
+          "category": "Top 50",
+          "eventCount": 64728,
+          "totalUsers": 21
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "otse.err.ee",
+          "category": "Top 50",
+          "eventCount": 60420,
+          "totalUsers": 14
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.err.ee",
+          "category": "Top 50",
+          "eventCount": 54502,
+          "totalUsers": 1
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "widget.ottplayer.tv",
+          "category": "Top 50",
+          "eventCount": 42437,
+          "totalUsers": 1
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotrettv.net",
+          "category": "Top 50",
+          "eventCount": 40626,
+          "totalUsers": 34
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pokaz.me",
+          "category": "Top 50",
+          "eventCount": 34544,
+          "totalUsers": 18
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "telek.top",
+          "category": "Top 50",
+          "eventCount": 32331,
+          "totalUsers": 18
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "analytics.globalreader.eu",
+          "category": "Top 50",
+          "eventCount": 23721,
+          "totalUsers": 1
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "discgolfnetwork.com",
+          "category": "运动",
+          "eventCount": 22504,
+          "totalUsers": 2
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televizo.live",
+          "category": "Top 50",
+          "eventCount": 20027,
+          "totalUsers": 4
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinovibe.cc",
+          "category": "Top 50",
+          "eventCount": 18904,
+          "totalUsers": 19
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "server.musical.uz",
+          "category": "Top 50",
+          "eventCount": 15828,
+          "totalUsers": 2
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveball.sx",
+          "category": "Top 50",
+          "eventCount": 13344,
+          "totalUsers": 8
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jupiter.err.ee",
+          "category": "Top 50",
+          "eventCount": 12872,
+          "totalUsers": 22
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "webplayer.alltv.club",
+          "category": "Top 50",
+          "eventCount": 11752,
+          "totalUsers": 1
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jupiterpluss.err.ee",
+          "category": "Top 50",
+          "eventCount": 11052,
+          "totalUsers": 4
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televizor24.tv",
+          "category": "Top 50",
+          "eventCount": 10893,
+          "totalUsers": 3
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "rezka.ag",
+          "category": "Top 50",
+          "eventCount": 8922,
+          "totalUsers": 530
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rezka.ag",
+          "category": "Top 50",
+          "eventCount": 8004,
+          "totalUsers": 425
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 7974,
+          "totalUsers": 993
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotru.tv",
+          "category": "Top 50",
+          "eventCount": 7544,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "punchi.tv",
+          "category": "直播",
+          "eventCount": 7161,
+          "totalUsers": 2
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ontvtime.ru",
+          "category": "Top 50",
+          "eventCount": 5081,
+          "totalUsers": 5
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ridomovies.su",
+          "category": "Top 50",
+          "eventCount": 4869,
+          "totalUsers": 1
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "twitch.tv",
+          "category": "Top 50",
+          "eventCount": 4824,
+          "totalUsers": 2
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotret-online.tv",
+          "category": "Top 50",
+          "eventCount": 4761,
+          "totalUsers": 1
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "russkoetv.top",
+          "category": "Top 50",
+          "eventCount": 4017,
+          "totalUsers": 1
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "uefa.com",
+          "category": "Top 50",
+          "eventCount": 3961,
+          "totalUsers": 3
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livetv.sx",
+          "category": "新闻",
+          "eventCount": 3941,
+          "totalUsers": 8
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotret-tv.top",
+          "category": "新闻",
+          "eventCount": 3619,
+          "totalUsers": 2
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "worldrowing.com",
+          "category": "Top 50",
+          "eventCount": 3554,
+          "totalUsers": 1
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "eurovolley.tv",
+          "category": "直播",
+          "eventCount": 2784,
+          "totalUsers": 1
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "192.168.1.113",
+          "category": "Top 50",
+          "eventCount": 2589,
+          "totalUsers": 1
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "r2.err.ee",
+          "category": "Top 50",
+          "eventCount": 2534,
+          "totalUsers": 2
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tvkaista.org",
+          "category": "Top 50",
+          "eventCount": 2514,
+          "totalUsers": 4
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mobile.bravoporn.com",
+          "category": "Top 50",
+          "eventCount": 2395,
+          "totalUsers": 2
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vctly.com",
+          "category": "Top 50",
+          "eventCount": 2327,
+          "totalUsers": 2
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pph.player-us.xyz",
+          "category": "Top 50",
+          "eventCount": 2307,
+          "totalUsers": 1
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "telik.top",
+          "category": "Top 50",
+          "eventCount": 2241,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 37,
+          "eventCount": 892342,
+          "totalUsers": 2154
+        },
+        {
+          "category": "电影",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "直播",
+          "recordCount": 2,
+          "eventCount": 9945,
+          "totalUsers": 3
+        },
+        {
+          "category": "运动",
+          "recordCount": 1,
+          "eventCount": 22504,
+          "totalUsers": 2
+        },
+        {
+          "category": "新闻",
+          "recordCount": 3,
+          "eventCount": 77352,
+          "totalUsers": 19
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 7,
+        "eventCount": 70957
+      }
+    }
+  ]
+}
