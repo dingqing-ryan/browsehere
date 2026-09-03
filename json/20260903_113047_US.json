@@ -1,0 +1,643 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "US",
+      "country": "United States",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "movieboxpro.app",
+          "category": "电影",
+          "eventCount": 897492,
+          "totalUsers": 253
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "usnewson.com",
+          "category": "新闻",
+          "eventCount": 890405,
+          "totalUsers": 145
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "bassmaster.com",
+          "category": "Top 50",
+          "eventCount": 760622,
+          "totalUsers": 103
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretvhd.org",
+          "category": "运动",
+          "eventCount": 691348,
+          "totalUsers": 346
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dulo.gd",
+          "category": "电影",
+          "eventCount": 566788,
+          "totalUsers": 143
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ridomovies.su",
+          "category": "电影",
+          "eventCount": 525737,
+          "totalUsers": 180
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strikeout.im",
+          "category": "运动",
+          "eventCount": 468496,
+          "totalUsers": 112
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.sx",
+          "category": "运动",
+          "eventCount": 467679,
+          "totalUsers": 231
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fawanews.sc",
+          "category": "新闻",
+          "eventCount": 362395,
+          "totalUsers": 101
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "v2.streameast.ga",
+          "category": "运动",
+          "eventCount": 350847,
+          "totalUsers": 386
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibre.uno",
+          "category": "运动",
+          "eventCount": 314317,
+          "totalUsers": 208
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mlb24all.ir",
+          "category": "运动",
+          "eventCount": 306005,
+          "totalUsers": 119
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 304692,
+          "totalUsers": 26234
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kick.com",
+          "category": "直播",
+          "eventCount": 255897,
+          "totalUsers": 88
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "streamseast.ws",
+          "category": "运动",
+          "eventCount": 250519,
+          "totalUsers": 327
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mlbwebcast.com",
+          "category": "运动",
+          "eventCount": 231911,
+          "totalUsers": 262
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tubitv.com",
+          "category": "电影",
+          "eventCount": 222660,
+          "totalUsers": 121
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "alexjoneslive.com",
+          "category": "新闻",
+          "eventCount": 214067,
+          "totalUsers": 12
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "thetvapps.net",
+          "category": "直播",
+          "eventCount": 212662,
+          "totalUsers": 187
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "watchmarquee.com",
+          "category": "电影",
+          "eventCount": 211374,
+          "totalUsers": 51
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "twitch.tv",
+          "category": "直播",
+          "eventCount": 198703,
+          "totalUsers": 85
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dlstreams.st",
+          "category": "运动",
+          "eventCount": 170564,
+          "totalUsers": 82
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.twitch.tv",
+          "category": "直播",
+          "eventCount": 165310,
+          "totalUsers": 35
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dulo.cx",
+          "category": "电影",
+          "eventCount": 163547,
+          "totalUsers": 134
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vimeo.com",
+          "category": "Top 50",
+          "eventCount": 156586,
+          "totalUsers": 82
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "webcast.noi.org",
+          "category": "直播",
+          "eventCount": 149279,
+          "totalUsers": 13
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "colorvision.com.do",
+          "category": "直播",
+          "eventCount": 143669,
+          "totalUsers": 4
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibrepro.pe",
+          "category": "运动",
+          "eventCount": 140370,
+          "totalUsers": 51
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 139847,
+          "totalUsers": 44
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mlbbox.me",
+          "category": "运动",
+          "eventCount": 138737,
+          "totalUsers": 31
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "uzzu.tv",
+          "category": "直播",
+          "eventCount": 133710,
+          "totalUsers": 38
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "telewebion.net",
+          "category": "直播",
+          "eventCount": 129701,
+          "totalUsers": 20
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tennischannel.com",
+          "category": "运动",
+          "eventCount": 126007,
+          "totalUsers": 5
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipbox.fm",
+          "category": "运动",
+          "eventCount": 122273,
+          "totalUsers": 37
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "video.masnsports.com",
+          "category": "运动",
+          "eventCount": 119434,
+          "totalUsers": 20
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "drogon.tv",
+          "category": "直播",
+          "eventCount": 117139,
+          "totalUsers": 51
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "youjizz.com",
+          "category": "Top 50",
+          "eventCount": 114472,
+          "totalUsers": 569
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbolparatodos.st",
+          "category": "运动",
+          "eventCount": 114094,
+          "totalUsers": 38
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojablog.pl",
+          "category": "运动",
+          "eventCount": 110884,
+          "totalUsers": 51
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "my-s3-bucket.s3.us-west-1.amazonaws.com",
+          "category": "Top 50",
+          "eventCount": 109309,
+          "totalUsers": 1
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pluto.tv",
+          "category": "直播",
+          "eventCount": 108645,
+          "totalUsers": 84
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xyzstreams.st",
+          "category": "Top 50",
+          "eventCount": 105994,
+          "totalUsers": 47
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 104563,
+          "totalUsers": 45
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "wnttv.com",
+          "category": "直播",
+          "eventCount": 100322,
+          "totalUsers": 24
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "surfchex.com",
+          "category": "Top 50",
+          "eventCount": 100075,
+          "totalUsers": 10
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotaalibre.la",
+          "category": "运动",
+          "eventCount": 99983,
+          "totalUsers": 64
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojatv.ad",
+          "category": "运动",
+          "eventCount": 95768,
+          "totalUsers": 31
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fan.hudl.com",
+          "category": "运动",
+          "eventCount": 93490,
+          "totalUsers": 139
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dailypudding.com",
+          "category": "Top 50",
+          "eventCount": 92709,
+          "totalUsers": 77
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetaroja.my",
+          "category": "运动",
+          "eventCount": 91704,
+          "totalUsers": 70
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "turk-flix.xyz",
+          "category": "电影",
+          "eventCount": 90680,
+          "totalUsers": 2
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "thezeusnetwork.com",
+          "category": "电影",
+          "eventCount": 88708,
+          "totalUsers": 59
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectamas.com",
+          "category": "运动",
+          "eventCount": 87551,
+          "totalUsers": 68
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "streamed.pk",
+          "category": "运动",
+          "eventCount": 83146,
+          "totalUsers": 81
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pickleballtv.com",
+          "category": "运动",
+          "eventCount": 82325,
+          "totalUsers": 17
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "golazoz.com",
+          "category": "运动",
+          "eventCount": 81888,
+          "totalUsers": 36
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipleague.vg",
+          "category": "运动",
+          "eventCount": 77635,
+          "totalUsers": 33
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "multicanaishd.church",
+          "category": "运动",
+          "eventCount": 77345,
+          "totalUsers": 12
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hdfilmcehennemi.nl",
+          "category": "电影",
+          "eventCount": 76238,
+          "totalUsers": 42
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "tnslc.computalogic.com",
+          "category": "Top 50",
+          "eventCount": 75163,
+          "totalUsers": 3
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "app.seminariocreandoriqueza.com",
+          "category": "Top 50",
+          "eventCount": 73291,
+          "totalUsers": 1
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "timstreams.st",
+          "category": "直播",
+          "eventCount": 72528,
+          "totalUsers": 58
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "nufu.tv",
+          "category": "运动",
+          "eventCount": 71520,
+          "totalUsers": 9
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "en.luxuretv.com",
+          "category": "直播",
+          "eventCount": 70750,
+          "totalUsers": 157
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "amazon.com",
+          "category": "Top 50",
+          "eventCount": 69649,
+          "totalUsers": 184
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "roxiestreams.su",
+          "category": "直播",
+          "eventCount": 69401,
+          "totalUsers": 33
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go2026.app",
+          "category": "运动",
+          "eventCount": 67771,
+          "totalUsers": 21
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "westernmedia.tv",
+          "category": "直播",
+          "eventCount": 65107,
+          "totalUsers": 3
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "reddit.com",
+          "category": "Top 50",
+          "eventCount": 64737,
+          "totalUsers": 295
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "famelack.com",
+          "category": "Top 50",
+          "eventCount": 62787,
+          "totalUsers": 69
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mut.st",
+          "category": "运动",
+          "eventCount": 62610,
+          "totalUsers": 7
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 15,
+          "eventCount": 2334496,
+          "totalUsers": 27764
+        },
+        {
+          "category": "电影",
+          "recordCount": 9,
+          "eventCount": 2843224,
+          "totalUsers": 985
+        },
+        {
+          "category": "直播",
+          "recordCount": 15,
+          "eventCount": 1992823,
+          "totalUsers": 880
+        },
+        {
+          "category": "运动",
+          "recordCount": 29,
+          "eventCount": 5196221,
+          "totalUsers": 2894
+        },
+        {
+          "category": "新闻",
+          "recordCount": 3,
+          "eventCount": 1466867,
+          "totalUsers": 258
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 29,
+        "eventCount": 10241221
+      }
+    }
+  ]
+}

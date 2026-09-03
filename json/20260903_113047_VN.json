@@ -1,0 +1,763 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "VN",
+      "country": "Vietnam",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilacxxa.tv",
+          "category": "运动",
+          "eventCount": 5239663,
+          "totalUsers": 5729
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilacxtq.tv",
+          "category": "运动",
+          "eventCount": 1297566,
+          "totalUsers": 2134
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "phaohoa1.live",
+          "category": "直播",
+          "eventCount": 1271430,
+          "totalUsers": 474
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilac365.fun",
+          "category": "运动",
+          "eventCount": 1102537,
+          "totalUsers": 1708
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 961592,
+          "totalUsers": 79326
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tieulamtv1.vip",
+          "category": "直播",
+          "eventCount": 621416,
+          "totalUsers": 120
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socolivep.tv",
+          "category": "运动",
+          "eventCount": 607065,
+          "totalUsers": 326
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilacxxb.tv",
+          "category": "运动",
+          "eventCount": 554573,
+          "totalUsers": 786
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gacam67c.name",
+          "category": "Top 50",
+          "eventCount": 506332,
+          "totalUsers": 80
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dagatructiep.best",
+          "category": "运动",
+          "eventCount": 474865,
+          "totalUsers": 195
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gacam67d.name",
+          "category": "Top 50",
+          "eventCount": 467087,
+          "totalUsers": 53
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vtvgo.vn",
+          "category": "直播",
+          "eventCount": 462047,
+          "totalUsers": 723
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 452683,
+          "totalUsers": 379
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sutbongtvm.io",
+          "category": "直播",
+          "eventCount": 407933,
+          "totalUsers": 235
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live05.meung.app",
+          "category": "直播",
+          "eventCount": 353320,
+          "totalUsers": 40
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilacxtg.tv",
+          "category": "运动",
+          "eventCount": 326928,
+          "totalUsers": 480
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "keeyo.io",
+          "category": "Top 50",
+          "eventCount": 304169,
+          "totalUsers": 170
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.sutbongtv.com",
+          "category": "直播",
+          "eventCount": 287559,
+          "totalUsers": 114
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "thomono1.com",
+          "category": "Top 50",
+          "eventCount": 280152,
+          "totalUsers": 78
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vieon.vn",
+          "category": "电影",
+          "eventCount": 259731,
+          "totalUsers": 285
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "thvli.vn",
+          "category": "直播",
+          "eventCount": 256720,
+          "totalUsers": 193
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dagatructiep88b.bond",
+          "category": "运动",
+          "eventCount": 243937,
+          "totalUsers": 50
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gdatc.io",
+          "category": "Top 50",
+          "eventCount": 243540,
+          "totalUsers": 267
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gavangtvvh.com",
+          "category": "直播",
+          "eventCount": 240233,
+          "totalUsers": 276
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "webga88f.pro",
+          "category": "运动",
+          "eventCount": 233689,
+          "totalUsers": 35
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilaczan.tv",
+          "category": "运动",
+          "eventCount": 229802,
+          "totalUsers": 333
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "mian.ftech.ltd",
+          "category": "Top 50",
+          "eventCount": 225821,
+          "totalUsers": 52
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv360.vn",
+          "category": "直播",
+          "eventCount": 216848,
+          "totalUsers": 227
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "colatv77.live",
+          "category": "直播",
+          "eventCount": 205662,
+          "totalUsers": 319
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socoliveq.tv",
+          "category": "运动",
+          "eventCount": 196665,
+          "totalUsers": 154
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "everwaters.io",
+          "category": "Top 50",
+          "eventCount": 195763,
+          "totalUsers": 321
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "deficoins.io",
+          "category": "Top 50",
+          "eventCount": 195206,
+          "totalUsers": 411
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "belovedeverything.com",
+          "category": "Top 50",
+          "eventCount": 192577,
+          "totalUsers": 291
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gavang33.uk",
+          "category": "直播",
+          "eventCount": 192118,
+          "totalUsers": 82
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "megaplay.io",
+          "category": "直播",
+          "eventCount": 187846,
+          "totalUsers": 213
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilacxtv.tv",
+          "category": "运动",
+          "eventCount": 182460,
+          "totalUsers": 313
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "90phutzs.tv",
+          "category": "运动",
+          "eventCount": 181345,
+          "totalUsers": 338
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "90phutzi.tv",
+          "category": "运动",
+          "eventCount": 175515,
+          "totalUsers": 208
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "internetforum.io",
+          "category": "Top 50",
+          "eventCount": 161204,
+          "totalUsers": 183
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gacam67b.name",
+          "category": "Top 50",
+          "eventCount": 160852,
+          "totalUsers": 48
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cakhiatv.rent",
+          "category": "运动",
+          "eventCount": 146466,
+          "totalUsers": 112
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "splatoon.io",
+          "category": "Top 50",
+          "eventCount": 140184,
+          "totalUsers": 184
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cakhiazvo.tv",
+          "category": "运动",
+          "eventCount": 140095,
+          "totalUsers": 251
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hintchain.io",
+          "category": "Top 50",
+          "eventCount": 137172,
+          "totalUsers": 194
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "anthropos.io",
+          "category": "Top 50",
+          "eventCount": 132991,
+          "totalUsers": 241
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sutbongtvj.io",
+          "category": "直播",
+          "eventCount": 131384,
+          "totalUsers": 187
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilaczag.tv",
+          "category": "运动",
+          "eventCount": 131303,
+          "totalUsers": 114
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tieulamtv3.xyz",
+          "category": "直播",
+          "eventCount": 124450,
+          "totalUsers": 38
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socolive.cool",
+          "category": "运动",
+          "eventCount": 122718,
+          "totalUsers": 50
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pull.niues.live",
+          "category": "直播",
+          "eventCount": 116046,
+          "totalUsers": 14
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "giovang.city",
+          "category": "Top 50",
+          "eventCount": 114697,
+          "totalUsers": 26
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socolive9.io",
+          "category": "运动",
+          "eventCount": 114454,
+          "totalUsers": 74
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "giovang.life",
+          "category": "Top 50",
+          "eventCount": 110182,
+          "totalUsers": 109
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apps.apple.com",
+          "category": "Top 50",
+          "eventCount": 108348,
+          "totalUsers": 1274
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "cmsecom.tgss.vn",
+          "category": "Top 50",
+          "eventCount": 107380,
+          "totalUsers": 1
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "mian-may.ftech.ltd",
+          "category": "Top 50",
+          "eventCount": 105684,
+          "totalUsers": 30
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "90phutzo.tv",
+          "category": "运动",
+          "eventCount": 104639,
+          "totalUsers": 235
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dagatructiep88a.bond",
+          "category": "运动",
+          "eventCount": 104334,
+          "totalUsers": 27
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "codedata.io",
+          "category": "Top 50",
+          "eventCount": 101316,
+          "totalUsers": 117
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tejashwi.io",
+          "category": "Top 50",
+          "eventCount": 100922,
+          "totalUsers": 130
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cola-affcup2026.tv",
+          "category": "运动",
+          "eventCount": 96938,
+          "totalUsers": 71
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sutbongtvi.io",
+          "category": "直播",
+          "eventCount": 96916,
+          "totalUsers": 62
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xoilacvvp.tv",
+          "category": "运动",
+          "eventCount": 95554,
+          "totalUsers": 137
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.facebook.com",
+          "category": "Top 50",
+          "eventCount": 91894,
+          "totalUsers": 6939
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "heovl.im",
+          "category": "电影",
+          "eventCount": 91055,
+          "totalUsers": 2379
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "webga88e.pro",
+          "category": "运动",
+          "eventCount": 88759,
+          "totalUsers": 17
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cakhiazvn.tv",
+          "category": "运动",
+          "eventCount": 88363,
+          "totalUsers": 143
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "luongsontvva.com",
+          "category": "运动",
+          "eventCount": 87105,
+          "totalUsers": 116
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pull.niur.live",
+          "category": "直播",
+          "eventCount": 85752,
+          "totalUsers": 13
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sutbongtv.vin",
+          "category": "直播",
+          "eventCount": 85648,
+          "totalUsers": 36
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cakhiatv.actor",
+          "category": "运动",
+          "eventCount": 80631,
+          "totalUsers": 74
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "luongson.now",
+          "category": "运动",
+          "eventCount": 80280,
+          "totalUsers": 66
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vn2c.my",
+          "category": "Top 50",
+          "eventCount": 77136,
+          "totalUsers": 816
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socolivedo.top",
+          "category": "运动",
+          "eventCount": 76025,
+          "totalUsers": 38
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "officialmetafox.io",
+          "category": "运动",
+          "eventCount": 74686,
+          "totalUsers": 69
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "visionaryrising.agency",
+          "category": "Top 50",
+          "eventCount": 72935,
+          "totalUsers": 70
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livewater.bio",
+          "category": "Top 50",
+          "eventCount": 69298,
+          "totalUsers": 33
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hoopdex.io",
+          "category": "运动",
+          "eventCount": 68143,
+          "totalUsers": 20
+        },
+        {
+          "rank": 79,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "socolivezzyy.cc",
+          "category": "运动",
+          "eventCount": 68122,
+          "totalUsers": 122
+        },
+        {
+          "rank": 80,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dagatructiep88c.bond",
+          "category": "运动",
+          "eventCount": 66758,
+          "totalUsers": 21
+        },
+        {
+          "rank": 81,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sutbongtvl.io",
+          "category": "直播",
+          "eventCount": 66571,
+          "totalUsers": 29
+        },
+        {
+          "rank": 82,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.linkbong66.live",
+          "category": "运动",
+          "eventCount": 64795,
+          "totalUsers": 5
+        },
+        {
+          "rank": 83,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ilmercatodirobinhood.io",
+          "category": "Top 50",
+          "eventCount": 64623,
+          "totalUsers": 97
+        },
+        {
+          "rank": 84,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tieulamtva.com",
+          "category": "直播",
+          "eventCount": 63366,
+          "totalUsers": 69
+        },
+        {
+          "rank": 85,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "nv9l.com",
+          "category": "运动",
+          "eventCount": 62821,
+          "totalUsers": 41
+        },
+        {
+          "rank": 86,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "onflix.lat",
+          "category": "电影",
+          "eventCount": 62787,
+          "totalUsers": 158
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 28,
+          "eventCount": 5881740,
+          "totalUsers": 91920
+        },
+        {
+          "category": "电影",
+          "recordCount": 3,
+          "eventCount": 413573,
+          "totalUsers": 2822
+        },
+        {
+          "category": "直播",
+          "recordCount": 20,
+          "eventCount": 5473265,
+          "totalUsers": 3464
+        },
+        {
+          "category": "运动",
+          "recordCount": 35,
+          "eventCount": 13009599,
+          "totalUsers": 14592
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 14,
+        "eventCount": 2354102
+      }
+    }
+  ]
+}

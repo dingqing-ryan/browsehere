@@ -1,0 +1,739 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "NA",
+      "country": "Namibia",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.com",
+          "category": "Top 50",
+          "eventCount": 54592,
+          "totalUsers": 27
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "s6.hopslan.com",
+          "category": "Top 50",
+          "eventCount": 40133,
+          "totalUsers": 1
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 35945,
+          "totalUsers": 6
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fawanews.sc",
+          "category": "新闻",
+          "eventCount": 33349,
+          "totalUsers": 9
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strip.chat",
+          "category": "Top 50",
+          "eventCount": 29167,
+          "totalUsers": 3
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rugbybox.me",
+          "category": "运动",
+          "eventCount": 24112,
+          "totalUsers": 9
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go2026.app",
+          "category": "运动",
+          "eventCount": 24034,
+          "totalUsers": 7
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 21193,
+          "totalUsers": 1821
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.fers4-1.fna.fbcdn.net",
+          "category": "Top 50",
+          "eventCount": 16290,
+          "totalUsers": 1
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "808ball15.com",
+          "category": "运动",
+          "eventCount": 15724,
+          "totalUsers": 13
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipbox.fm",
+          "category": "运动",
+          "eventCount": 15504,
+          "totalUsers": 3
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "2ix2.com",
+          "category": "直播",
+          "eventCount": 15500,
+          "totalUsers": 1
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.fers2-1.fna.fbcdn.net",
+          "category": "Top 50",
+          "eventCount": 14773,
+          "totalUsers": 2
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ridomovies.su",
+          "category": "电影",
+          "eventCount": 11750,
+          "totalUsers": 2
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.fers3-1.fna.fbcdn.net",
+          "category": "Top 50",
+          "eventCount": 11374,
+          "totalUsers": 2
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strikeout.im",
+          "category": "运动",
+          "eventCount": 7709,
+          "totalUsers": 4
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "score808live.tv",
+          "category": "运动",
+          "eventCount": 7666,
+          "totalUsers": 83
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futebolgratis.org",
+          "category": "运动",
+          "eventCount": 7636,
+          "totalUsers": 1
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "camel1.tv",
+          "category": "电影",
+          "eventCount": 7491,
+          "totalUsers": 8
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "soccertvstream.com",
+          "category": "运动",
+          "eventCount": 7408,
+          "totalUsers": 46
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.instagram.com",
+          "category": "Top 50",
+          "eventCount": 7262,
+          "totalUsers": 395
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ww1.goojara.to",
+          "category": "电影",
+          "eventCount": 7063,
+          "totalUsers": 305
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apps.apple.com",
+          "category": "Top 50",
+          "eventCount": 5701,
+          "totalUsers": 109
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "omaisregional.com",
+          "category": "新闻",
+          "eventCount": 5597,
+          "totalUsers": 1
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ww1.goojara.to",
+          "category": "电影",
+          "eventCount": 5342,
+          "totalUsers": 169
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "soccertvhdlive.com",
+          "category": "运动",
+          "eventCount": 4909,
+          "totalUsers": 57
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sportslive.wine",
+          "category": "运动",
+          "eventCount": 4886,
+          "totalUsers": 6
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futemax.deal",
+          "category": "运动",
+          "eventCount": 4247,
+          "totalUsers": 2
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipboxi.net",
+          "category": "运动",
+          "eventCount": 4013,
+          "totalUsers": 6
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 3997,
+          "totalUsers": 7
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4score.net",
+          "category": "运动",
+          "eventCount": 3851,
+          "totalUsers": 4
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tigoals235.com",
+          "category": "运动",
+          "eventCount": 3452,
+          "totalUsers": 1
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "boxingbox.me",
+          "category": "运动",
+          "eventCount": 2885,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livetv903.me",
+          "category": "直播",
+          "eventCount": 2426,
+          "totalUsers": 2
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "castlebet.com.na",
+          "category": "Top 50",
+          "eventCount": 2342,
+          "totalUsers": 27
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.lookmovie2.to",
+          "category": "电影",
+          "eventCount": 2123,
+          "totalUsers": 91
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ww8.123moviesfree.net",
+          "category": "电影",
+          "eventCount": 2106,
+          "totalUsers": 71
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ww8.123moviesfree.net",
+          "category": "电影",
+          "eventCount": 2009,
+          "totalUsers": 91
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "finance.kooorazoom.net",
+          "category": "新闻",
+          "eventCount": 1973,
+          "totalUsers": 2
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "soccerbox.me",
+          "category": "运动",
+          "eventCount": 1839,
+          "totalUsers": 1
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lalisccor.cachefly.net",
+          "category": "直播",
+          "eventCount": 1792,
+          "totalUsers": 2
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hitcast.st",
+          "category": "直播",
+          "eventCount": 1270,
+          "totalUsers": 2
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.score808live.tv",
+          "category": "运动",
+          "eventCount": 1262,
+          "totalUsers": 86
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "themoviebox.xyz",
+          "category": "电影",
+          "eventCount": 1202,
+          "totalUsers": 120
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live5.totalsportekhd.st",
+          "category": "运动",
+          "eventCount": 1039,
+          "totalUsers": 1
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "13o.net",
+          "category": "电影",
+          "eventCount": 981,
+          "totalUsers": 21
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "freestreamingwebsites.xyz",
+          "category": "直播",
+          "eventCount": 967,
+          "totalUsers": 124
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "opturspapa.xyz",
+          "category": "Top 50",
+          "eventCount": 945,
+          "totalUsers": 1
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "yomi.to",
+          "category": "电影",
+          "eventCount": 942,
+          "totalUsers": 3
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "watch.oneafrica.tv",
+          "category": "直播",
+          "eventCount": 924,
+          "totalUsers": 5
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "movie-box.tv",
+          "category": "电影",
+          "eventCount": 889,
+          "totalUsers": 41
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "streamseast.ws",
+          "category": "运动",
+          "eventCount": 856,
+          "totalUsers": 1
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipstand.is",
+          "category": "运动",
+          "eventCount": 845,
+          "totalUsers": 1
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "librefutbol.com.pe",
+          "category": "运动",
+          "eventCount": 838,
+          "totalUsers": 1
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "remlegg.cachefly.net",
+          "category": "直播",
+          "eventCount": 816,
+          "totalUsers": 1
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futemax.flights",
+          "category": "运动",
+          "eventCount": 809,
+          "totalUsers": 3
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hianime.ms",
+          "category": "电影",
+          "eventCount": 765,
+          "totalUsers": 1
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.soccertvhdlive.com",
+          "category": "运动",
+          "eventCount": 741,
+          "totalUsers": 48
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "nofeu.com",
+          "category": "Top 50",
+          "eventCount": 664,
+          "totalUsers": 9
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "praseer.cachefly.net",
+          "category": "直播",
+          "eventCount": 662,
+          "totalUsers": 1
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lookmovie2.to",
+          "category": "电影",
+          "eventCount": 648,
+          "totalUsers": 66
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveleagues.me",
+          "category": "运动",
+          "eventCount": 644,
+          "totalUsers": 1
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live3.totalsportekhd.st",
+          "category": "运动",
+          "eventCount": 627,
+          "totalUsers": 2
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-match.live",
+          "category": "运动",
+          "eventCount": 626,
+          "totalUsers": 1
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "serspuurg.cachefly.net",
+          "category": "Top 50",
+          "eventCount": 622,
+          "totalUsers": 1
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "themoviebox.xyz",
+          "category": "电影",
+          "eventCount": 610,
+          "totalUsers": 55
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.sx",
+          "category": "运动",
+          "eventCount": 598,
+          "totalUsers": 2
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.facebook.com",
+          "category": "Top 50",
+          "eventCount": 597,
+          "totalUsers": 61
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ayhal.com",
+          "category": "Top 50",
+          "eventCount": 575,
+          "totalUsers": 17
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cinejoy.to",
+          "category": "电影",
+          "eventCount": 554,
+          "totalUsers": 13
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "officialmoviebox.com",
+          "category": "电影",
+          "eventCount": 535,
+          "totalUsers": 3
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.soccertvstream.com",
+          "category": "运动",
+          "eventCount": 519,
+          "totalUsers": 41
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live4.totalsportekhd.st",
+          "category": "运动",
+          "eventCount": 514,
+          "totalUsers": 1
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sports247.ru",
+          "category": "运动",
+          "eventCount": 477,
+          "totalUsers": 1
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "movies2watch.vc",
+          "category": "电影",
+          "eventCount": 414,
+          "totalUsers": 5
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "myflixerfree.to",
+          "category": "电影",
+          "eventCount": 412,
+          "totalUsers": 10
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livetv.sx",
+          "category": "直播",
+          "eventCount": 407,
+          "totalUsers": 3
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "anikoto.cz",
+          "category": "电影",
+          "eventCount": 399,
+          "totalUsers": 5
+        },
+        {
+          "rank": 79,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "o2tvseries4u.com",
+          "category": "电影",
+          "eventCount": 395,
+          "totalUsers": 3
+        },
+        {
+          "rank": 80,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sportzfy.me",
+          "category": "运动",
+          "eventCount": 387,
+          "totalUsers": 1
+        },
+        {
+          "rank": 81,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "m.youtube.com",
+          "category": "直播",
+          "eventCount": 384,
+          "totalUsers": 151
+        },
+        {
+          "rank": 82,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apps.microsoft.com",
+          "category": "Top 50",
+          "eventCount": 382,
+          "totalUsers": 1
+        },
+        {
+          "rank": 83,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smlbn.cyou",
+          "category": "Top 50",
+          "eventCount": 373,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 19,
+          "eventCount": 246927,
+          "totalUsers": 2492
+        },
+        {
+          "category": "电影",
+          "recordCount": 20,
+          "eventCount": 46630,
+          "totalUsers": 1083
+        },
+        {
+          "category": "直播",
+          "recordCount": 10,
+          "eventCount": 25148,
+          "totalUsers": 292
+        },
+        {
+          "category": "运动",
+          "recordCount": 31,
+          "eventCount": 150657,
+          "totalUsers": 435
+        },
+        {
+          "category": "新闻",
+          "recordCount": 3,
+          "eventCount": 40919,
+          "totalUsers": 12
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 17,
+        "eventCount": 116211
+      }
+    }
+  ]
+}

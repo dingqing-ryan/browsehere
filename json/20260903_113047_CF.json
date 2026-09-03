@@ -1,0 +1,171 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "CF",
+      "country": "Central African Republic",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "egybesst.quest",
+          "category": "运动",
+          "eventCount": 28,
+          "totalUsers": 1
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "anime-sama.to",
+          "category": "电影",
+          "eventCount": 18,
+          "totalUsers": 1
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "hd.vio-la.com",
+          "category": "电影",
+          "eventCount": 11,
+          "totalUsers": 1
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 6,
+          "totalUsers": 1
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "laaroza.cyou",
+          "category": "电影",
+          "eventCount": 5,
+          "totalUsers": 1
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hd.vio-la.com",
+          "category": "电影",
+          "eventCount": 4,
+          "totalUsers": 1
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "laaroza.pics",
+          "category": "电影",
+          "eventCount": 4,
+          "totalUsers": 1
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "egybesst.quest",
+          "category": "运动",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "laaroza.cyou",
+          "category": "电影",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "laaroza.pics",
+          "category": "电影",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "cool-tv.net",
+          "category": "直播",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cool-tv.net",
+          "category": "直播",
+          "eventCount": 1,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 1,
+          "eventCount": 6,
+          "totalUsers": 1
+        },
+        {
+          "category": "电影",
+          "recordCount": 7,
+          "eventCount": 46,
+          "totalUsers": 7
+        },
+        {
+          "category": "直播",
+          "recordCount": 2,
+          "eventCount": 2,
+          "totalUsers": 2
+        },
+        {
+          "category": "运动",
+          "recordCount": 2,
+          "eventCount": 31,
+          "totalUsers": 2
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 10,
+        "eventCount": 3066
+      }
+    }
+  ]
+}

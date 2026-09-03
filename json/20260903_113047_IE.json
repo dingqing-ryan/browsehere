@@ -1,0 +1,771 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "IE",
+      "country": "Ireland",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "emigrantas.tv",
+          "category": "直播",
+          "eventCount": 145456,
+          "totalUsers": 11
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "s.viks.tv",
+          "category": "直播",
+          "eventCount": 136561,
+          "totalUsers": 1
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "31013.emigra.tv",
+          "category": "直播",
+          "eventCount": 98089,
+          "totalUsers": 1
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ss.pokaz.me",
+          "category": "直播",
+          "eventCount": 97042,
+          "totalUsers": 1
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "latvijas.tv",
+          "category": "直播",
+          "eventCount": 96171,
+          "totalUsers": 5
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "52f97.emigra.tv",
+          "category": "直播",
+          "eventCount": 80360,
+          "totalUsers": 1
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "54627.emigra.tv",
+          "category": "直播",
+          "eventCount": 48082,
+          "totalUsers": 1
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "online.ppltv.tv",
+          "category": "直播",
+          "eventCount": 44345,
+          "totalUsers": 1
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "galway.streamsport.ie",
+          "category": "运动",
+          "eventCount": 44123,
+          "totalUsers": 1
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "75e70.emigr.tv",
+          "category": "直播",
+          "eventCount": 41108,
+          "totalUsers": 1
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fawanews.sc",
+          "category": "新闻",
+          "eventCount": 37679,
+          "totalUsers": 17
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "1d345.emigra.tv",
+          "category": "直播",
+          "eventCount": 34978,
+          "totalUsers": 1
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "honbox.homeofnollywood.com",
+          "category": "电影",
+          "eventCount": 34508,
+          "totalUsers": 1
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "37c73.emigra.tv",
+          "category": "直播",
+          "eventCount": 32932,
+          "totalUsers": 1
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.dublingaa.ie",
+          "category": "运动",
+          "eventCount": 32636,
+          "totalUsers": 8
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "clubber.ie",
+          "category": "直播",
+          "eventCount": 31318,
+          "totalUsers": 27
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "76943.emigra.tv",
+          "category": "直播",
+          "eventCount": 30847,
+          "totalUsers": 1
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cavstream.ie",
+          "category": "直播",
+          "eventCount": 25927,
+          "totalUsers": 6
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "multicanaishd.church",
+          "category": "运动",
+          "eventCount": 25896,
+          "totalUsers": 3
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "media-hls.doppiocdn.media",
+          "category": "直播",
+          "eventCount": 25367,
+          "totalUsers": 2
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "447ae.emigr.tv",
+          "category": "直播",
+          "eventCount": 25064,
+          "totalUsers": 2
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lakestream.net",
+          "category": "运动",
+          "eventCount": 22022,
+          "totalUsers": 1
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "4e6eaeda.rockcdn.net",
+          "category": "直播",
+          "eventCount": 21536,
+          "totalUsers": 1
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "79b9c.emigr.tv",
+          "category": "直播",
+          "eventCount": 19228,
+          "totalUsers": 1
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "60520.emigr.tv",
+          "category": "直播",
+          "eventCount": 18686,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 18657,
+          "totalUsers": 3
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rdcanais.net",
+          "category": "直播",
+          "eventCount": 18590,
+          "totalUsers": 1
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.viks.tv",
+          "category": "直播",
+          "eventCount": 17183,
+          "totalUsers": 2
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "1a897.emigra.tv",
+          "category": "直播",
+          "eventCount": 15810,
+          "totalUsers": 1
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "b29f0a4a.rockcdn.net",
+          "category": "Top 50",
+          "eventCount": 15446,
+          "totalUsers": 1
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mullingarparish.ie",
+          "category": "Top 50",
+          "eventCount": 14606,
+          "totalUsers": 1
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "5ee54f4a.rockcdn.net",
+          "category": "直播",
+          "eventCount": 14142,
+          "totalUsers": 1
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rdslive.tv",
+          "category": "直播",
+          "eventCount": 13972,
+          "totalUsers": 3
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "app.marteye.ie",
+          "category": "直播",
+          "eventCount": 11988,
+          "totalUsers": 2
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "7132c.emigr.tv",
+          "category": "直播",
+          "eventCount": 11923,
+          "totalUsers": 1
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipleague.vg",
+          "category": "运动",
+          "eventCount": 11765,
+          "totalUsers": 3
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "streamseast.ws",
+          "category": "运动",
+          "eventCount": 11713,
+          "totalUsers": 11
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "62087.emigra.tv",
+          "category": "直播",
+          "eventCount": 11053,
+          "totalUsers": 1
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipstand.is",
+          "category": "运动",
+          "eventCount": 10846,
+          "totalUsers": 1
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 10020,
+          "totalUsers": 1246
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "librefutbol.vip",
+          "category": "运动",
+          "eventCount": 8782,
+          "totalUsers": 2
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futemax.flights",
+          "category": "运动",
+          "eventCount": 8550,
+          "totalUsers": 2
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "37-9-58-222.lietuviska.tv",
+          "category": "直播",
+          "eventCount": 8244,
+          "totalUsers": 1
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tvron.me",
+          "category": "直播",
+          "eventCount": 8192,
+          "totalUsers": 2
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "olympicweb.me",
+          "category": "运动",
+          "eventCount": 7898,
+          "totalUsers": 1
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hdfilmcehennemi.nl",
+          "category": "电影",
+          "eventCount": 7644,
+          "totalUsers": 3
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mcn.live",
+          "category": "直播",
+          "eventCount": 7149,
+          "totalUsers": 6
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "94-229-78-50.lietuviska.tv",
+          "category": "直播",
+          "eventCount": 6644,
+          "totalUsers": 1
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "6da77.emigra.tv",
+          "category": "直播",
+          "eventCount": 6593,
+          "totalUsers": 1
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cdn.stegawave.com",
+          "category": "直播",
+          "eventCount": 6447,
+          "totalUsers": 1
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "oneplay.cz",
+          "category": "直播",
+          "eventCount": 6293,
+          "totalUsers": 2
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "6e36f.emigra.tv",
+          "category": "直播",
+          "eventCount": 6031,
+          "totalUsers": 1
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.sx",
+          "category": "运动",
+          "eventCount": 5783,
+          "totalUsers": 3
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "accessmunster.ie",
+          "category": "Top 50",
+          "eventCount": 5704,
+          "totalUsers": 4
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hd.kinozed.org",
+          "category": "电影",
+          "eventCount": 5588,
+          "totalUsers": 1
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gledaitv.fan",
+          "category": "直播",
+          "eventCount": 5579,
+          "totalUsers": 1
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "otte.cache.aiv-cdn.net",
+          "category": "直播",
+          "eventCount": 5319,
+          "totalUsers": 1
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4score.net",
+          "category": "运动",
+          "eventCount": 5226,
+          "totalUsers": 3
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televizia.org",
+          "category": "直播",
+          "eventCount": 4827,
+          "totalUsers": 2
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "216-106-188-249.lietuviska.tv",
+          "category": "直播",
+          "eventCount": 4670,
+          "totalUsers": 1
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "new.touchcric.com",
+          "category": "运动",
+          "eventCount": 4576,
+          "totalUsers": 2
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livecdn.euw1-0008.jwplive.com",
+          "category": "直播",
+          "eventCount": 4548,
+          "totalUsers": 1
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "juventusonair.com",
+          "category": "运动",
+          "eventCount": 4516,
+          "totalUsers": 1
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "worldrowing.com",
+          "category": "运动",
+          "eventCount": 4229,
+          "totalUsers": 2
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "6ec7e.emigr.tv",
+          "category": "直播",
+          "eventCount": 4228,
+          "totalUsers": 1
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "scottishfitbaw.com",
+          "category": "运动",
+          "eventCount": 4199,
+          "totalUsers": 1
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "donegal.streamsport.ie",
+          "category": "运动",
+          "eventCount": 3880,
+          "totalUsers": 1
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televizorus.com",
+          "category": "直播",
+          "eventCount": 3874,
+          "totalUsers": 1
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sisracing.tv",
+          "category": "运动",
+          "eventCount": 3676,
+          "totalUsers": 1
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live3.totalsportekhd.st",
+          "category": "运动",
+          "eventCount": 3667,
+          "totalUsers": 3
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rugbybox.me",
+          "category": "运动",
+          "eventCount": 3624,
+          "totalUsers": 2
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cricfree.org",
+          "category": "运动",
+          "eventCount": 3598,
+          "totalUsers": 1
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretvhd.org",
+          "category": "运动",
+          "eventCount": 3583,
+          "totalUsers": 3
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "churchcamlive.ie",
+          "category": "直播",
+          "eventCount": 3566,
+          "totalUsers": 3
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "patronhd6.cfd",
+          "category": "Top 50",
+          "eventCount": 3376,
+          "totalUsers": 3
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vctly.com",
+          "category": "Top 50",
+          "eventCount": 3342,
+          "totalUsers": 1
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "78-157-218-22.lietuviska.tv",
+          "category": "直播",
+          "eventCount": 3296,
+          "totalUsers": 1
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "buffstreams24.com",
+          "category": "运动",
+          "eventCount": 3259,
+          "totalUsers": 1
+        },
+        {
+          "rank": 79,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tamilgun.now",
+          "category": "电影",
+          "eventCount": 3238,
+          "totalUsers": 9
+        },
+        {
+          "rank": 80,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live4.totalsportekhd.st",
+          "category": "运动",
+          "eventCount": 3195,
+          "totalUsers": 4
+        },
+        {
+          "rank": 81,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "1a070.emigr.tv",
+          "category": "直播",
+          "eventCount": 3179,
+          "totalUsers": 1
+        },
+        {
+          "rank": 82,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "64dd0.emigr.tv",
+          "category": "直播",
+          "eventCount": 3117,
+          "totalUsers": 1
+        },
+        {
+          "rank": 83,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ssh101.com",
+          "category": "Top 50",
+          "eventCount": 3097,
+          "totalUsers": 1
+        },
+        {
+          "rank": 84,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ww8.123moviesfree.net",
+          "category": "电影",
+          "eventCount": 3046,
+          "totalUsers": 95
+        },
+        {
+          "rank": 85,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xameleon.phantemlis.top",
+          "category": "Top 50",
+          "eventCount": 3046,
+          "totalUsers": 1
+        },
+        {
+          "rank": 86,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "3cece.emigr.tv",
+          "category": "直播",
+          "eventCount": 3008,
+          "totalUsers": 1
+        },
+        {
+          "rank": 87,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "2cdb3.emigra.tv",
+          "category": "直播",
+          "eventCount": 2887,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 9,
+          "eventCount": 77294,
+          "totalUsers": 1261
+        },
+        {
+          "category": "电影",
+          "recordCount": 5,
+          "eventCount": 54024,
+          "totalUsers": 109
+        },
+        {
+          "category": "直播",
+          "recordCount": 48,
+          "eventCount": 1275449,
+          "totalUsers": 109
+        },
+        {
+          "category": "运动",
+          "recordCount": 24,
+          "eventCount": 241242,
+          "totalUsers": 61
+        },
+        {
+          "category": "新闻",
+          "recordCount": 1,
+          "eventCount": 37679,
+          "totalUsers": 17
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 13,
+        "eventCount": 221011
+      }
+    }
+  ]
+}

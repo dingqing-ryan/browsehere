@@ -1,0 +1,683 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "AM",
+      "country": "Armenia",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveball.sx",
+          "category": "运动",
+          "eventCount": 117440,
+          "totalUsers": 112
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dzritv.com",
+          "category": "直播",
+          "eventCount": 67387,
+          "totalUsers": 32
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo.online",
+          "category": "电影",
+          "eventCount": 58040,
+          "totalUsers": 1184
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "telewebion.net",
+          "category": "直播",
+          "eventCount": 51936,
+          "totalUsers": 11
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 41494,
+          "totalUsers": 5
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinodaran.com",
+          "category": "电影",
+          "eventCount": 35693,
+          "totalUsers": 46
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 35209,
+          "totalUsers": 3909
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hayertv.com",
+          "category": "直播",
+          "eventCount": 30461,
+          "totalUsers": 81
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lv.kinogo.ec",
+          "category": "电影",
+          "eventCount": 21398,
+          "totalUsers": 736
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "armflix.com",
+          "category": "电影",
+          "eventCount": 20537,
+          "totalUsers": 4
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livetv.sx",
+          "category": "直播",
+          "eventCount": 12730,
+          "totalUsers": 23
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1107.telewebion.net",
+          "category": "直播",
+          "eventCount": 11602,
+          "totalUsers": 1
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "armfilm.co",
+          "category": "电影",
+          "eventCount": 8720,
+          "totalUsers": 497
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1111.telewebion.net",
+          "category": "直播",
+          "eventCount": 8202,
+          "totalUsers": 1
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo.ec",
+          "category": "电影",
+          "eventCount": 7654,
+          "totalUsers": 308
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1101.telewebion.net",
+          "category": "直播",
+          "eventCount": 6673,
+          "totalUsers": 1
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1103.telewebion.net",
+          "category": "直播",
+          "eventCount": 6590,
+          "totalUsers": 1
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "armfilm.co",
+          "category": "电影",
+          "eventCount": 6387,
+          "totalUsers": 545
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gs.yandex.com.tr",
+          "category": "Top 50",
+          "eventCount": 6384,
+          "totalUsers": 2
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo.org",
+          "category": "电影",
+          "eventCount": 6118,
+          "totalUsers": 201
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rezka-tv.org",
+          "category": "电影",
+          "eventCount": 6047,
+          "totalUsers": 297
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rutube.ru",
+          "category": "直播",
+          "eventCount": 5829,
+          "totalUsers": 152
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1113.telewebion.net",
+          "category": "直播",
+          "eventCount": 5670,
+          "totalUsers": 1
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gisher.me",
+          "category": "直播",
+          "eventCount": 5657,
+          "totalUsers": 18
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "rezka-tv.org",
+          "category": "电影",
+          "eventCount": 5629,
+          "totalUsers": 328
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "kinogo.online",
+          "category": "电影",
+          "eventCount": 5543,
+          "totalUsers": 1196
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ntv.ru",
+          "category": "直播",
+          "eventCount": 5256,
+          "totalUsers": 7
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fasttv.am",
+          "category": "直播",
+          "eventCount": 4960,
+          "totalUsers": 10
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cdn-400.sevstar933krop.com",
+          "category": "Top 50",
+          "eventCount": 4773,
+          "totalUsers": 10
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "rezka.ag",
+          "category": "电影",
+          "eventCount": 4517,
+          "totalUsers": 400
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "films.bz",
+          "category": "电影",
+          "eventCount": 3722,
+          "totalUsers": 185
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mob.lenkino.love",
+          "category": "电影",
+          "eventCount": 3604,
+          "totalUsers": 2
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "wink.ru",
+          "category": "电影",
+          "eventCount": 3249,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rezka.ag",
+          "category": "电影",
+          "eventCount": 3178,
+          "totalUsers": 331
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.1tv.am",
+          "category": "直播",
+          "eventCount": 3168,
+          "totalUsers": 11
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "livetv903.me",
+          "category": "直播",
+          "eventCount": 3141,
+          "totalUsers": 6
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogomy.net",
+          "category": "电影",
+          "eventCount": 3087,
+          "totalUsers": 117
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "lv.kinogo.ec",
+          "category": "电影",
+          "eventCount": 2972,
+          "totalUsers": 706
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "films.bz",
+          "category": "电影",
+          "eventCount": 2967,
+          "totalUsers": 262
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "yummyanime.tv",
+          "category": "电影",
+          "eventCount": 2894,
+          "totalUsers": 16
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sport.totogaming.am",
+          "category": "运动",
+          "eventCount": 2799,
+          "totalUsers": 1
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotret.tv",
+          "category": "直播",
+          "eventCount": 2795,
+          "totalUsers": 7
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cakhiazvo.tv",
+          "category": "运动",
+          "eventCount": 2661,
+          "totalUsers": 2
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1104.telewebion.net",
+          "category": "直播",
+          "eventCount": 2651,
+          "totalUsers": 1
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rick-i-morty.net",
+          "category": "电影",
+          "eventCount": 2500,
+          "totalUsers": 7
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveball.to",
+          "category": "运动",
+          "eventCount": 2450,
+          "totalUsers": 2
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dramaexpress.net",
+          "category": "电影",
+          "eventCount": 2422,
+          "totalUsers": 1
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "kinogo.ec",
+          "category": "电影",
+          "eventCount": 2410,
+          "totalUsers": 343
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1112.telewebion.net",
+          "category": "直播",
+          "eventCount": 2410,
+          "totalUsers": 1
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gidonline.one",
+          "category": "电影",
+          "eventCount": 2378,
+          "totalUsers": 87
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dorama.land",
+          "category": "电影",
+          "eventCount": 2093,
+          "totalUsers": 38
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo-hd.moy.su",
+          "category": "电影",
+          "eventCount": 1984,
+          "totalUsers": 65
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "viprow.is",
+          "category": "运动",
+          "eventCount": 1961,
+          "totalUsers": 1
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "seasonvar.ru",
+          "category": "电影",
+          "eventCount": 1956,
+          "totalUsers": 51
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "b-401.sevstar933krop.com",
+          "category": "Top 50",
+          "eventCount": 1876,
+          "totalUsers": 18
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "filmix.gg",
+          "category": "电影",
+          "eventCount": 1816,
+          "totalUsers": 36
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ivi.ru",
+          "category": "电影",
+          "eventCount": 1796,
+          "totalUsers": 56
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jutsu-naruto.ru",
+          "category": "电影",
+          "eventCount": 1776,
+          "totalUsers": 5
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mov.kinogo1.biz",
+          "category": "电影",
+          "eventCount": 1748,
+          "totalUsers": 14
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinohype.co",
+          "category": "电影",
+          "eventCount": 1630,
+          "totalUsers": 1
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cakhiazaa.tv",
+          "category": "运动",
+          "eventCount": 1618,
+          "totalUsers": 1
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mover.uz",
+          "category": "Top 50",
+          "eventCount": 1611,
+          "totalUsers": 12
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vctly.com",
+          "category": "Top 50",
+          "eventCount": 1584,
+          "totalUsers": 2
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo.no",
+          "category": "电影",
+          "eventCount": 1583,
+          "totalUsers": 88
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cdn.livetv903.me",
+          "category": "直播",
+          "eventCount": 1556,
+          "totalUsers": 3
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lu.igidonline.site",
+          "category": "电影",
+          "eventCount": 1532,
+          "totalUsers": 21
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hochu.tv",
+          "category": "电影",
+          "eventCount": 1518,
+          "totalUsers": 2
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "search.brave.com",
+          "category": "Top 50",
+          "eventCount": 1512,
+          "totalUsers": 411
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "kinogomy.net",
+          "category": "电影",
+          "eventCount": 1447,
+          "totalUsers": 341
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vgtrk.ru",
+          "category": "新闻",
+          "eventCount": 1442,
+          "totalUsers": 1
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "doramy.club",
+          "category": "电影",
+          "eventCount": 1398,
+          "totalUsers": 65
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mardaunt.ru",
+          "category": "Top 50",
+          "eventCount": 1347,
+          "totalUsers": 1
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ringo.s2s.am",
+          "category": "Top 50",
+          "eventCount": 1318,
+          "totalUsers": 1
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "google.com",
+          "category": "Top 50",
+          "eventCount": 1276,
+          "totalUsers": 103
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "iranintl.com",
+          "category": "新闻",
+          "eventCount": 1228,
+          "totalUsers": 2
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectamas.com",
+          "category": "运动",
+          "eventCount": 1160,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 11,
+          "eventCount": 98384,
+          "totalUsers": 4474
+        },
+        {
+          "category": "电影",
+          "recordCount": 37,
+          "eventCount": 243943,
+          "totalUsers": 8583
+        },
+        {
+          "category": "直播",
+          "recordCount": 19,
+          "eventCount": 238674,
+          "totalUsers": 368
+        },
+        {
+          "category": "运动",
+          "recordCount": 7,
+          "eventCount": 130089,
+          "totalUsers": 120
+        },
+        {
+          "category": "新闻",
+          "recordCount": 2,
+          "eventCount": 2670,
+          "totalUsers": 3
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 24,
+        "eventCount": 156889
+      }
+    }
+  ]
+}

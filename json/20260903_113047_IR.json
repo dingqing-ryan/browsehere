@@ -1,0 +1,827 @@
+{
+  "generatedAt": "20260903_113047",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人"
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "IR",
+      "country": "Iran",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "telewebion.net",
+          "category": "直播",
+          "eventCount": 2713963,
+          "totalUsers": 3966
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "aparat.com",
+          "category": "直播",
+          "eventCount": 681253,
+          "totalUsers": 9852
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 386784,
+          "totalUsers": 30949
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "filimo.com",
+          "category": "Top 50",
+          "eventCount": 261791,
+          "totalUsers": 3297
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "aparatsport.ir",
+          "category": "运动",
+          "eventCount": 251032,
+          "totalUsers": 332
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "biomaze.ir",
+          "category": "Top 50",
+          "eventCount": 245044,
+          "totalUsers": 89
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "play.namava.ir",
+          "category": "电影",
+          "eventCount": 207247,
+          "totalUsers": 504
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "anten.ir",
+          "category": "运动",
+          "eventCount": 171878,
+          "totalUsers": 365
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.aparat.com",
+          "category": "Top 50",
+          "eventCount": 105833,
+          "totalUsers": 10281
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ifilo.net",
+          "category": "电影",
+          "eventCount": 101663,
+          "totalUsers": 1296
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fa2.ifilmtv.ir",
+          "category": "电影",
+          "eventCount": 89692,
+          "totalUsers": 12
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fam.ir",
+          "category": "直播",
+          "eventCount": 88005,
+          "totalUsers": 339
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vod.rubika.ir",
+          "category": "电影",
+          "eventCount": 79342,
+          "totalUsers": 1001
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mazlive.ir",
+          "category": "直播",
+          "eventCount": 73770,
+          "totalUsers": 5
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "edaroo24.com",
+          "category": "Top 50",
+          "eventCount": 71716,
+          "totalUsers": 1
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-aburayhan1111.telewebion.net",
+          "category": "直播",
+          "eventCount": 49945,
+          "totalUsers": 1
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "technoland.tosantechno.com",
+          "category": "Top 50",
+          "eventCount": 48651,
+          "totalUsers": 3
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.filimo.com",
+          "category": "电影",
+          "eventCount": 39367,
+          "totalUsers": 4980
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "google.com",
+          "category": "Top 50",
+          "eventCount": 37926,
+          "totalUsers": 1967
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-tabesh1201.telewebion.net",
+          "category": "直播",
+          "eventCount": 34708,
+          "totalUsers": 17
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "r1-edge-v2-op.s3mer.net",
+          "category": "直播",
+          "eventCount": 32803,
+          "totalUsers": 16
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "telewebion.net",
+          "category": "直播",
+          "eventCount": 27075,
+          "totalUsers": 4071
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "football360.ir",
+          "category": "运动",
+          "eventCount": 26166,
+          "totalUsers": 93
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sheyda.com",
+          "category": "Top 50",
+          "eventCount": 25996,
+          "totalUsers": 204
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-khwarizmi1307.telewebion.net",
+          "category": "直播",
+          "eventCount": 25073,
+          "totalUsers": 3
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-tabesh1208.telewebion.net",
+          "category": "直播",
+          "eventCount": 24904,
+          "totalUsers": 13
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.cdn.asset.aparat.com",
+          "category": "直播",
+          "eventCount": 24801,
+          "totalUsers": 5
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-tabesh1207.telewebion.net",
+          "category": "直播",
+          "eventCount": 24046,
+          "totalUsers": 9
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "edge07.tmk32.ir.cdn.ir",
+          "category": "直播",
+          "eventCount": 23547,
+          "totalUsers": 2
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "namasha.com",
+          "category": "Top 50",
+          "eventCount": 22924,
+          "totalUsers": 874
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "2ix2.com",
+          "category": "直播",
+          "eventCount": 22355,
+          "totalUsers": 1
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "baxmovie.com",
+          "category": "电影",
+          "eventCount": 20404,
+          "totalUsers": 28
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-khayyam1208.telewebion.net",
+          "category": "直播",
+          "eventCount": 19091,
+          "totalUsers": 5
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mp4.ir",
+          "category": "Top 50",
+          "eventCount": 17950,
+          "totalUsers": 520
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "erp.amiransc.com",
+          "category": "Top 50",
+          "eventCount": 17550,
+          "totalUsers": 3
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "s1.dlkfa.com",
+          "category": "Top 50",
+          "eventCount": 17336,
+          "totalUsers": 2
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "afarinak.com",
+          "category": "Top 50",
+          "eventCount": 17115,
+          "totalUsers": 69
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.filimo.com",
+          "category": "电影",
+          "eventCount": 16963,
+          "totalUsers": 352
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-tabesh1202.telewebion.net",
+          "category": "直播",
+          "eventCount": 16581,
+          "totalUsers": 10
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "star3.ifilo.net",
+          "category": "直播",
+          "eventCount": 16437,
+          "totalUsers": 2
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "168.1.1",
+          "category": "Top 50",
+          "eventCount": 16078,
+          "totalUsers": 53
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "star.tmk32.ir.cdn.ir",
+          "category": "直播",
+          "eventCount": 15964,
+          "totalUsers": 1
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "edge08.tmk32.ir.cdn.ir",
+          "category": "直播",
+          "eventCount": 15959,
+          "totalUsers": 1
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.sheyda.com",
+          "category": "直播",
+          "eventCount": 15953,
+          "totalUsers": 617
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "filmyar.net",
+          "category": "电影",
+          "eventCount": 14104,
+          "totalUsers": 15
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.filmnet.ir",
+          "category": "电影",
+          "eventCount": 14037,
+          "totalUsers": 717
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ads.cdn.asset.aparat.com",
+          "category": "直播",
+          "eventCount": 13626,
+          "totalUsers": 326
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "aparatkids.com",
+          "category": "电影",
+          "eventCount": 13096,
+          "totalUsers": 139
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hdfilmcehennemi.nl",
+          "category": "电影",
+          "eventCount": 13022,
+          "totalUsers": 7
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1314.telewebion.net",
+          "category": "直播",
+          "eventCount": 12977,
+          "totalUsers": 4
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-tabesh1204.telewebion.net",
+          "category": "直播",
+          "eventCount": 12929,
+          "totalUsers": 10
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "onikclub.com",
+          "category": "Top 50",
+          "eventCount": 11331,
+          "totalUsers": 10
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.football360.ir",
+          "category": "运动",
+          "eventCount": 11230,
+          "totalUsers": 57
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mokhtalefmusic.com",
+          "category": "直播",
+          "eventCount": 11038,
+          "totalUsers": 25
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-ferdowsi5303.telewebion.net",
+          "category": "直播",
+          "eventCount": 10718,
+          "totalUsers": 2
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "digimoviez53.top",
+          "category": "电影",
+          "eventCount": 10650,
+          "totalUsers": 283
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.rubika.ir",
+          "category": "直播",
+          "eventCount": 10575,
+          "totalUsers": 218
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "freestreamingwebsites.xyz",
+          "category": "直播",
+          "eventCount": 10298,
+          "totalUsers": 2902
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "volleyball.ir",
+          "category": "运动",
+          "eventCount": 10221,
+          "totalUsers": 12
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 10176,
+          "totalUsers": 4
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1316.telewebion.net",
+          "category": "直播",
+          "eventCount": 10099,
+          "totalUsers": 8
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-tabesh1205.telewebion.net",
+          "category": "直播",
+          "eventCount": 10007,
+          "totalUsers": 9
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "digimoviez53.top",
+          "category": "电影",
+          "eventCount": 9580,
+          "totalUsers": 322
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "tv.filmnet.ir",
+          "category": "电影",
+          "eventCount": 9488,
+          "totalUsers": 1303
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "panel.alphaschool.ir",
+          "category": "Top 50",
+          "eventCount": 9434,
+          "totalUsers": 5
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cdn.faina.ir",
+          "category": "Top 50",
+          "eventCount": 9091,
+          "totalUsers": 140
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1310.telewebion.net",
+          "category": "直播",
+          "eventCount": 9070,
+          "totalUsers": 9
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1311.telewebion.net",
+          "category": "直播",
+          "eventCount": 9011,
+          "totalUsers": 8
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "edge06.tmk9.ir.cdn.ir",
+          "category": "直播",
+          "eventCount": 8794,
+          "totalUsers": 2
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dozabaneh.com",
+          "category": "直播",
+          "eventCount": 8599,
+          "totalUsers": 59
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "moon.99.ir.cdn.ir",
+          "category": "直播",
+          "eventCount": 8557,
+          "totalUsers": 8
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fam3.fam.ir",
+          "category": "直播",
+          "eventCount": 8531,
+          "totalUsers": 7
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "filmnet.ir",
+          "category": "电影",
+          "eventCount": 8451,
+          "totalUsers": 294
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "zhomis.info",
+          "category": "电影",
+          "eventCount": 8330,
+          "totalUsers": 71
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "talieghbali.com",
+          "category": "Top 50",
+          "eventCount": 8308,
+          "totalUsers": 4
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "myket.ir",
+          "category": "Top 50",
+          "eventCount": 8244,
+          "totalUsers": 300
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "taw-bio.ir",
+          "category": "Top 50",
+          "eventCount": 8071,
+          "totalUsers": 11
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1312.telewebion.net",
+          "category": "直播",
+          "eventCount": 7721,
+          "totalUsers": 9
+        },
+        {
+          "rank": 79,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-khwarizmi1304.telewebion.net",
+          "category": "直播",
+          "eventCount": 7471,
+          "totalUsers": 6
+        },
+        {
+          "rank": 80,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kick.com",
+          "category": "直播",
+          "eventCount": 7422,
+          "totalUsers": 8
+        },
+        {
+          "rank": 81,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1318.telewebion.net",
+          "category": "直播",
+          "eventCount": 7401,
+          "totalUsers": 8
+        },
+        {
+          "rank": 82,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-ferdowsi5301.telewebion.net",
+          "category": "直播",
+          "eventCount": 7392,
+          "totalUsers": 1
+        },
+        {
+          "rank": 83,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "varzesh3.com",
+          "category": "运动",
+          "eventCount": 7354,
+          "totalUsers": 187
+        },
+        {
+          "rank": 84,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.namasha.com",
+          "category": "Top 50",
+          "eventCount": 7319,
+          "totalUsers": 795
+        },
+        {
+          "rank": 85,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1313.telewebion.net",
+          "category": "直播",
+          "eventCount": 7052,
+          "totalUsers": 5
+        },
+        {
+          "rank": 86,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "myket.ir",
+          "category": "Top 50",
+          "eventCount": 7032,
+          "totalUsers": 1049
+        },
+        {
+          "rank": 87,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "edge08.tmk36.ir.cdn.ir",
+          "category": "直播",
+          "eventCount": 6768,
+          "totalUsers": 1
+        },
+        {
+          "rank": 88,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ifilo.net",
+          "category": "电影",
+          "eventCount": 6742,
+          "totalUsers": 1034
+        },
+        {
+          "rank": 89,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "play.google.com",
+          "category": "Top 50",
+          "eventCount": 6726,
+          "totalUsers": 2175
+        },
+        {
+          "rank": 90,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "connect13.classino.com",
+          "category": "Top 50",
+          "eventCount": 6726,
+          "totalUsers": 6
+        },
+        {
+          "rank": 91,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "footballi.net",
+          "category": "运动",
+          "eventCount": 6723,
+          "totalUsers": 42
+        },
+        {
+          "rank": 92,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live-kashani1315.telewebion.net",
+          "category": "直播",
+          "eventCount": 6715,
+          "totalUsers": 8
+        },
+        {
+          "rank": 93,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "behplay.com",
+          "category": "Top 50",
+          "eventCount": 6530,
+          "totalUsers": 4
+        },
+        {
+          "rank": 94,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "bartar.top",
+          "category": "Top 50",
+          "eventCount": 6301,
+          "totalUsers": 3
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 27,
+          "eventCount": 1397983,
+          "totalUsers": 52818
+        },
+        {
+          "category": "电影",
+          "recordCount": 17,
+          "eventCount": 662178,
+          "totalUsers": 12358
+        },
+        {
+          "category": "直播",
+          "recordCount": 43,
+          "eventCount": 4159004,
+          "totalUsers": 22579
+        },
+        {
+          "category": "运动",
+          "recordCount": 7,
+          "eventCount": 484604,
+          "totalUsers": 1088
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 6,
+        "eventCount": 88203
+      }
+    }
+  ]
+}
