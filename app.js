@@ -85,7 +85,9 @@
       if (!sections.has(id)) sections.set(id, { id, title, icon:'▦', services:[] });
       sections.get(id).services.push({ id:`${id}-${record.rank}`, name:record.customParameter, url:/^https?:\/\//i.test(record.customParameter) ? record.customParameter : `https://${record.customParameter}`, desc:`#${record.rank} · ${Number(record.eventCount).toLocaleString()} events` });
     }
-    return { profile:{ name:country.country, code }, sections:[...sections.values()] };
+    const list = [...sections.values()]; const top = list.findIndex(section => section.title === 'Top 50');
+    if (top > 0) list.unshift(list.splice(top, 1)[0]);
+    return { profile:{ name:country.country, code }, sections:list };
   }
   function logoLetter(name) { return [...name].find(char => /[\p{L}\p{N}]/u.test(char)) || '▶'; }
   function avatarColor(name) { let hash = 0; for (const char of name) hash = ((hash << 5) - hash + char.codePointAt(0)) | 0; return colors[Math.abs(hash) % colors.length]; }
