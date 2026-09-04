@@ -44,14 +44,6 @@
       "records": [
         {
           "rank": 1,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 254,
-          "totalUsers": 1
-        },
-        {
-          "rank": 2,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.google.com",
           "category": "Top 50",
@@ -59,15 +51,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 3,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 21,
-          "totalUsers": 1
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.youtube.com",
           "category": "Top 50",
@@ -90,9 +74,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 2,
-          "eventCount": 275,
-          "totalUsers": 2
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
         },
         {
           "category": "运动",
@@ -108,8 +92,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 25,
-        "eventCount": 2265
+        "recordCount": 27,
+        "eventCount": 2540
       }
     }
   ]

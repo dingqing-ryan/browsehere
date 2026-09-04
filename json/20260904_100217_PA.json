@@ -829,14 +829,6 @@
         {
           "rank": 99,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "es.luxuretv.com",
-          "category": "直播",
-          "eventCount": 3601,
-          "totalUsers": 11
-        },
-        {
-          "rank": 100,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "elitegoltv.co",
           "category": "直播",
           "eventCount": 3125,
@@ -858,9 +850,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 11,
-          "eventCount": 157142,
-          "totalUsers": 93
+          "recordCount": 10,
+          "eventCount": 153541,
+          "totalUsers": 82
         },
         {
           "category": "运动",
@@ -876,8 +868,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 79,
-        "eventCount": 1562875
+        "recordCount": 80,
+        "eventCount": 1566476
       }
     }
   ]

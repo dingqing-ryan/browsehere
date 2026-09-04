@@ -108,14 +108,6 @@
         },
         {
           "rank": 9,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 31,
-          "totalUsers": 1
-        },
-        {
-          "rank": 10,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "gogoanime.or.at",
           "category": "电影",
@@ -123,7 +115,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 11,
+          "rank": 10,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "gomovies.me.uk",
           "category": "电影",
@@ -131,7 +123,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 12,
+          "rank": 11,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "lookmovie2.to",
           "category": "电影",
@@ -139,7 +131,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 13,
+          "rank": 12,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "streamxtv.tech",
           "category": "直播",
@@ -162,9 +154,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 3,
-          "eventCount": 9238,
-          "totalUsers": 3
+          "recordCount": 2,
+          "eventCount": 9207,
+          "totalUsers": 2
         },
         {
           "category": "运动",
@@ -180,8 +172,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 26,
-        "eventCount": 8688
+        "recordCount": 27,
+        "eventCount": 8719
       }
     }
   ]

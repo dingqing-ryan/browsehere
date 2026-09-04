@@ -437,21 +437,13 @@
         {
           "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 491,
-          "totalUsers": 2
-        },
-        {
-          "rank": 51,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ridomovies.su",
           "category": "电影",
           "eventCount": 441,
           "totalUsers": 2
         },
         {
-          "rank": 52,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.facebook.com",
           "category": "Top 50",
@@ -459,7 +451,7 @@
           "totalUsers": 20
         },
         {
-          "rank": 53,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "filmoton.org",
           "category": "电影",
@@ -467,7 +459,7 @@
           "totalUsers": 10
         },
         {
-          "rank": 54,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "bagosports.ru",
           "category": "运动",
@@ -475,7 +467,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 55,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -483,15 +475,7 @@
           "totalUsers": 25
         },
         {
-          "rank": 56,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "de.luxuretv.com",
-          "category": "直播",
-          "eventCount": 368,
-          "totalUsers": 1
-        },
-        {
-          "rank": 57,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "ww8.123moviesfree.net",
           "category": "电影",
@@ -499,7 +483,7 @@
           "totalUsers": 13
         },
         {
-          "rank": 58,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patronmac101.cfd",
           "category": "运动",
@@ -507,7 +491,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 59,
+          "rank": 57,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "web.topcinemaa.live",
           "category": "电影",
@@ -515,7 +499,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 60,
+          "rank": 58,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "filmovi.to",
           "category": "电影",
@@ -523,7 +507,7 @@
           "totalUsers": 11
         },
         {
-          "rank": 61,
+          "rank": 59,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "filmclub.tv",
           "category": "电影",
@@ -531,7 +515,7 @@
           "totalUsers": 11
         },
         {
-          "rank": 62,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patrongol35.cfd",
           "category": "运动",
@@ -539,7 +523,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 63,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww8.123moviesfree.net",
           "category": "电影",
@@ -547,7 +531,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 64,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftarium.co",
           "category": "运动",
@@ -555,7 +539,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 65,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviesjoy.sx",
           "category": "电影",
@@ -563,7 +547,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 66,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "watchseries.bar",
           "category": "电影",
@@ -571,7 +555,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 67,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftarium1-24.com",
           "category": "运动",
@@ -579,7 +563,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 68,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "twitch.tv",
           "category": "Top 50",
@@ -602,9 +586,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 14,
-          "eventCount": 324525,
-          "totalUsers": 108
+          "recordCount": 12,
+          "eventCount": 323666,
+          "totalUsers": 105
         },
         {
           "category": "运动",
@@ -620,8 +604,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 132,
-        "eventCount": 736103
+        "recordCount": 134,
+        "eventCount": 736962
       }
     }
   ]

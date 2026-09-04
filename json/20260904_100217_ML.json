@@ -373,21 +373,13 @@
         {
           "rank": 42,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "luxuretv.com",
-          "category": "直播",
-          "eventCount": 38,
-          "totalUsers": 1
-        },
-        {
-          "rank": 43,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "a.qfilm.tv",
           "category": "电影",
           "eventCount": 34,
           "totalUsers": 1
         },
         {
-          "rank": 44,
+          "rank": 43,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "yacinee-tv.net",
           "category": "电影",
@@ -395,7 +387,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 45,
+          "rank": 44,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "j.ltvonline.live",
           "category": "直播",
@@ -403,7 +395,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 46,
+          "rank": 45,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "a.qfilm.tv",
           "category": "电影",
@@ -411,7 +403,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 47,
+          "rank": 46,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live.keeptrace.fr",
           "category": "直播",
@@ -419,7 +411,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 48,
+          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "themoviebox.xyz",
           "category": "电影",
@@ -427,7 +419,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 49,
+          "rank": 48,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "xyzyacinee-tv-net.smartagro.top",
           "category": "电影",
@@ -435,7 +427,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 50,
+          "rank": 49,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "apps.apple.com",
           "category": "Top 50",
@@ -443,7 +435,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 51,
+          "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "sport-live.pl",
           "category": "运动",
@@ -451,7 +443,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 52,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "fabor-tv-player.me",
           "category": "运动",
@@ -459,7 +451,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 53,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "voiranime.rip",
           "category": "电影",
@@ -467,7 +459,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 54,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "koorastars.store",
           "category": "运动",
@@ -475,7 +467,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 55,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "youscore.online",
           "category": "运动",
@@ -483,7 +475,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 56,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "h.ltvonline.live",
           "category": "直播",
@@ -491,7 +483,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 57,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "officialmoviebox.com",
           "category": "电影",
@@ -499,7 +491,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 58,
+          "rank": 57,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "yacine-tv.net",
           "category": "电影",
@@ -507,7 +499,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 59,
+          "rank": 58,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "okoora.live",
           "category": "运动",
@@ -515,7 +507,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 60,
+          "rank": 59,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "dailymotion.com",
           "category": "直播",
@@ -523,7 +515,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 61,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "watchseries.show",
           "category": "电影",
@@ -531,7 +523,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 62,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "w16.french-manga.net",
           "category": "电影",
@@ -539,7 +531,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 63,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "themoviebox.xyz",
           "category": "电影",
@@ -547,7 +539,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 64,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "cinezzz.club",
           "category": "电影",
@@ -555,7 +547,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 65,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.score808live.tv",
           "category": "运动",
@@ -563,7 +555,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 66,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "x.com",
           "category": "Top 50",
@@ -571,7 +563,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 67,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "25.yallash00t.online",
           "category": "运动",
@@ -579,7 +571,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 68,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "g.ltvonline.live",
           "category": "直播",
@@ -587,7 +579,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 69,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.netflix.com",
           "category": "Top 50",
@@ -595,7 +587,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 70,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "baytkooora.com",
           "category": "运动",
@@ -603,7 +595,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 71,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.cinezzz.club",
           "category": "电影",
@@ -611,7 +603,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 72,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.crunchyroll.com",
           "category": "电影",
@@ -619,7 +611,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 73,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -627,7 +619,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "movies2watch.watch",
           "category": "电影",
@@ -635,7 +627,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 75,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "nakanime.tv",
           "category": "电影",
@@ -643,7 +635,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 76,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "24.yallashoots.fun",
           "category": "运动",
@@ -651,7 +643,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 77,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "a.kooorasia.com",
           "category": "运动",
@@ -659,7 +651,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 78,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movies2watch.watch",
           "category": "电影",
@@ -667,7 +659,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 79,
+          "rank": 78,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "nakanime.tv",
           "category": "电影",
@@ -675,7 +667,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 80,
+          "rank": 79,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.shahedkoora.com",
           "category": "运动",
@@ -683,7 +675,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 81,
+          "rank": 80,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "anime-sama.si",
           "category": "电影",
@@ -706,9 +698,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 10,
-          "eventCount": 496,
-          "totalUsers": 56
+          "recordCount": 9,
+          "eventCount": 458,
+          "totalUsers": 55
         },
         {
           "category": "运动",
@@ -724,8 +716,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 119,
-        "eventCount": 53354
+        "recordCount": 120,
+        "eventCount": 53392
       }
     }
   ]

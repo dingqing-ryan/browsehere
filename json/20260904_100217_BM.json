@@ -132,14 +132,6 @@
         },
         {
           "rank": 12,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 32,
-          "totalUsers": 1
-        },
-        {
-          "rank": 13,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "ww1.goojara.to",
           "category": "电影",
@@ -147,7 +139,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 14,
+          "rank": 13,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviesjoy.world",
           "category": "电影",
@@ -155,7 +147,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 15,
+          "rank": 14,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -163,7 +155,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 16,
+          "rank": 15,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "moviesjoy.world",
           "category": "电影",
@@ -171,7 +163,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 17,
+          "rank": 16,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "realzoomovies.com",
           "category": "电影",
@@ -179,7 +171,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 18,
+          "rank": 17,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "la123movies.cloud",
           "category": "电影",
@@ -187,7 +179,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 19,
+          "rank": 18,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "123moviess.mov",
           "category": "电影",
@@ -195,7 +187,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 20,
+          "rank": 19,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cinehd.vc",
           "category": "电影",
@@ -203,7 +195,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 21,
+          "rank": 20,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "123movie.cat",
           "category": "电影",
@@ -211,7 +203,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 22,
+          "rank": 21,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "123movie.cat",
           "category": "电影",
@@ -219,7 +211,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 23,
+          "rank": 22,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "123moviess.mov",
           "category": "电影",
@@ -227,7 +219,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 24,
+          "rank": 23,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cinehd.dev",
           "category": "电影",
@@ -235,7 +227,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 25,
+          "rank": 24,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "majed-koora.live",
           "category": "运动",
@@ -243,7 +235,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 26,
+          "rank": 25,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.livehdtv.com",
           "category": "直播",
@@ -266,9 +258,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 2,
-          "eventCount": 33,
-          "totalUsers": 2
+          "recordCount": 1,
+          "eventCount": 1,
+          "totalUsers": 1
         },
         {
           "category": "运动",
@@ -284,8 +276,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 31,
-        "eventCount": 4772
+        "recordCount": 32,
+        "eventCount": 4804
       }
     }
   ]

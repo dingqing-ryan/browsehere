@@ -556,14 +556,6 @@
         },
         {
           "rank": 65,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "luxuretv.com",
-          "category": "直播",
-          "eventCount": 1166,
-          "totalUsers": 1
-        },
-        {
-          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "rezka.ag",
           "category": "电影",
@@ -571,7 +563,7 @@
           "totalUsers": 56
         },
         {
-          "rank": 67,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rezka.ag",
           "category": "电影",
@@ -579,7 +571,7 @@
           "totalUsers": 43
         },
         {
-          "rank": 68,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "google.com",
           "category": "Top 50",
@@ -587,7 +579,7 @@
           "totalUsers": 12
         },
         {
-          "rank": 69,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbollibretv.net.pe",
           "category": "运动",
@@ -595,7 +587,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 70,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "dailymotion.com",
           "category": "直播",
@@ -603,7 +595,7 @@
           "totalUsers": 9
         },
         {
-          "rank": 71,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ntv.cx",
           "category": "新闻",
@@ -611,7 +603,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 72,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "twinksnhunks.com",
           "category": "电影",
@@ -619,7 +611,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 73,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "pirlotv.bz",
           "category": "运动",
@@ -627,7 +619,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live.redtraffic.net",
           "category": "直播",
@@ -650,9 +642,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 25,
-          "eventCount": 370260,
-          "totalUsers": 78
+          "recordCount": 24,
+          "eventCount": 369094,
+          "totalUsers": 77
         },
         {
           "category": "运动",
@@ -668,8 +660,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 126,
-        "eventCount": 1037714
+        "recordCount": 127,
+        "eventCount": 1038880
       }
     }
   ]

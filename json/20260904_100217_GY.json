@@ -588,14 +588,6 @@
         },
         {
           "rank": 69,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 258,
-          "totalUsers": 3
-        },
-        {
-          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "gogoanime.by",
           "category": "电影",
@@ -603,7 +595,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 71,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hurawatch.sx",
           "category": "电影",
@@ -611,7 +603,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 72,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "reanime.to",
           "category": "电影",
@@ -619,7 +611,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 73,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "sweet-tv.net",
           "category": "直播",
@@ -627,7 +619,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "reddit.com",
           "category": "Top 50",
@@ -635,7 +627,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 75,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.instagram.com",
           "category": "Top 50",
@@ -643,7 +635,7 @@
           "totalUsers": 17
         },
         {
-          "rank": 76,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hianimes.se",
           "category": "电影",
@@ -651,7 +643,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 77,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "moviesjoy.sx",
           "category": "电影",
@@ -659,7 +651,7 @@
           "totalUsers": 13
         },
         {
-          "rank": 78,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww5.tinyzone.org",
           "category": "电影",
@@ -667,7 +659,7 @@
           "totalUsers": 9
         },
         {
-          "rank": 79,
+          "rank": 78,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "hurawatch.sx",
           "category": "电影",
@@ -675,7 +667,7 @@
           "totalUsers": 12
         },
         {
-          "rank": 80,
+          "rank": 79,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "moviebox.gd",
           "category": "电影",
@@ -683,7 +675,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 81,
+          "rank": 80,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "bflixs.cx",
           "category": "电影",
@@ -691,7 +683,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 82,
+          "rank": 81,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.youtube.com",
           "category": "Top 50",
@@ -699,7 +691,7 @@
           "totalUsers": 39
         },
         {
-          "rank": 83,
+          "rank": 82,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "instagram.com",
           "category": "Top 50",
@@ -707,7 +699,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 84,
+          "rank": 83,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "flixtor.to",
           "category": "电影",
@@ -715,7 +707,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 85,
+          "rank": 84,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "losmovies.gd",
           "category": "电影",
@@ -738,9 +730,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 5,
-          "eventCount": 2958,
-          "totalUsers": 27
+          "recordCount": 4,
+          "eventCount": 2700,
+          "totalUsers": 24
         },
         {
           "category": "运动",
@@ -756,8 +748,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 115,
-        "eventCount": 252268
+        "recordCount": 116,
+        "eventCount": 252526
       }
     }
   ]

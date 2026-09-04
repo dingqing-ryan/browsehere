@@ -365,21 +365,13 @@
         {
           "rank": 41,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 3291,
-          "totalUsers": 1
-        },
-        {
-          "rank": 42,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "servustv.com",
           "category": "直播",
           "eventCount": 3218,
           "totalUsers": 15
         },
         {
-          "rank": 43,
+          "rank": 42,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patrongol34.cfd",
           "category": "运动",
@@ -387,7 +379,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 44,
+          "rank": 43,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "mahsunsports.xyz",
           "category": "运动",
@@ -395,7 +387,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 45,
+          "rank": 44,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftarium24bjk14.com",
           "category": "运动",
@@ -403,7 +395,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 46,
+          "rank": 45,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "crichdsee.st",
           "category": "运动",
@@ -411,7 +403,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 47,
+          "rank": 46,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "start.sportdigital.de",
           "category": "运动",
@@ -419,7 +411,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 48,
+          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "1tv.ru",
           "category": "新闻",
@@ -427,15 +419,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 49,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "luxuretv.com",
-          "category": "直播",
-          "eventCount": 2584,
-          "totalUsers": 1
-        },
-        {
-          "rank": 50,
+          "rank": 48,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ridomovies.su",
           "category": "电影",
@@ -443,7 +427,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 51,
+          "rank": 49,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patronfutbol58.cfd",
           "category": "运动",
@@ -451,7 +435,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 52,
+          "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kick.com",
           "category": "直播",
@@ -459,7 +443,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 53,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kinogomy.net",
           "category": "电影",
@@ -467,7 +451,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 54,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "rezka.ag",
           "category": "电影",
@@ -475,7 +459,7 @@
           "totalUsers": 115
         },
         {
-          "rank": 55,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patronizle59.cfd",
           "category": "运动",
@@ -483,7 +467,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 56,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kinogo.online",
           "category": "电影",
@@ -491,7 +475,7 @@
           "totalUsers": 27
         },
         {
-          "rank": 57,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tennistream.com",
           "category": "运动",
@@ -499,7 +483,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 58,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patronlive52.cfd",
           "category": "运动",
@@ -507,7 +491,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 59,
+          "rank": 57,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "springreiten-live.com",
           "category": "直播",
@@ -515,7 +499,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 60,
+          "rank": 58,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hesgoal.zone",
           "category": "运动",
@@ -523,7 +507,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 61,
+          "rank": 59,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "filmmakinesi.to",
           "category": "电影",
@@ -531,7 +515,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 62,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftariumonline24.org",
           "category": "运动",
@@ -539,7 +523,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 63,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "newslive1.homes",
           "category": "新闻",
@@ -547,7 +531,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 64,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rezka.ag",
           "category": "电影",
@@ -555,7 +539,7 @@
           "totalUsers": 76
         },
         {
-          "rank": 65,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patron35.cfd",
           "category": "运动",
@@ -563,7 +547,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 66,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "megakino17.com",
           "category": "电影",
@@ -571,7 +555,7 @@
           "totalUsers": 64
         },
         {
-          "rank": 67,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "atv.com.tr",
           "category": "直播",
@@ -579,7 +563,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 68,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "gledaitv.fan",
           "category": "直播",
@@ -587,7 +571,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 69,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftarium24tr.top",
           "category": "运动",
@@ -595,7 +579,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 70,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "mahsunsports50.xyz",
           "category": "运动",
@@ -603,7 +587,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 71,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftarium24bjk13.com",
           "category": "运动",
@@ -611,7 +595,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 72,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "iptv.nak.ch",
           "category": "直播",
@@ -619,7 +603,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 73,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "yalla1shot.com",
           "category": "运动",
@@ -627,7 +611,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 74,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "freiepresse.de",
           "category": "新闻",
@@ -635,7 +619,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 75,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ligatv.md",
           "category": "直播",
@@ -643,7 +627,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 76,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "aparatchii.com",
           "category": "直播",
@@ -651,7 +635,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 77,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "almultaqanews.online",
           "category": "新闻",
@@ -659,7 +643,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 78,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "justintvturkiyesh.vip",
           "category": "新闻",
@@ -667,7 +651,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 79,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "megakino17.com",
           "category": "电影",
@@ -675,7 +659,7 @@
           "totalUsers": 49
         },
         {
-          "rank": 80,
+          "rank": 78,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "bosssports1027.com",
           "category": "运动",
@@ -683,7 +667,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 81,
+          "rank": 79,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "multicanaishd.church",
           "category": "运动",
@@ -691,7 +675,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 82,
+          "rank": 80,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ecanlitvizle.live",
           "category": "运动",
@@ -699,7 +683,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 83,
+          "rank": 81,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kinovibe.cc",
           "category": "电影",
@@ -707,7 +691,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 84,
+          "rank": 82,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "patronyayin29.cfd",
           "category": "运动",
@@ -715,7 +699,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 85,
+          "rank": 83,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movieland.af",
           "category": "电影",
@@ -738,9 +722,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 24,
-          "eventCount": 283201,
-          "totalUsers": 100
+          "recordCount": 22,
+          "eventCount": 277326,
+          "totalUsers": 98
         },
         {
           "category": "运动",
@@ -756,8 +740,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 115,
-        "eventCount": 766629
+        "recordCount": 117,
+        "eventCount": 772504
       }
     }
   ]

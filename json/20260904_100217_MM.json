@@ -244,14 +244,6 @@
         },
         {
           "rank": 26,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 480,
-          "totalUsers": 1
-        },
-        {
-          "rank": 27,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "kissasian.cam",
           "category": "电影",
@@ -259,7 +251,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 28,
+          "rank": 27,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tamilgun.now",
           "category": "电影",
@@ -267,7 +259,7 @@
           "totalUsers": 16
         },
         {
-          "rank": 29,
+          "rank": 28,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movie-box.co",
           "category": "电影",
@@ -275,7 +267,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 30,
+          "rank": 29,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "pelotalibre.uno",
           "category": "运动",
@@ -283,7 +275,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 31,
+          "rank": 30,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "camellofutbol.com",
           "category": "运动",
@@ -291,7 +283,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 32,
+          "rank": 31,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "socolive.cool",
           "category": "运动",
@@ -299,7 +291,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 33,
+          "rank": 32,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.tiktok.com",
           "category": "Top 50",
@@ -307,7 +299,7 @@
           "totalUsers": 16
         },
         {
-          "rank": 34,
+          "rank": 33,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vividkink.com",
           "category": "电影",
@@ -315,7 +307,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 35,
+          "rank": 34,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "discord.com",
           "category": "Top 50",
@@ -323,7 +315,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 36,
+          "rank": 35,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kissasian.cam",
           "category": "电影",
@@ -331,7 +323,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 37,
+          "rank": 36,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "mmlovetv.com",
           "category": "直播",
@@ -339,7 +331,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 38,
+          "rank": 37,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "google.com",
           "category": "Top 50",
@@ -347,7 +339,7 @@
           "totalUsers": 15
         },
         {
-          "rank": 39,
+          "rank": 38,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "xoilacxtq.tv",
           "category": "运动",
@@ -355,7 +347,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 40,
+          "rank": 39,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "netfilm.world",
           "category": "电影",
@@ -363,7 +355,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 41,
+          "rank": 40,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "socolive9.io",
           "category": "运动",
@@ -371,7 +363,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 42,
+          "rank": 41,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movieboxonline.org",
           "category": "电影",
@@ -379,7 +371,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 43,
+          "rank": 42,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "socolivezzjj.cc",
           "category": "运动",
@@ -387,7 +379,7 @@
           "totalUsers": 22
         },
         {
-          "rank": 44,
+          "rank": 43,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.xiaobaotv.com",
           "category": "直播",
@@ -395,7 +387,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 45,
+          "rank": 44,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "mekongnewsmm.com",
           "category": "新闻",
@@ -403,7 +395,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 46,
+          "rank": 45,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.youtube.com",
           "category": "Top 50",
@@ -411,7 +403,7 @@
           "totalUsers": 38
         },
         {
-          "rank": 47,
+          "rank": 46,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "mmsubmovie.com",
           "category": "电影",
@@ -419,7 +411,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 48,
+          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "goal7.co",
           "category": "运动",
@@ -427,7 +419,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 49,
+          "rank": 48,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviesdatamil.me",
           "category": "电影",
@@ -435,7 +427,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 50,
+          "rank": 49,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "xiaobaotv.tv",
           "category": "直播",
@@ -443,7 +435,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 51,
+          "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movie-box.tv",
           "category": "电影",
@@ -451,7 +443,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 52,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "movie-box.co",
           "category": "电影",
@@ -459,7 +451,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 53,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.livescore.com",
           "category": "运动",
@@ -467,7 +459,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 54,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "reddit.com",
           "category": "Top 50",
@@ -475,15 +467,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 55,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 100,
-          "totalUsers": 1
-        },
-        {
-          "rank": 56,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live3.totalsportekhd.st",
           "category": "运动",
@@ -491,7 +475,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 57,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -499,7 +483,7 @@
           "totalUsers": 17
         },
         {
-          "rank": 58,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "movie-box.tv",
           "category": "电影",
@@ -522,9 +506,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 6,
-          "eventCount": 2558,
-          "totalUsers": 10
+          "recordCount": 4,
+          "eventCount": 1978,
+          "totalUsers": 8
         },
         {
           "category": "运动",
@@ -540,8 +524,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 142,
-        "eventCount": 330525
+        "recordCount": 144,
+        "eventCount": 331105
       }
     }
   ]

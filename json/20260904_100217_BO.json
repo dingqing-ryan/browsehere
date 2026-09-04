@@ -693,21 +693,13 @@
         {
           "rank": 82,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "es.luxuretv.com",
-          "category": "直播",
-          "eventCount": 4967,
-          "totalUsers": 24
-        },
-        {
-          "rank": 83,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "strikeout.im",
           "category": "运动",
           "eventCount": 4597,
           "totalUsers": 4
         },
         {
-          "rank": 84,
+          "rank": 83,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "multicanaishd.church",
           "category": "运动",
@@ -715,7 +707,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 85,
+          "rank": 84,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cuevana3l.biz",
           "category": "电影",
@@ -723,7 +715,7 @@
           "totalUsers": 260
         },
         {
-          "rank": 86,
+          "rank": 85,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "twitch.tv",
           "category": "Top 50",
@@ -731,7 +723,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 87,
+          "rank": 86,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "dailymotion.com",
           "category": "直播",
@@ -739,7 +731,7 @@
           "totalUsers": 49
         },
         {
-          "rank": 88,
+          "rank": 87,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "piratetv.vip",
           "category": "直播",
@@ -747,7 +739,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 89,
+          "rank": 88,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbollibretv-hd.net",
           "category": "运动",
@@ -755,7 +747,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 90,
+          "rank": 89,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbollibree.pe",
           "category": "运动",
@@ -763,7 +755,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 91,
+          "rank": 90,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rojadirectatv.world",
           "category": "运动",
@@ -771,7 +763,7 @@
           "totalUsers": 11
         },
         {
-          "rank": 92,
+          "rank": 91,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "dzritv.com",
           "category": "新闻",
@@ -779,7 +771,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 93,
+          "rank": 92,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "futbollibrehd.us",
           "category": "运动",
@@ -787,7 +779,7 @@
           "totalUsers": 743
         },
         {
-          "rank": 94,
+          "rank": 93,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ridomovies.su",
           "category": "电影",
@@ -795,7 +787,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 95,
+          "rank": 94,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "minhasdelicias.com",
           "category": "新闻",
@@ -803,7 +795,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 96,
+          "rank": 95,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tvlibreonline.tv",
           "category": "运动",
@@ -811,7 +803,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 97,
+          "rank": 96,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vantagetv.eu",
           "category": "直播",
@@ -819,7 +811,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 98,
+          "rank": 97,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "pelotalibre.uno",
           "category": "运动",
@@ -827,7 +819,7 @@
           "totalUsers": 398
         },
         {
-          "rank": 99,
+          "rank": 98,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbollibres.co",
           "category": "运动",
@@ -835,7 +827,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 100,
+          "rank": 99,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vimeo.com",
           "category": "Top 50",
@@ -858,9 +850,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 11,
-          "eventCount": 189056,
-          "totalUsers": 173
+          "recordCount": 10,
+          "eventCount": 184089,
+          "totalUsers": 149
         },
         {
           "category": "运动",
@@ -876,8 +868,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 84,
-        "eventCount": 2664262
+        "recordCount": 85,
+        "eventCount": 2669229
       }
     }
   ]

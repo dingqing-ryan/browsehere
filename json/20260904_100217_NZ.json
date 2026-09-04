@@ -612,14 +612,6 @@
         },
         {
           "rank": 72,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 2197,
-          "totalUsers": 13
-        },
-        {
-          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "rugbybox.me",
           "category": "运动",
@@ -627,7 +619,7 @@
           "totalUsers": 101
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "ww1.goojara.to",
           "category": "电影",
@@ -635,7 +627,7 @@
           "totalUsers": 120
         },
         {
-          "rank": 75,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rojadirecta.host",
           "category": "运动",
@@ -643,7 +635,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 76,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rojadirectatvoficial.de",
           "category": "运动",
@@ -651,7 +643,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 77,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rojadirectaoficial.net",
           "category": "运动",
@@ -659,7 +651,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 78,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "flixtor.li",
           "category": "电影",
@@ -667,7 +659,7 @@
           "totalUsers": 96
         },
         {
-          "rank": 79,
+          "rank": 78,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "edition.cnn.com",
           "category": "新闻",
@@ -690,9 +682,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 9,
-          "eventCount": 96251,
-          "totalUsers": 77
+          "recordCount": 8,
+          "eventCount": 94054,
+          "totalUsers": 64
         },
         {
           "category": "运动",
@@ -708,8 +700,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 121,
-        "eventCount": 2707664
+        "recordCount": 122,
+        "eventCount": 2709861
       }
     }
   ]

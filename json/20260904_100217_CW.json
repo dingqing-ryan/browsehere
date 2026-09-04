@@ -508,14 +508,6 @@
         },
         {
           "rank": 59,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 75,
-          "totalUsers": 1
-        },
-        {
-          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tbg.seriesturcastv.to",
           "category": "直播",
@@ -523,7 +515,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 61,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "filtradas.com",
           "category": "新闻",
@@ -531,7 +523,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 62,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "flixtor.to",
           "category": "电影",
@@ -539,7 +531,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 63,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live5.totalsportekhd.st",
           "category": "运动",
@@ -547,7 +539,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 64,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbollibre.my",
           "category": "运动",
@@ -555,7 +547,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 65,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "strikeout.im",
           "category": "运动",
@@ -563,7 +555,7 @@
           "totalUsers": 7
         },
         {
-          "rank": 66,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "mainsports.me",
           "category": "运动",
@@ -571,7 +563,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 67,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviesjoy.ca",
           "category": "电影",
@@ -579,7 +571,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 68,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "hurawatch.sx",
           "category": "电影",
@@ -587,7 +579,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 69,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "futbollibretv.sx",
           "category": "运动",
@@ -595,7 +587,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 70,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hurawatch.sx",
           "category": "电影",
@@ -618,9 +610,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 9,
-          "eventCount": 19088,
-          "totalUsers": 12
+          "recordCount": 8,
+          "eventCount": 19013,
+          "totalUsers": 11
         },
         {
           "category": "运动",
@@ -636,8 +628,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 130,
-        "eventCount": 783309
+        "recordCount": 131,
+        "eventCount": 783384
       }
     }
   ]

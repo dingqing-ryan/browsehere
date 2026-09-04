@@ -221,21 +221,13 @@
         {
           "rank": 23,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "luxuretv.com",
-          "category": "直播",
-          "eventCount": 372,
-          "totalUsers": 2
-        },
-        {
-          "rank": 24,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "go4score.net",
           "category": "运动",
           "eventCount": 314,
           "totalUsers": 1
         },
         {
-          "rank": 25,
+          "rank": 24,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "voir-anime.to",
           "category": "电影",
@@ -243,7 +235,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 26,
+          "rank": 25,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "voir-anime.to",
           "category": "电影",
@@ -251,7 +243,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 27,
+          "rank": 26,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "fstv.rest",
           "category": "直播",
@@ -259,7 +251,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 28,
+          "rank": 27,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.facebook.com",
           "category": "Top 50",
@@ -267,7 +259,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 29,
+          "rank": 28,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "media-hls.doppiocdn.media",
           "category": "直播",
@@ -275,7 +267,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 30,
+          "rank": 29,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "sportenfrance.com",
           "category": "运动",
@@ -298,9 +290,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 9,
-          "eventCount": 12738,
-          "totalUsers": 14
+          "recordCount": 8,
+          "eventCount": 12366,
+          "totalUsers": 12
         },
         {
           "category": "运动",
@@ -316,8 +308,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 170,
-        "eventCount": 691905
+        "recordCount": 171,
+        "eventCount": 692277
       }
     }
   ]

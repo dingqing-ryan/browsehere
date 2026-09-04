@@ -404,14 +404,6 @@
         },
         {
           "rank": 46,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "luxuretv.com",
-          "category": "直播",
-          "eventCount": 9341,
-          "totalUsers": 61
-        },
-        {
-          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -419,7 +411,7 @@
           "totalUsers": 1554
         },
         {
-          "rank": 48,
+          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "23.yallashoots.fun",
           "category": "运动",
@@ -427,7 +419,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 49,
+          "rank": 48,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "w1.yallabark.com",
           "category": "运动",
@@ -450,9 +442,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 8,
-          "eventCount": 256004,
-          "totalUsers": 2022
+          "recordCount": 7,
+          "eventCount": 246663,
+          "totalUsers": 1961
         },
         {
           "category": "运动",
@@ -468,8 +460,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 151,
-        "eventCount": 7431478
+        "recordCount": 152,
+        "eventCount": 7440819
       }
     }
   ]

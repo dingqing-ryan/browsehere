@@ -709,21 +709,13 @@
         {
           "rank": 84,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "en.luxuretv.com",
-          "category": "直播",
-          "eventCount": 2595,
-          "totalUsers": 1
-        },
-        {
-          "rank": 85,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "score808live.tv",
           "category": "运动",
           "eventCount": 2589,
           "totalUsers": 2
         },
         {
-          "rank": 86,
+          "rank": 85,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "pirlotv.bz",
           "category": "运动",
@@ -731,7 +723,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 87,
+          "rank": 86,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "pelotalibre.cl",
           "category": "运动",
@@ -739,7 +731,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 88,
+          "rank": 87,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "bikerscolombia.com",
           "category": "运动",
@@ -747,7 +739,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 89,
+          "rank": 88,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "teleuniversotv.com",
           "category": "直播",
@@ -755,7 +747,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 90,
+          "rank": 89,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kick.com",
           "category": "直播",
@@ -763,7 +755,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 91,
+          "rank": 90,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "go4score.net",
           "category": "运动",
@@ -771,7 +763,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 92,
+          "rank": 91,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kinogo.no",
           "category": "电影",
@@ -779,7 +771,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 93,
+          "rank": 92,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rojadirectatv.cl",
           "category": "运动",
@@ -802,9 +794,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 18,
-          "eventCount": 322096,
-          "totalUsers": 37
+          "recordCount": 17,
+          "eventCount": 319501,
+          "totalUsers": 36
         },
         {
           "category": "运动",
@@ -820,8 +812,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 107,
-        "eventCount": 1145998
+        "recordCount": 108,
+        "eventCount": 1148593
       }
     }
   ]
