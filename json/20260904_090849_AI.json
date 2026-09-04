@@ -1,0 +1,154 @@
+{
+  "generatedAt": "20260904_090849",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "excludeAdultContent": true,
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人",
+    "reviewedDecisions": [
+      {
+        "customParameter": "playvids.com",
+        "category": "成人"
+      }
+    ]
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "AI",
+      "country": "Anguilla",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipbox.fm",
+          "category": "运动",
+          "eventCount": 6028,
+          "totalUsers": 1
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "mitratemanors.com",
+          "category": "Top 50",
+          "eventCount": 3146,
+          "totalUsers": 1
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xnxx.com",
+          "category": "Top 50",
+          "eventCount": 83,
+          "totalUsers": 1
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 71,
+          "totalUsers": 6
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "flixtor.vip",
+          "category": "电影",
+          "eventCount": 36,
+          "totalUsers": 1
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "01tube.com",
+          "category": "电影",
+          "eventCount": 24,
+          "totalUsers": 1
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.disneyplus.com",
+          "category": "电影",
+          "eventCount": 23,
+          "totalUsers": 1
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "heavy-r.com",
+          "category": "Top 50",
+          "eventCount": 17,
+          "totalUsers": 1
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ww8.123moviesfree.net",
+          "category": "电影",
+          "eventCount": 7,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 4,
+          "eventCount": 3317,
+          "totalUsers": 9
+        },
+        {
+          "category": "电影",
+          "recordCount": 4,
+          "eventCount": 90,
+          "totalUsers": 4
+        },
+        {
+          "category": "直播",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "运动",
+          "recordCount": 1,
+          "eventCount": 6028,
+          "totalUsers": 1
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 8,
+        "eventCount": 2006
+      }
+    }
+  ]
+}

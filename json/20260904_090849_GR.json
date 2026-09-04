@@ -1,0 +1,706 @@
+{
+  "generatedAt": "20260904_090849",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "excludeAdultContent": true,
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人",
+    "reviewedDecisions": [
+      {
+        "customParameter": "playvids.com",
+        "category": "成人"
+      }
+    ]
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "GR",
+      "country": "Greece",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fawanews.sc",
+          "category": "新闻",
+          "eventCount": 260312,
+          "totalUsers": 106
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "alphatv.gr",
+          "category": "直播",
+          "eventCount": 190870,
+          "totalUsers": 640
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "opapmmd.vermantiacloud.com",
+          "category": "Top 50",
+          "eventCount": 149532,
+          "totalUsers": 5
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "stokourbeti.online",
+          "category": "Top 50",
+          "eventCount": 146954,
+          "totalUsers": 149
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xnxx.com",
+          "category": "Top 50",
+          "eventCount": 121815,
+          "totalUsers": 544
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "smotret.tv",
+          "category": "直播",
+          "eventCount": 108204,
+          "totalUsers": 24
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "skai.gr",
+          "category": "新闻",
+          "eventCount": 104946,
+          "totalUsers": 196
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "antenna.gr",
+          "category": "直播",
+          "eventCount": 88799,
+          "totalUsers": 54
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hdfilmcehennemi.nl",
+          "category": "电影",
+          "eventCount": 72602,
+          "totalUsers": 32
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 66068,
+          "totalUsers": 6238
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "global.cavea.plus",
+          "category": "电影",
+          "eventCount": 65476,
+          "totalUsers": 1
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "foothubhd.st",
+          "category": "运动",
+          "eventCount": 55541,
+          "totalUsers": 61
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "seasonvar.one",
+          "category": "电影",
+          "eventCount": 49708,
+          "totalUsers": 1
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televizia.org",
+          "category": "直播",
+          "eventCount": 49462,
+          "totalUsers": 6
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go2026.app",
+          "category": "Top 50",
+          "eventCount": 42897,
+          "totalUsers": 9
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 42654,
+          "totalUsers": 14
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.viks.tv",
+          "category": "直播",
+          "eventCount": 42315,
+          "totalUsers": 14
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ritsatv.ru",
+          "category": "直播",
+          "eventCount": 34675,
+          "totalUsers": 2
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strikeout.im",
+          "category": "运动",
+          "eventCount": 34349,
+          "totalUsers": 5
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "foothublive.top",
+          "category": "运动",
+          "eventCount": 30857,
+          "totalUsers": 26
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "star.gr",
+          "category": "Top 50",
+          "eventCount": 30261,
+          "totalUsers": 42
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gledaitv.live",
+          "category": "直播",
+          "eventCount": 28935,
+          "totalUsers": 27
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipboxtv.sk",
+          "category": "运动",
+          "eventCount": 27585,
+          "totalUsers": 17
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ertnews.gr",
+          "category": "新闻",
+          "eventCount": 24282,
+          "totalUsers": 6
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.smotrim.ru",
+          "category": "直播",
+          "eventCount": 23118,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "app.teeveeing.com",
+          "category": "Top 50",
+          "eventCount": 21607,
+          "totalUsers": 1
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "s.viks.tv",
+          "category": "直播",
+          "eventCount": 21592,
+          "totalUsers": 1
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "iptv-bg.com",
+          "category": "直播",
+          "eventCount": 21299,
+          "totalUsers": 1
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveball.sx",
+          "category": "运动",
+          "eventCount": 20551,
+          "totalUsers": 15
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ss.pokaz.me",
+          "category": "Top 50",
+          "eventCount": 20363,
+          "totalUsers": 1
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "booking.farma-rhodes.com",
+          "category": "Top 50",
+          "eventCount": 19688,
+          "totalUsers": 1
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.xnxx.com",
+          "category": "Top 50",
+          "eventCount": 18799,
+          "totalUsers": 470
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vgtrk.ru",
+          "category": "直播",
+          "eventCount": 17258,
+          "totalUsers": 4
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "megatv.com",
+          "category": "直播",
+          "eventCount": 15928,
+          "totalUsers": 575
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipbox.fm",
+          "category": "运动",
+          "eventCount": 15642,
+          "totalUsers": 9
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "novibet.gr",
+          "category": "Top 50",
+          "eventCount": 15348,
+          "totalUsers": 4
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pemptousia.tv",
+          "category": "Top 50",
+          "eventCount": 15252,
+          "totalUsers": 7
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.alphatv.gr",
+          "category": "直播",
+          "eventCount": 14818,
+          "totalUsers": 515
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogohd.online",
+          "category": "电影",
+          "eventCount": 13683,
+          "totalUsers": 1
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ridomovies.su",
+          "category": "电影",
+          "eventCount": 13673,
+          "totalUsers": 2
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.tivix.co",
+          "category": "直播",
+          "eventCount": 13330,
+          "totalUsers": 2
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4score.net",
+          "category": "运动",
+          "eventCount": 12849,
+          "totalUsers": 6
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.syria-scores.com",
+          "category": "运动",
+          "eventCount": 12842,
+          "totalUsers": 1
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.megatv.com",
+          "category": "直播",
+          "eventCount": 12807,
+          "totalUsers": 558
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m4sport.hu",
+          "category": "运动",
+          "eventCount": 12143,
+          "totalUsers": 1
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "live.domatv.net",
+          "category": "直播",
+          "eventCount": 11731,
+          "totalUsers": 5
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rustv.live",
+          "category": "直播",
+          "eventCount": 11695,
+          "totalUsers": 5
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "eurovisionsport.com",
+          "category": "运动",
+          "eventCount": 11576,
+          "totalUsers": 12
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipbox1.xyz",
+          "category": "Top 50",
+          "eventCount": 11052,
+          "totalUsers": 1
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "stores.allwyn.gr",
+          "category": "Top 50",
+          "eventCount": 10897,
+          "totalUsers": 31
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tf1.fr",
+          "category": "直播",
+          "eventCount": 10824,
+          "totalUsers": 2
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dlstreams.st",
+          "category": "直播",
+          "eventCount": 10744,
+          "totalUsers": 15
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jack13eo.mpgreatestclgczbmiddle.my",
+          "category": "Top 50",
+          "eventCount": 10616,
+          "totalUsers": 2
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo.online",
+          "category": "电影",
+          "eventCount": 10593,
+          "totalUsers": 64
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televizor24.tv",
+          "category": "直播",
+          "eventCount": 9757,
+          "totalUsers": 2
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "buffsports.io",
+          "category": "运动",
+          "eventCount": 9693,
+          "totalUsers": 4
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "voody-online.com",
+          "category": "直播",
+          "eventCount": 9651,
+          "totalUsers": 190
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "x.com",
+          "category": "Top 50",
+          "eventCount": 9377,
+          "totalUsers": 11
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "oxax.tv",
+          "category": "Top 50",
+          "eventCount": 9325,
+          "totalUsers": 2
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.sx",
+          "category": "运动",
+          "eventCount": 8976,
+          "totalUsers": 1
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "193.47.62.54",
+          "category": "Top 50",
+          "eventCount": 8916,
+          "totalUsers": 1
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "gamatotv.cz",
+          "category": "电影",
+          "eventCount": 8906,
+          "totalUsers": 251
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ertflix.gr",
+          "category": "电影",
+          "eventCount": 8698,
+          "totalUsers": 9
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "24.yallashoots.fun",
+          "category": "运动",
+          "eventCount": 8677,
+          "totalUsers": 1
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "twstalker.com",
+          "category": "Top 50",
+          "eventCount": 8540,
+          "totalUsers": 1
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kinogo-home.net",
+          "category": "电影",
+          "eventCount": 8288,
+          "totalUsers": 1
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "movio.club",
+          "category": "Top 50",
+          "eventCount": 7989,
+          "totalUsers": 11
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rutube.ru",
+          "category": "Top 50",
+          "eventCount": 7936,
+          "totalUsers": 2
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "asostv.gr",
+          "category": "直播",
+          "eventCount": 7911,
+          "totalUsers": 112
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gledaitv.fan",
+          "category": "直播",
+          "eventCount": 7877,
+          "totalUsers": 6
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "netnix.tv",
+          "category": "电影",
+          "eventCount": 7084,
+          "totalUsers": 4
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "193.47.62.58",
+          "category": "Top 50",
+          "eventCount": 7037,
+          "totalUsers": 1
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "news.freelist.gr",
+          "category": "新闻",
+          "eventCount": 6982,
+          "totalUsers": 2
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "google.com",
+          "category": "Top 50",
+          "eventCount": 6924,
+          "totalUsers": 40
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "193.47.62.41",
+          "category": "Top 50",
+          "eventCount": 6801,
+          "totalUsers": 1
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "nrk.no",
+          "category": "直播",
+          "eventCount": 6682,
+          "totalUsers": 1
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "televiziebi.tv",
+          "category": "直播",
+          "eventCount": 6674,
+          "totalUsers": 1
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "forecastweather.gr",
+          "category": "Top 50",
+          "eventCount": 6658,
+          "totalUsers": 2
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 26,
+          "eventCount": 823306,
+          "totalUsers": 7591
+        },
+        {
+          "category": "电影",
+          "recordCount": 10,
+          "eventCount": 258711,
+          "totalUsers": 366
+        },
+        {
+          "category": "直播",
+          "recordCount": 25,
+          "eventCount": 776956,
+          "totalUsers": 2763
+        },
+        {
+          "category": "运动",
+          "recordCount": 13,
+          "eventCount": 261281,
+          "totalUsers": 159
+        },
+        {
+          "category": "新闻",
+          "recordCount": 4,
+          "eventCount": 396522,
+          "totalUsers": 310
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 22,
+        "eventCount": 853687
+      }
+    }
+  ]
+}

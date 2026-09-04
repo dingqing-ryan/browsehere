@@ -1,0 +1,706 @@
+{
+  "generatedAt": "20260904_090849",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "excludeAdultContent": true,
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人",
+    "reviewedDecisions": [
+      {
+        "customParameter": "playvids.com",
+        "category": "成人"
+      }
+    ]
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "MX",
+      "country": "Mexico",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretvhd.org",
+          "category": "运动",
+          "eventCount": 6743559,
+          "totalUsers": 4230
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotaalibre.la",
+          "category": "运动",
+          "eventCount": 2559079,
+          "totalUsers": 1162
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pirlotv.la",
+          "category": "运动",
+          "eventCount": 2060127,
+          "totalUsers": 1457
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbol-libre.st",
+          "category": "运动",
+          "eventCount": 1813555,
+          "totalUsers": 1014
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojatv.ad",
+          "category": "运动",
+          "eventCount": 1583621,
+          "totalUsers": 859
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojablog.pl",
+          "category": "运动",
+          "eventCount": 1361411,
+          "totalUsers": 846
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "xnxx.es",
+          "category": "Top 50",
+          "eventCount": 1052048,
+          "totalUsers": 5357
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectaoficial.net",
+          "category": "运动",
+          "eventCount": 825743,
+          "totalUsers": 554
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibre.my",
+          "category": "运动",
+          "eventCount": 602973,
+          "totalUsers": 610
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibrepro.pe",
+          "category": "运动",
+          "eventCount": 588356,
+          "totalUsers": 230
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectamas.com",
+          "category": "运动",
+          "eventCount": 518503,
+          "totalUsers": 603
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibre.uno",
+          "category": "运动",
+          "eventCount": 469492,
+          "totalUsers": 376
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibre.mx",
+          "category": "运动",
+          "eventCount": 458683,
+          "totalUsers": 194
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 397972,
+          "totalUsers": 135
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.sx",
+          "category": "运动",
+          "eventCount": 368632,
+          "totalUsers": 163
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibrevip.pe",
+          "category": "运动",
+          "eventCount": 336162,
+          "totalUsers": 212
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectastream.net",
+          "category": "运动",
+          "eventCount": 323477,
+          "totalUsers": 540
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibrestream.pe",
+          "category": "运动",
+          "eventCount": 316127,
+          "totalUsers": 123
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 281213,
+          "totalUsers": 23755
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbolparatodos.st",
+          "category": "运动",
+          "eventCount": 265966,
+          "totalUsers": 109
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "kick.com",
+          "category": "直播",
+          "eventCount": 254679,
+          "totalUsers": 63
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectatv.cl",
+          "category": "运动",
+          "eventCount": 251868,
+          "totalUsers": 106
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pasionxelfutbol.com.mx",
+          "category": "运动",
+          "eventCount": 228932,
+          "totalUsers": 147
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.xnxx.es",
+          "category": "Top 50",
+          "eventCount": 214735,
+          "totalUsers": 4962
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibre.buzz",
+          "category": "运动",
+          "eventCount": 202619,
+          "totalUsers": 200
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirecta.st",
+          "category": "运动",
+          "eventCount": 200763,
+          "totalUsers": 183
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.net.pe",
+          "category": "运动",
+          "eventCount": 174015,
+          "totalUsers": 196
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "golazoz.com",
+          "category": "运动",
+          "eventCount": 157313,
+          "totalUsers": 81
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "imagentv.com",
+          "category": "直播",
+          "eventCount": 146318,
+          "totalUsers": 87
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "telegratuita.net",
+          "category": "直播",
+          "eventCount": 138367,
+          "totalUsers": 20
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tvazteca.com",
+          "category": "直播",
+          "eventCount": 136566,
+          "totalUsers": 128
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "b8.mundialdeclubes.mx",
+          "category": "运动",
+          "eventCount": 135232,
+          "totalUsers": 160
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tvguanajuato.com",
+          "category": "直播",
+          "eventCount": 129190,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirecta.ceo",
+          "category": "运动",
+          "eventCount": 128791,
+          "totalUsers": 133
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibrehd.us",
+          "category": "运动",
+          "eventCount": 121964,
+          "totalUsers": 124
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "b7.mundialdeclubes.mx",
+          "category": "运动",
+          "eventCount": 110064,
+          "totalUsers": 159
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strikeout.im",
+          "category": "运动",
+          "eventCount": 106828,
+          "totalUsers": 30
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "librefutbol.vip",
+          "category": "运动",
+          "eventCount": 106280,
+          "totalUsers": 76
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "x.com",
+          "category": "Top 50",
+          "eventCount": 104332,
+          "totalUsers": 129
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetaroja.my",
+          "category": "运动",
+          "eventCount": 100715,
+          "totalUsers": 90
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mundolucha.com",
+          "category": "运动",
+          "eventCount": 98975,
+          "totalUsers": 121
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojahd.com.co",
+          "category": "运动",
+          "eventCount": 98925,
+          "totalUsers": 55
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "b9.mundialdeclubes.mx",
+          "category": "运动",
+          "eventCount": 97940,
+          "totalUsers": 102
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mundolucha.tv",
+          "category": "运动",
+          "eventCount": 94565,
+          "totalUsers": 92
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cxtvenvivo.com",
+          "category": "直播",
+          "eventCount": 93059,
+          "totalUsers": 42
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibre.pics",
+          "category": "运动",
+          "eventCount": 92977,
+          "totalUsers": 77
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibretv.click",
+          "category": "运动",
+          "eventCount": 91814,
+          "totalUsers": 149
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectatvoficial.de",
+          "category": "运动",
+          "eventCount": 91773,
+          "totalUsers": 106
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectaa.net",
+          "category": "运动",
+          "eventCount": 86217,
+          "totalUsers": 110
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirecta.world",
+          "category": "运动",
+          "eventCount": 83632,
+          "totalUsers": 52
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibretv.net.pe",
+          "category": "运动",
+          "eventCount": 82659,
+          "totalUsers": 44
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vix.com",
+          "category": "Top 50",
+          "eventCount": 79317,
+          "totalUsers": 17
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "m.twitch.tv",
+          "category": "直播",
+          "eventCount": 76940,
+          "totalUsers": 15
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "futbollibres.net.pe",
+          "category": "运动",
+          "eventCount": 75504,
+          "totalUsers": 98
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "bet.caliente.mx",
+          "category": "Top 50",
+          "eventCount": 73555,
+          "totalUsers": 34
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectatv.ec",
+          "category": "运动",
+          "eventCount": 72871,
+          "totalUsers": 40
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "elitegoltv.co",
+          "category": "运动",
+          "eventCount": 69341,
+          "totalUsers": 55
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "mlbwebcast.com",
+          "category": "运动",
+          "eventCount": 68591,
+          "totalUsers": 61
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetaroja.st",
+          "category": "运动",
+          "eventCount": 67673,
+          "totalUsers": 85
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pirlotv.world",
+          "category": "运动",
+          "eventCount": 65520,
+          "totalUsers": 36
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lacancha.tv",
+          "category": "运动",
+          "eventCount": 64567,
+          "totalUsers": 50
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojatv.sale",
+          "category": "运动",
+          "eventCount": 63661,
+          "totalUsers": 63
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "deporflix.pe",
+          "category": "运动",
+          "eventCount": 62978,
+          "totalUsers": 11
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojatv.website",
+          "category": "运动",
+          "eventCount": 62705,
+          "totalUsers": 65
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vertvcable.com",
+          "category": "Top 50",
+          "eventCount": 59079,
+          "totalUsers": 8
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ppv.mx",
+          "category": "Top 50",
+          "eventCount": 58859,
+          "totalUsers": 22
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pirlootv.co",
+          "category": "运动",
+          "eventCount": 57994,
+          "totalUsers": 48
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vipboxtv.sk",
+          "category": "运动",
+          "eventCount": 56707,
+          "totalUsers": 12
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pirlotv.bz",
+          "category": "运动",
+          "eventCount": 54220,
+          "totalUsers": 76
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "juventusonair.com",
+          "category": "运动",
+          "eventCount": 52495,
+          "totalUsers": 1
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "pelotalibretv2.online",
+          "category": "运动",
+          "eventCount": 52008,
+          "totalUsers": 11
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.facebook.com",
+          "category": "Top 50",
+          "eventCount": 51677,
+          "totalUsers": 2220
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "streamingcws30.com",
+          "category": "Top 50",
+          "eventCount": 49532,
+          "totalUsers": 12
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.com",
+          "category": "Top 50",
+          "eventCount": 49517,
+          "totalUsers": 39
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetaroja.ad",
+          "category": "运动",
+          "eventCount": 48102,
+          "totalUsers": 65
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "deportestvhd.co",
+          "category": "运动",
+          "eventCount": 47545,
+          "totalUsers": 25
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirecta.cloud",
+          "category": "运动",
+          "eventCount": 46847,
+          "totalUsers": 36
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dulo.gd",
+          "category": "Top 50",
+          "eventCount": 43353,
+          "totalUsers": 3
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 13,
+          "eventCount": 2515189,
+          "totalUsers": 36693
+        },
+        {
+          "category": "电影",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "直播",
+          "recordCount": 7,
+          "eventCount": 975119,
+          "totalUsers": 356
+        },
+        {
+          "category": "运动",
+          "recordCount": 58,
+          "eventCount": 25229656,
+          "totalUsers": 16713
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 22,
+        "eventCount": 8201495
+      }
+    }
+  ]
+}

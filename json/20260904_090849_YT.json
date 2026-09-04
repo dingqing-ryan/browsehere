@@ -1,0 +1,514 @@
+{
+  "generatedAt": "20260904_090849",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "excludeAdultContent": true,
+    "topNPerCountry": 100,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人",
+    "reviewedDecisions": [
+      {
+        "customParameter": "playvids.com",
+        "category": "成人"
+      }
+    ]
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "YT",
+      "country": "Mayotte",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "la1ere.franceinfo.fr",
+          "category": "新闻",
+          "eventCount": 46932,
+          "totalUsers": 5
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "plus.ligue1.com",
+          "category": "运动",
+          "eventCount": 4963,
+          "totalUsers": 1
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jack11eo.mpgreatestclgczbmiddle.my",
+          "category": "Top 50",
+          "eventCount": 4011,
+          "totalUsers": 2
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jack13eo.mpgreatestclgczbmiddle.my",
+          "category": "Top 50",
+          "eventCount": 2360,
+          "totalUsers": 1
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "anime-sama.to",
+          "category": "电影",
+          "eventCount": 828,
+          "totalUsers": 6
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "anime-sama.to",
+          "category": "电影",
+          "eventCount": 328,
+          "totalUsers": 5
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 161,
+          "totalUsers": 17
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "franime.fr",
+          "category": "电影",
+          "eventCount": 44,
+          "totalUsers": 2
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.xnxx.com",
+          "category": "Top 50",
+          "eventCount": 31,
+          "totalUsers": 1
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.netflix.com",
+          "category": "电影",
+          "eventCount": 26,
+          "totalUsers": 1
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fs20.lol",
+          "category": "Top 50",
+          "eventCount": 26,
+          "totalUsers": 1
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "movix.fun",
+          "category": "电影",
+          "eventCount": 23,
+          "totalUsers": 2
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "accounts.google.com",
+          "category": "Top 50",
+          "eventCount": 21,
+          "totalUsers": 4
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apps.apple.com",
+          "category": "Top 50",
+          "eventCount": 21,
+          "totalUsers": 1
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ev-ph.t8cdn.com",
+          "category": "Top 50",
+          "eventCount": 20,
+          "totalUsers": 1
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "french-stream.one",
+          "category": "电影",
+          "eventCount": 18,
+          "totalUsers": 1
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "movix.fun",
+          "category": "电影",
+          "eventCount": 10,
+          "totalUsers": 2
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "education.gouv.fr",
+          "category": "Top 50",
+          "eventCount": 8,
+          "totalUsers": 2
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "docs.index-education.com",
+          "category": "Top 50",
+          "eventCount": 7,
+          "totalUsers": 1
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "streamflix.mom",
+          "category": "电影",
+          "eventCount": 6,
+          "totalUsers": 1
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.whatsapp.com",
+          "category": "Top 50",
+          "eventCount": 6,
+          "totalUsers": 1
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sekai.one",
+          "category": "Top 50",
+          "eventCount": 6,
+          "totalUsers": 1
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "streamflix.mom",
+          "category": "电影",
+          "eventCount": 6,
+          "totalUsers": 2
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "fr.softonic.com",
+          "category": "Top 50",
+          "eventCount": 5,
+          "totalUsers": 1
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "officialmoviebox.com",
+          "category": "电影",
+          "eventCount": 5,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "officialmoviebox.com",
+          "category": "电影",
+          "eventCount": 5,
+          "totalUsers": 1
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "cardiaccrystaleternity.com",
+          "category": "Top 50",
+          "eventCount": 4,
+          "totalUsers": 2
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "fs25.lol",
+          "category": "Top 50",
+          "eventCount": 4,
+          "totalUsers": 1
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "witv.football",
+          "category": "运动",
+          "eventCount": 4,
+          "totalUsers": 1
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "witv.football",
+          "category": "运动",
+          "eventCount": 4,
+          "totalUsers": 1
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "9760008e.index-education.net",
+          "category": "Top 50",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "9760179r.index-education.net",
+          "category": "Top 50",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "globalclassictv.com",
+          "category": "直播",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "go4score.net",
+          "category": "运动",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "la1ere.franceinfo.fr",
+          "category": "新闻",
+          "eventCount": 3,
+          "totalUsers": 3
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "mayotte.edifice.io",
+          "category": "Top 50",
+          "eventCount": 3,
+          "totalUsers": 2
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "play.google.com",
+          "category": "Top 50",
+          "eventCount": 3,
+          "totalUsers": 2
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "sekai.one",
+          "category": "Top 50",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.01net.com",
+          "category": "Top 50",
+          "eventCount": 3,
+          "totalUsers": 1
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "g2288.com",
+          "category": "Top 50",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "interlinecustomroofingllc.com",
+          "category": "Top 50",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "omg10.com",
+          "category": "Top 50",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "xyzyacinee-tv-net.smartagro.pro",
+          "category": "运动",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "yacinee-tv.net",
+          "category": "运动",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "globalclassictv.com",
+          "category": "直播",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4score.net",
+          "category": "运动",
+          "eventCount": 2,
+          "totalUsers": 1
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "franime.fr",
+          "category": "电影",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "gemini.google.com",
+          "category": "Top 50",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "interfereernieinward.com",
+          "category": "Top 50",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "login.live.com",
+          "category": "Top 50",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "moncompte.laposte.fr",
+          "category": "Top 50",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "webflix.art",
+          "category": "电影",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.directvelo.com",
+          "category": "运动",
+          "eventCount": 1,
+          "totalUsers": 1
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.effectivecpmnetwork.com",
+          "category": "Top 50",
+          "eventCount": 1,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 29,
+          "eventCount": 6720,
+          "totalUsers": 53
+        },
+        {
+          "category": "电影",
+          "recordCount": 13,
+          "eventCount": 1301,
+          "totalUsers": 26
+        },
+        {
+          "category": "直播",
+          "recordCount": 2,
+          "eventCount": 5,
+          "totalUsers": 2
+        },
+        {
+          "category": "运动",
+          "recordCount": 8,
+          "eventCount": 4981,
+          "totalUsers": 8
+        },
+        {
+          "category": "新闻",
+          "recordCount": 2,
+          "eventCount": 46935,
+          "totalUsers": 8
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 22,
+        "eventCount": 1717
+      }
+    }
+  ]
+}
