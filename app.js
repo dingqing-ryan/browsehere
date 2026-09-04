@@ -54,9 +54,16 @@
     for (const key of params.keys()) if (!params.get(key)) return key.toLowerCase();
     return '';
   }
-  function resolveCountry() {
+  async function resolveCountry() {
     const requested = (params.get('country') || getBareQueryKey()).trim();
     if (/^[a-z]{2}$/i.test(requested)) return requested.toUpperCase();
+    const controller = new AbortController(); const timeout = setTimeout(() => controller.abort(), 2500);
+    try {
+      const response = await fetch('https://api.ipquery.io/?format=json', { cache:'no-store', signal:controller.signal });
+      const code = String((await response.json()).location?.country_code || '');
+      if (/^[a-z]{2}$/i.test(code)) return code.toUpperCase();
+    } catch { /* Use the catalog fallback when IP lookup is unavailable. */ }
+    finally { clearTimeout(timeout); }
     return 'US';
   }
   function localeForCountry(code) {
@@ -130,9 +137,8 @@
     return response.json();
   }
   async function loadAndRender() {
-    const code = resolveCountry(); let payload;
+    const [code, manifest] = await Promise.all([resolveCountry(), fetchJson('manifest.json').catch(() => null)]); let payload;
     try {
-      const manifest = await fetchJson('manifest.json');
       const entry = manifest.countries?.find(item => String(item.countryCode).toUpperCase() === code);
       if (!entry) throw new Error(`No country data for ${code}`);
       payload = await fetchJson(entry.file);
