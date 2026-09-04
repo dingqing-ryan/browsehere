@@ -1,0 +1,388 @@
+{
+  "generatedAt": "20260904_100217",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "excludeAdultContent": true,
+    "topNPerCountry": 100,
+    "candidateLimitPerCountry": 200,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人",
+    "reviewedDecisions": [
+      {
+        "customParameter": "playvids.com",
+        "category": "成人",
+        "adultContent": true
+      }
+    ]
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "YE",
+      "country": "Yemen",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 1456,
+          "totalUsers": 134
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "w1.yallabark.com",
+          "category": "运动",
+          "eventCount": 322,
+          "totalUsers": 2
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ar.kino-boom.net",
+          "category": "电影",
+          "eventCount": 193,
+          "totalUsers": 1
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tye.ahwaktv.net",
+          "category": "直播",
+          "eventCount": 191,
+          "totalUsers": 1
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "aradramatv.cc",
+          "category": "直播",
+          "eventCount": 153,
+          "totalUsers": 1
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "yam.ahwaktv.net",
+          "category": "直播",
+          "eventCount": 136,
+          "totalUsers": 7
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apps.apple.com",
+          "category": "Top 50",
+          "eventCount": 117,
+          "totalUsers": 6
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "topcinemaa.live",
+          "category": "电影",
+          "eventCount": 100,
+          "totalUsers": 3
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dramacafe-tv.live",
+          "category": "直播",
+          "eventCount": 98,
+          "totalUsers": 3
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "a.qfilm.tv",
+          "category": "电影",
+          "eventCount": 77,
+          "totalUsers": 4
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "dramacafe-tv.live",
+          "category": "直播",
+          "eventCount": 63,
+          "totalUsers": 2
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dramacafe-tv.info",
+          "category": "直播",
+          "eventCount": 57,
+          "totalUsers": 2
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "tye.ahwaktv.net",
+          "category": "直播",
+          "eventCount": 57,
+          "totalUsers": 1
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "m.youtube.com",
+          "category": "Top 50",
+          "eventCount": 54,
+          "totalUsers": 13
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ar.kino-boom.net",
+          "category": "电影",
+          "eventCount": 53,
+          "totalUsers": 1
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "yam.ahwaktv.net",
+          "category": "直播",
+          "eventCount": 53,
+          "totalUsers": 5
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "a.qfilm.tv",
+          "category": "电影",
+          "eventCount": 52,
+          "totalUsers": 4
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tv.prstej.co",
+          "category": "直播",
+          "eventCount": 50,
+          "totalUsers": 1
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "shooflive.net",
+          "category": "直播",
+          "eventCount": 39,
+          "totalUsers": 1
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "shooflive.net",
+          "category": "直播",
+          "eventCount": 38,
+          "totalUsers": 1
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ge.movie",
+          "category": "电影",
+          "eventCount": 37,
+          "totalUsers": 1
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "layarkaca21.club",
+          "category": "电影",
+          "eventCount": 35,
+          "totalUsers": 1
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "layarkaca21.club",
+          "category": "电影",
+          "eventCount": 33,
+          "totalUsers": 1
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "aradramatv.cc",
+          "category": "直播",
+          "eventCount": 32,
+          "totalUsers": 1
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "akwam.ss",
+          "category": "电影",
+          "eventCount": 28,
+          "totalUsers": 1
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "topcinemaa.live",
+          "category": "电影",
+          "eventCount": 28,
+          "totalUsers": 1
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "eta.animerco.org",
+          "category": "电影",
+          "eventCount": 27,
+          "totalUsers": 1
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "iegybest.cimawbas.tv",
+          "category": "电影",
+          "eventCount": 25,
+          "totalUsers": 1
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ka.yallacuop.xyz",
+          "category": "运动",
+          "eventCount": 25,
+          "totalUsers": 1
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "dramacafe-tv.info",
+          "category": "直播",
+          "eventCount": 24,
+          "totalUsers": 1
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.tiktok.com",
+          "category": "Top 50",
+          "eventCount": 22,
+          "totalUsers": 5
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cima.hair",
+          "category": "电影",
+          "eventCount": 20,
+          "totalUsers": 1
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "facebook.com",
+          "category": "Top 50",
+          "eventCount": 20,
+          "totalUsers": 1
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "123movie.sx",
+          "category": "电影",
+          "eventCount": 18,
+          "totalUsers": 1
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "abc7news.com",
+          "category": "新闻",
+          "eventCount": 18,
+          "totalUsers": 1
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "cima.hair",
+          "category": "电影",
+          "eventCount": 18,
+          "totalUsers": 1
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "tv.prstej.co",
+          "category": "直播",
+          "eventCount": 18,
+          "totalUsers": 1
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "vid.mycima.cc",
+          "category": "电影",
+          "eventCount": 18,
+          "totalUsers": 1
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 5,
+          "eventCount": 1669,
+          "totalUsers": 159
+        },
+        {
+          "category": "电影",
+          "recordCount": 16,
+          "eventCount": 762,
+          "totalUsers": 24
+        },
+        {
+          "category": "直播",
+          "recordCount": 14,
+          "eventCount": 1009,
+          "totalUsers": 28
+        },
+        {
+          "category": "运动",
+          "recordCount": 2,
+          "eventCount": 347,
+          "totalUsers": 3
+        },
+        {
+          "category": "新闻",
+          "recordCount": 1,
+          "eventCount": 18,
+          "totalUsers": 1
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 162,
+        "eventCount": 71312
+      }
+    }
+  ]
+}
