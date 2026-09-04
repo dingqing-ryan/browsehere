@@ -284,14 +284,6 @@
         },
         {
           "rank": 31,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 22,
-          "totalUsers": 1
-        },
-        {
-          "rank": 32,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -299,7 +291,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 33,
+          "rank": 32,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "soultv.com.br",
           "category": "直播",
@@ -322,9 +314,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 6,
-          "eventCount": 200,
-          "totalUsers": 6
+          "recordCount": 5,
+          "eventCount": 178,
+          "totalUsers": 5
         },
         {
           "category": "运动",
@@ -340,8 +332,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 167,
-        "eventCount": 102561
+        "recordCount": 168,
+        "eventCount": 102583
       }
     }
   ]

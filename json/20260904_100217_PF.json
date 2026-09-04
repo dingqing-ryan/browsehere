@@ -221,21 +221,13 @@
         {
           "rank": 23,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 106,
-          "totalUsers": 1
-        },
-        {
-          "rank": 24,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vipboxi.net",
           "category": "运动",
           "eventCount": 91,
           "totalUsers": 1
         },
         {
-          "rank": 25,
+          "rank": 24,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cineby.win",
           "category": "电影",
@@ -243,7 +235,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 26,
+          "rank": 25,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.tokyvideo.com",
           "category": "电影",
@@ -251,7 +243,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 27,
+          "rank": 26,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "w16.french-manga.net",
           "category": "电影",
@@ -259,7 +251,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 28,
+          "rank": 27,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "webflix.art",
           "category": "电影",
@@ -267,7 +259,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 29,
+          "rank": 28,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "voiranime.buzz",
           "category": "电影",
@@ -275,7 +267,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 30,
+          "rank": 29,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "reddit.com",
           "category": "Top 50",
@@ -283,7 +275,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 31,
+          "rank": 30,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "nakanime.tv",
           "category": "电影",
@@ -291,7 +283,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 32,
+          "rank": 31,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "cctv.cntv.cn",
           "category": "新闻",
@@ -299,7 +291,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 33,
+          "rank": 32,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "voiranime.buzz",
           "category": "电影",
@@ -307,7 +299,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 34,
+          "rank": 33,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "w16.french-manga.net",
           "category": "电影",
@@ -315,7 +307,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 35,
+          "rank": 34,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.driviv.com",
           "category": "电影",
@@ -338,9 +330,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 2,
-          "eventCount": 4266,
-          "totalUsers": 2
+          "recordCount": 1,
+          "eventCount": 4160,
+          "totalUsers": 1
         },
         {
           "category": "运动",
@@ -356,8 +348,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 165,
-        "eventCount": 98281
+        "recordCount": 166,
+        "eventCount": 98387
       }
     }
   ]

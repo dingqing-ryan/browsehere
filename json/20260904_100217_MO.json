@@ -268,14 +268,6 @@
         },
         {
           "rank": 29,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 136,
-          "totalUsers": 1
-        },
-        {
-          "rank": 30,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "flixtor.to",
           "category": "电影",
@@ -283,7 +275,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 31,
+          "rank": 30,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tv.iyf.tv",
           "category": "直播",
@@ -291,7 +283,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 32,
+          "rank": 31,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "anime1.in",
           "category": "电影",
@@ -299,7 +291,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 33,
+          "rank": 32,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "movieffm.net",
           "category": "电影",
@@ -307,7 +299,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 34,
+          "rank": 33,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "anime1.me",
           "category": "电影",
@@ -315,7 +307,7 @@
           "totalUsers": 13
         },
         {
-          "rank": 35,
+          "rank": 34,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "play.777tv.ai",
           "category": "直播",
@@ -323,7 +315,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 36,
+          "rank": 35,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "gimytv.io",
           "category": "直播",
@@ -331,7 +323,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 37,
+          "rank": 36,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "google.com",
           "category": "Top 50",
@@ -339,7 +331,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 38,
+          "rank": 37,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviekhhd.biz",
           "category": "电影",
@@ -347,7 +339,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 39,
+          "rank": 38,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "olehdtv.com",
           "category": "直播",
@@ -355,7 +347,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 40,
+          "rank": 39,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "moviekhhd.biz",
           "category": "电影",
@@ -363,7 +355,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 41,
+          "rank": 40,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "adintrend.tv",
           "category": "直播",
@@ -371,7 +363,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 42,
+          "rank": 41,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "fmoviesto.me",
           "category": "电影",
@@ -379,7 +371,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 43,
+          "rank": 42,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "apps.apple.com",
           "category": "Top 50",
@@ -387,7 +379,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 44,
+          "rank": 43,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww8.123moviesfree.net",
           "category": "电影",
@@ -395,7 +387,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 45,
+          "rank": 44,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "777tv.ai",
           "category": "直播",
@@ -403,7 +395,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 46,
+          "rank": 45,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.olehdtv.com",
           "category": "直播",
@@ -411,7 +403,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 47,
+          "rank": 46,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "anime1.me",
           "category": "电影",
@@ -419,7 +411,7 @@
           "totalUsers": 9
         },
         {
-          "rank": 48,
+          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.hkanime.com",
           "category": "电影",
@@ -427,7 +419,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 49,
+          "rank": 48,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vip.dytt-cine.com",
           "category": "电影",
@@ -450,9 +442,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 26,
-          "eventCount": 23593,
-          "totalUsers": 182
+          "recordCount": 25,
+          "eventCount": 23457,
+          "totalUsers": 181
         },
         {
           "category": "运动",
@@ -468,8 +460,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 151,
-        "eventCount": 213629
+        "recordCount": 152,
+        "eventCount": 213765
       }
     }
   ]

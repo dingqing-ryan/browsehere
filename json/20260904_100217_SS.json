@@ -77,29 +77,13 @@
         {
           "rank": 5,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "fullxcinema.com",
-          "category": "电影",
-          "eventCount": 43,
-          "totalUsers": 1
-        },
-        {
-          "rank": 6,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "fullxcinema.com",
-          "category": "电影",
-          "eventCount": 32,
-          "totalUsers": 1
-        },
-        {
-          "rank": 7,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftarium24turkiyepro.co",
           "category": "运动",
           "eventCount": 22,
           "totalUsers": 1
         },
         {
-          "rank": 8,
+          "rank": 6,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "moviepire.ru",
           "category": "电影",
@@ -107,7 +91,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 9,
+          "rank": 7,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.tiktok.com",
           "category": "Top 50",
@@ -115,7 +99,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 10,
+          "rank": 8,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "apps.apple.com",
           "category": "Top 50",
@@ -123,7 +107,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 11,
+          "rank": 9,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cricfytv.net",
           "category": "直播",
@@ -140,9 +124,9 @@
         },
         {
           "category": "电影",
-          "recordCount": 3,
-          "eventCount": 96,
-          "totalUsers": 3
+          "recordCount": 1,
+          "eventCount": 21,
+          "totalUsers": 1
         },
         {
           "category": "直播",
@@ -164,8 +148,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 23,
-        "eventCount": 2525
+        "recordCount": 25,
+        "eventCount": 2600
       }
     }
   ]

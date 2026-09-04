@@ -620,14 +620,6 @@
         },
         {
           "rank": 73,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "www.boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 1242,
-          "totalUsers": 3
-        },
-        {
-          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "thumb.live.mmcdn.com",
           "category": "直播",
@@ -650,9 +642,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 31,
-          "eventCount": 276913,
-          "totalUsers": 130
+          "recordCount": 30,
+          "eventCount": 275671,
+          "totalUsers": 127
         },
         {
           "category": "运动",
@@ -668,8 +660,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 126,
-        "eventCount": 2048624
+        "recordCount": 127,
+        "eventCount": 2049866
       }
     }
   ]

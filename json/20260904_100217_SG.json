@@ -437,21 +437,13 @@
         {
           "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 3693,
-          "totalUsers": 23
-        },
-        {
-          "rank": 51,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "xoilaczan.tv",
           "category": "运动",
           "eventCount": 3647,
           "totalUsers": 2
         },
         {
-          "rank": 52,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movie.hanshintigers.jp",
           "category": "电影",
@@ -459,7 +451,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 53,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "einthusan.tv",
           "category": "电影",
@@ -467,7 +459,7 @@
           "totalUsers": 162
         },
         {
-          "rank": 54,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbollibretvhd.org",
           "category": "运动",
@@ -475,7 +467,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 55,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "reddit.com",
           "category": "Top 50",
@@ -483,7 +475,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 56,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "socolivep.tv",
           "category": "运动",
@@ -491,7 +483,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 57,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "librefutbol.vip",
           "category": "运动",
@@ -499,7 +491,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 58,
+          "rank": 57,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "fpplibre.blogspot.com",
           "category": "运动",
@@ -507,7 +499,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 59,
+          "rank": 58,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "viprow.is",
           "category": "运动",
@@ -515,7 +507,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 60,
+          "rank": 59,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "news.tvb.com",
           "category": "新闻",
@@ -523,7 +515,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 61,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kk8sport.com",
           "category": "运动",
@@ -531,7 +523,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 62,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "99itv.net",
           "category": "直播",
@@ -539,7 +531,7 @@
           "totalUsers": 69
         },
         {
-          "rank": 63,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live.yes2049.com",
           "category": "直播",
@@ -547,7 +539,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 64,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "sagartv.stream",
           "category": "直播",
@@ -555,7 +547,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 65,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tiksports.pk",
           "category": "运动",
@@ -563,7 +555,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 66,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live5.totalsportekhd.st",
           "category": "运动",
@@ -571,7 +563,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 67,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "yonotv.pages.dev",
           "category": "直播",
@@ -579,7 +571,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 68,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "mlbwebcast.com",
           "category": "运动",
@@ -587,7 +579,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 69,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -595,7 +587,7 @@
           "totalUsers": 523
         },
         {
-          "rank": 70,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "livetv.sx",
           "category": "运动",
@@ -603,7 +595,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 71,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "99itv.net",
           "category": "直播",
@@ -611,7 +603,7 @@
           "totalUsers": 43
         },
         {
-          "rank": 72,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "olehdtv.tv",
           "category": "直播",
@@ -619,7 +611,7 @@
           "totalUsers": 76
         },
         {
-          "rank": 73,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "apps.apple.com",
           "category": "Top 50",
@@ -627,7 +619,7 @@
           "totalUsers": 19
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live3.totalsportekhd.st",
           "category": "运动",
@@ -635,7 +627,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 75,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "dailymotion.com",
           "category": "直播",
@@ -643,7 +635,7 @@
           "totalUsers": 60
         },
         {
-          "rank": 76,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "futbolparatodos.st",
           "category": "运动",
@@ -651,7 +643,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 77,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rojadirectatv.com.pe",
           "category": "运动",
@@ -659,7 +651,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 78,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "europe.olemovienews.com",
           "category": "新闻",
@@ -682,9 +674,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 22,
-          "eventCount": 383026,
-          "totalUsers": 1938
+          "recordCount": 21,
+          "eventCount": 379333,
+          "totalUsers": 1915
         },
         {
           "category": "运动",
@@ -700,8 +692,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 122,
-        "eventCount": 1031204
+        "recordCount": 123,
+        "eventCount": 1034897
       }
     }
   ]

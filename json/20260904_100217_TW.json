@@ -301,21 +301,13 @@
         {
           "rank": 33,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 12358,
-          "totalUsers": 82
-        },
-        {
-          "rank": 34,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "gimytv.io",
           "category": "直播",
           "eventCount": 11197,
           "totalUsers": 542
         },
         {
-          "rank": 35,
+          "rank": 34,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "socolive77.tv",
           "category": "运动",
@@ -323,7 +315,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 36,
+          "rank": 35,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vipboxtv.sk",
           "category": "运动",
@@ -331,7 +323,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 37,
+          "rank": 36,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "94itv.app",
           "category": "直播",
@@ -339,7 +331,7 @@
           "totalUsers": 318
         },
         {
-          "rank": 38,
+          "rank": 37,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "mlbbox.me",
           "category": "运动",
@@ -347,7 +339,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 39,
+          "rank": 38,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "vimeo.com",
           "category": "Top 50",
@@ -355,7 +347,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 40,
+          "rank": 39,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "live.vivo200.com",
           "category": "直播",
@@ -363,7 +355,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 41,
+          "rank": 40,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "strikeout.im",
           "category": "运动",
@@ -371,7 +363,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 42,
+          "rank": 41,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "99itv.cc",
           "category": "直播",
@@ -379,7 +371,7 @@
           "totalUsers": 152
         },
         {
-          "rank": 43,
+          "rank": 42,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "gimytv.io",
           "category": "直播",
@@ -387,15 +379,7 @@
           "totalUsers": 497
         },
         {
-          "rank": 44,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "www.boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 5774,
-          "totalUsers": 75
-        },
-        {
-          "rank": 45,
+          "rank": 43,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "mlbwebcast.com",
           "category": "运动",
@@ -418,9 +402,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 26,
-          "eventCount": 1424804,
-          "totalUsers": 20133
+          "recordCount": 24,
+          "eventCount": 1406672,
+          "totalUsers": 19976
         },
         {
           "category": "运动",
@@ -430,8 +414,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 155,
-        "eventCount": 6335263
+        "recordCount": 157,
+        "eventCount": 6353395
       }
     }
   ]

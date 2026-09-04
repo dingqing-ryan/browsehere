@@ -133,32 +133,16 @@
         {
           "rank": 12,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "www.boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 2,
-          "totalUsers": 1
-        },
-        {
-          "rank": 13,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.google.com",
           "category": "Top 50",
           "eventCount": 2,
           "totalUsers": 1
         },
         {
-          "rank": 14,
+          "rank": 13,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "animesaturn.ro",
           "category": "电影",
-          "eventCount": 1,
-          "totalUsers": 1
-        },
-        {
-          "rank": 15,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
           "eventCount": 1,
           "totalUsers": 1
         }
@@ -178,9 +162,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 3,
-          "eventCount": 106,
-          "totalUsers": 3
+          "recordCount": 1,
+          "eventCount": 103,
+          "totalUsers": 1
         },
         {
           "category": "运动",
@@ -196,8 +180,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 28,
-        "eventCount": 4313
+        "recordCount": 30,
+        "eventCount": 4316
       }
     }
   ]

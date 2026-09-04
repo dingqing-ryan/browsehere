@@ -565,21 +565,13 @@
         {
           "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "fullxcinema.com",
-          "category": "电影",
-          "eventCount": 47,
-          "totalUsers": 1
-        },
-        {
-          "rank": 67,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "21.yallashoots.fun",
           "category": "运动",
           "eventCount": 44,
           "totalUsers": 1
         },
         {
-          "rank": 68,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "deewangiserial.com",
           "category": "电影",
@@ -587,7 +579,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 69,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.cinemakick.pk",
           "category": "电影",
@@ -595,7 +587,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 70,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "watchseries.bar",
           "category": "电影",
@@ -603,7 +595,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 71,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "shuttletv.gd",
           "category": "直播",
@@ -611,7 +603,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 72,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hurawatch.cz",
           "category": "电影",
@@ -619,7 +611,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 73,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movies2watch.buzz",
           "category": "电影",
@@ -627,7 +619,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww1.solarmovie2.com",
           "category": "电影",
@@ -644,9 +636,9 @@
         },
         {
           "category": "电影",
-          "recordCount": 43,
-          "eventCount": 13683,
-          "totalUsers": 384
+          "recordCount": 42,
+          "eventCount": 13636,
+          "totalUsers": 383
         },
         {
           "category": "直播",
@@ -668,8 +660,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 126,
-        "eventCount": 135131
+        "recordCount": 127,
+        "eventCount": 135178
       }
     }
   ]

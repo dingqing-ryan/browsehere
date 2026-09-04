@@ -420,22 +420,6 @@
         },
         {
           "rank": 48,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 10,
-          "totalUsers": 1
-        },
-        {
-          "rank": 49,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "www.boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 5,
-          "totalUsers": 1
-        },
-        {
-          "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "watchseries.lc",
           "category": "电影",
@@ -443,7 +427,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 51,
+          "rank": 49,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "filmpire.sc",
           "category": "电影",
@@ -451,7 +435,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 52,
+          "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "multimovies.gd",
           "category": "电影",
@@ -459,7 +443,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 53,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.pinterest.com",
           "category": "Top 50",
@@ -467,7 +451,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 54,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cinehd.dev",
           "category": "电影",
@@ -475,7 +459,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 55,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "watchseries.lc",
           "category": "电影",
@@ -483,7 +467,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 56,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.tiktok.com",
           "category": "Top 50",
@@ -491,7 +475,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 57,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.whatsapp.com",
           "category": "Top 50",
@@ -499,7 +483,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 58,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "x.com",
           "category": "Top 50",
@@ -507,7 +491,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 59,
+          "rank": 57,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "apps.apple.com",
           "category": "Top 50",
@@ -515,7 +499,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 60,
+          "rank": 58,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cinemode.fun",
           "category": "电影",
@@ -523,7 +507,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 61,
+          "rank": 59,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "google.com",
           "category": "Top 50",
@@ -531,7 +515,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 62,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "m.youtube.com",
           "category": "Top 50",
@@ -539,7 +523,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 63,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "sflix.to",
           "category": "电影",
@@ -547,7 +531,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 64,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tamilgun.now",
           "category": "电影",
@@ -555,7 +539,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 65,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "vimeo.com",
           "category": "Top 50",
@@ -563,7 +547,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 66,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "ww1.goojara.ch",
           "category": "电影",
@@ -571,7 +555,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 67,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "ww19.myasiantv.es",
           "category": "新闻",
@@ -594,9 +578,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 4,
-          "eventCount": 266,
-          "totalUsers": 5
+          "recordCount": 2,
+          "eventCount": 251,
+          "totalUsers": 3
         },
         {
           "category": "运动",
@@ -612,8 +596,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 133,
-        "eventCount": 18010
+        "recordCount": 135,
+        "eventCount": 18025
       }
     }
   ]

@@ -133,21 +133,13 @@
         {
           "rank": 12,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 72,
-          "totalUsers": 1
-        },
-        {
-          "rank": 13,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "facebook.com",
           "category": "Top 50",
           "eventCount": 55,
           "totalUsers": 1
         },
         {
-          "rank": 14,
+          "rank": 13,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "dailymotion.com",
           "category": "直播",
@@ -155,15 +147,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 15,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "www.boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 27,
-          "totalUsers": 1
-        },
-        {
-          "rank": 16,
+          "rank": 14,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tokyvideo.com",
           "category": "电影",
@@ -171,7 +155,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 17,
+          "rank": 15,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "google.com",
           "category": "Top 50",
@@ -179,7 +163,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 18,
+          "rank": 16,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "streaming-potter.com",
           "category": "电影",
@@ -187,7 +171,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 19,
+          "rank": 17,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "streaming-potter.com",
           "category": "电影",
@@ -195,7 +179,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 20,
+          "rank": 18,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "showboxmovies.one",
           "category": "电影",
@@ -203,7 +187,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 21,
+          "rank": 19,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cineregal.one",
           "category": "电影",
@@ -211,7 +195,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 22,
+          "rank": 20,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cineby.win",
           "category": "电影",
@@ -219,7 +203,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 23,
+          "rank": 21,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "freestreamingwebsites.xyz",
           "category": "电影",
@@ -227,7 +211,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 24,
+          "rank": 22,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviekhhd.biz",
           "category": "电影",
@@ -235,7 +219,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 25,
+          "rank": 23,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tiktok.com",
           "category": "Top 50",
@@ -243,7 +227,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 26,
+          "rank": 24,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.instagram.com",
           "category": "Top 50",
@@ -251,7 +235,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 27,
+          "rank": 25,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.youtube.com",
           "category": "Top 50",
@@ -274,9 +258,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 6,
-          "eventCount": 2028,
-          "totalUsers": 6
+          "recordCount": 4,
+          "eventCount": 1929,
+          "totalUsers": 4
         },
         {
           "category": "运动",
@@ -292,8 +276,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 156,
-        "eventCount": 63329
+        "recordCount": 158,
+        "eventCount": 63428
       }
     }
   ]

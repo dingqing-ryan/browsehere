@@ -365,21 +365,13 @@
         {
           "rank": 41,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 470,
-          "totalUsers": 2
-        },
-        {
-          "rank": 42,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "firstrowsports.be",
           "category": "运动",
           "eventCount": 465,
           "totalUsers": 1
         },
         {
-          "rank": 43,
+          "rank": 42,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "animeheaven.me",
           "category": "电影",
@@ -387,7 +379,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 44,
+          "rank": 43,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "f-movies.org",
           "category": "电影",
@@ -395,7 +387,7 @@
           "totalUsers": 18
         },
         {
-          "rank": 45,
+          "rank": 44,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tv4.lk21online.mom",
           "category": "电影",
@@ -403,7 +395,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 46,
+          "rank": 45,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kick.com",
           "category": "直播",
@@ -411,7 +403,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 47,
+          "rank": 46,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "cineby.tech",
           "category": "电影",
@@ -419,7 +411,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 48,
+          "rank": 47,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "sportslive.wine",
           "category": "运动",
@@ -427,7 +419,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 49,
+          "rank": 48,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "hurawatch.sx",
           "category": "电影",
@@ -435,7 +427,7 @@
           "totalUsers": 20
         },
         {
-          "rank": 50,
+          "rank": 49,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "nyafilmer.gd",
           "category": "电影",
@@ -443,7 +435,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 51,
+          "rank": 50,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "m.youtube.com",
           "category": "Top 50",
@@ -451,7 +443,7 @@
           "totalUsers": 168
         },
         {
-          "rank": 52,
+          "rank": 51,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww4-fmovies.com",
           "category": "电影",
@@ -459,7 +451,7 @@
           "totalUsers": 19
         },
         {
-          "rank": 53,
+          "rank": 52,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tv4.lk21online.mom",
           "category": "电影",
@@ -467,7 +459,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 54,
+          "rank": 53,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movie-box.co",
           "category": "电影",
@@ -475,7 +467,7 @@
           "totalUsers": 28
         },
         {
-          "rank": 55,
+          "rank": 54,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.f-movies.org",
           "category": "电影",
@@ -483,7 +475,7 @@
           "totalUsers": 17
         },
         {
-          "rank": 56,
+          "rank": 55,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tv.apple.com",
           "category": "直播",
@@ -491,7 +483,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 57,
+          "rank": 56,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "kissasiantv.my",
           "category": "新闻",
@@ -499,7 +491,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 58,
+          "rank": 57,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "anime4i.vip",
           "category": "电影",
@@ -507,7 +499,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 59,
+          "rank": 58,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "xoilacxtq.tv",
           "category": "运动",
@@ -515,7 +507,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 60,
+          "rank": 59,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "yonotv.pages.dev",
           "category": "直播",
@@ -523,7 +515,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 61,
+          "rank": 60,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "moviesdatamil.me",
           "category": "电影",
@@ -531,7 +523,7 @@
           "totalUsers": 3
         },
         {
-          "rank": 62,
+          "rank": 61,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "movie-box.co",
           "category": "电影",
@@ -539,7 +531,7 @@
           "totalUsers": 23
         },
         {
-          "rank": 63,
+          "rank": 62,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hurawatch.cz",
           "category": "电影",
@@ -547,7 +539,7 @@
           "totalUsers": 11
         },
         {
-          "rank": 64,
+          "rank": 63,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "cinejoy.to",
           "category": "电影",
@@ -555,7 +547,7 @@
           "totalUsers": 9
         },
         {
-          "rank": 65,
+          "rank": 64,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "peakfilm.net",
           "category": "电影",
@@ -563,7 +555,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 66,
+          "rank": 65,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tv1.lk21official.dev",
           "category": "电影",
@@ -571,7 +563,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 67,
+          "rank": 66,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "cineb.cx",
           "category": "电影",
@@ -579,7 +571,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 68,
+          "rank": 67,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "rtmklik.rtm.gov.my",
           "category": "直播",
@@ -587,7 +579,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 69,
+          "rank": 68,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.808fubo28.com",
           "category": "运动",
@@ -595,7 +587,7 @@
           "totalUsers": 42
         },
         {
-          "rank": 70,
+          "rank": 69,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "hurawatch.cz",
           "category": "电影",
@@ -603,7 +595,7 @@
           "totalUsers": 9
         },
         {
-          "rank": 71,
+          "rank": 70,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww21.pencurimovie.sbs",
           "category": "电影",
@@ -611,7 +603,7 @@
           "totalUsers": 16
         },
         {
-          "rank": 72,
+          "rank": 71,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "movieboxhd.net",
           "category": "电影",
@@ -619,7 +611,7 @@
           "totalUsers": 8
         },
         {
-          "rank": 73,
+          "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "tamilgun.now",
           "category": "电影",
@@ -627,7 +619,7 @@
           "totalUsers": 13
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "cineb.cx",
           "category": "电影",
@@ -635,15 +627,7 @@
           "totalUsers": 4
         },
         {
-          "rank": 75,
-          "eventName": "STATUS_DOMAIN_WEBVIEW",
-          "customParameter": "www.boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 133,
-          "totalUsers": 1
-        },
-        {
-          "rank": 76,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tv1.lk21official.dev",
           "category": "电影",
@@ -651,7 +635,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 77,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "ww5-fmovies.com",
           "category": "电影",
@@ -659,7 +643,7 @@
           "totalUsers": 5
         },
         {
-          "rank": 78,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "www.score808live.tv",
           "category": "运动",
@@ -667,7 +651,7 @@
           "totalUsers": 36
         },
         {
-          "rank": 79,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "kissasiantv.my",
           "category": "新闻",
@@ -675,7 +659,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 80,
+          "rank": 78,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "olelive.com",
           "category": "直播",
@@ -683,7 +667,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 81,
+          "rank": 79,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "hollymoviehd.cc",
           "category": "电影",
@@ -691,7 +675,7 @@
           "totalUsers": 2
         },
         {
-          "rank": 82,
+          "rank": 80,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "dutafilm.in",
           "category": "电影",
@@ -699,7 +683,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 83,
+          "rank": 81,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "hurawatch.sx",
           "category": "电影",
@@ -707,7 +691,7 @@
           "totalUsers": 12
         },
         {
-          "rank": 84,
+          "rank": 82,
           "eventName": "STATUS_DOMAIN_WEBVIEW",
           "customParameter": "movies2watch.vc",
           "category": "电影",
@@ -730,9 +714,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 12,
-          "eventCount": 148225,
-          "totalUsers": 69
+          "recordCount": 10,
+          "eventCount": 147622,
+          "totalUsers": 66
         },
         {
           "category": "运动",
@@ -748,8 +732,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 116,
-        "eventCount": 267210
+        "recordCount": 118,
+        "eventCount": 267813
       }
     }
   ]

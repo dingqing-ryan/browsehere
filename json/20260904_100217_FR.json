@@ -613,21 +613,13 @@
         {
           "rank": 72,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
-          "customParameter": "boyfriendtv.com",
-          "category": "直播",
-          "eventCount": 14544,
-          "totalUsers": 35
-        },
-        {
-          "rank": 73,
-          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "strikeout.im",
           "category": "运动",
           "eventCount": 14334,
           "totalUsers": 1
         },
         {
-          "rank": 74,
+          "rank": 73,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "tokyvideo.com",
           "category": "电影",
@@ -635,7 +627,7 @@
           "totalUsers": 395
         },
         {
-          "rank": 75,
+          "rank": 74,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "bfmtv.com",
           "category": "直播",
@@ -643,7 +635,7 @@
           "totalUsers": 28
         },
         {
-          "rank": 76,
+          "rank": 75,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "pelotalibrestv.su",
           "category": "运动",
@@ -651,7 +643,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 77,
+          "rank": 76,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "taraftariumonline24.org",
           "category": "运动",
@@ -659,7 +651,7 @@
           "totalUsers": 10
         },
         {
-          "rank": 78,
+          "rank": 77,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "10.yalla-fallah.com",
           "category": "运动",
@@ -667,7 +659,7 @@
           "totalUsers": 1
         },
         {
-          "rank": 79,
+          "rank": 78,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "webtv.tvstanici.net",
           "category": "直播",
@@ -675,7 +667,7 @@
           "totalUsers": 6
         },
         {
-          "rank": 80,
+          "rank": 79,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "mahsunsports50.xyz",
           "category": "运动",
@@ -683,7 +675,7 @@
           "totalUsers": 7
         },
         {
-          "rank": 81,
+          "rank": 80,
           "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
           "customParameter": "25.yallash00t.online",
           "category": "运动",
@@ -706,9 +698,9 @@
         },
         {
           "category": "直播",
-          "recordCount": 23,
-          "eventCount": 1009790,
-          "totalUsers": 400
+          "recordCount": 22,
+          "eventCount": 995246,
+          "totalUsers": 365
         },
         {
           "category": "运动",
@@ -724,8 +716,8 @@
         }
       ],
       "adultExcluded": {
-        "recordCount": 119,
-        "eventCount": 8711075
+        "recordCount": 120,
+        "eventCount": 8725619
       }
     }
   ]
