@@ -1,0 +1,3589 @@
+{
+  "generatedAt": "20260907_080217",
+  "source": "Google Analytics Data API v1beta runReport",
+  "dataScope": "API returned rows; GA4 may aggregate into an other row when dataLossFromOtherRow is true.",
+  "dataLossFromOtherRow": true,
+  "classificationStatus": "complete",
+  "classification": {
+    "mode": "ai_semantic",
+    "excludeAdultContent": true,
+    "topNPerCountry": 100,
+    "candidateLimitPerCountry": 300,
+    "categories": [
+      "Top 50",
+      "电影",
+      "直播",
+      "运动",
+      "新闻"
+    ],
+    "excludedCategory": "成人",
+    "reviewedDecisions": [
+      {
+        "customParameter": "playvids.com",
+        "category": "成人",
+        "adultContent": true,
+        "adultSafety": {
+          "provider": "reviewed-confirmed",
+          "status": "adult",
+          "checkedAt": "2026-09-07"
+        }
+      }
+    ]
+  },
+  "dateRanges": [
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIEW",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    },
+    {
+      "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+      "startDate": "9daysAgo",
+      "endDate": "3daysAgo"
+    }
+  ],
+  "countries": [
+    {
+      "countryCode": "TG",
+      "country": "Togo",
+      "records": [
+        {
+          "rank": 1,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "justintvcohd-amp.click",
+          "category": "Top 50",
+          "eventCount": 23170,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 2,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "24.yallashoots.fun",
+          "category": "Top 50",
+          "eventCount": 12199,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 3,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "canalplus.com",
+          "category": "Top 50",
+          "eventCount": 10901,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 4,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "bfmtv.com",
+          "category": "Top 50",
+          "eventCount": 10311,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 5,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.google.com",
+          "category": "Top 50",
+          "eventCount": 8929,
+          "totalUsers": 696,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 6,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go4xyz.app",
+          "category": "Top 50",
+          "eventCount": 7846,
+          "totalUsers": 5,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 7,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lola39.30nqt3mainfkyl16mirror.cfd",
+          "category": "Top 50",
+          "eventCount": 7369,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 8,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirecta.cloud",
+          "category": "Top 50",
+          "eventCount": 6899,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 9,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fawanews.sc",
+          "category": "Top 50",
+          "eventCount": 5494,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 10,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ziggy43.q2l0completelyuea1piece.cfd",
+          "category": "Top 50",
+          "eventCount": 4895,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 11,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "go7777.app",
+          "category": "Top 50",
+          "eventCount": 4770,
+          "totalUsers": 5,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 12,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "lola41.30nqt3mainfkyl16mirror.cfd",
+          "category": "Top 50",
+          "eventCount": 2982,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 13,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hdfilmcehennemi.nl",
+          "category": "Top 50",
+          "eventCount": 2553,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 14,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tarjetarojablog.pl",
+          "category": "Top 50",
+          "eventCount": 2362,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 15,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apps.apple.com",
+          "category": "Top 50",
+          "eventCount": 2184,
+          "totalUsers": 49,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 16,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "newslive1.homes",
+          "category": "Top 50",
+          "eventCount": 2165,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 17,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hitcast.st",
+          "category": "Top 50",
+          "eventCount": 2060,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 18,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirecta.ceo",
+          "category": "Top 50",
+          "eventCount": 2027,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 19,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jack17eo.mpgreatestclgczbmiddle.my",
+          "category": "Top 50",
+          "eventCount": 1969,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 20,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tamilgun.now",
+          "category": "Top 50",
+          "eventCount": 1847,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 21,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "french-stream.one",
+          "category": "Top 50",
+          "eventCount": 1837,
+          "totalUsers": 51,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 22,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "31.tvsimo.live",
+          "category": "Top 50",
+          "eventCount": 1760,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 23,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "stream.jw.org",
+          "category": "Top 50",
+          "eventCount": 1687,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 24,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "m.youtube.com",
+          "category": "Top 50",
+          "eventCount": 1664,
+          "totalUsers": 206,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 25,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveplay1.camel4.live",
+          "category": "Top 50",
+          "eventCount": 1432,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 26,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "151.80.18.177",
+          "category": "Top 50",
+          "eventCount": 1274,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 27,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.flfw2-1.fna.fbcdn.net",
+          "category": "Top 50",
+          "eventCount": 1226,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 28,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "theway.org",
+          "category": "Top 50",
+          "eventCount": 1223,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 29,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "apocalypse107.org",
+          "category": "Top 50",
+          "eventCount": 1165,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 30,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.flfw4-1.fna.fbcdn.net",
+          "category": "Top 50",
+          "eventCount": 1096,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 31,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rds.live",
+          "category": "Top 50",
+          "eventCount": 1070,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 32,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "french-stream.one",
+          "category": "Top 50",
+          "eventCount": 1038,
+          "totalUsers": 55,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 33,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "chandeltv.tg",
+          "category": "Top 50",
+          "eventCount": 834,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 34,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "odysee.com",
+          "category": "Top 50",
+          "eventCount": 723,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 35,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "franime.fr",
+          "category": "Top 50",
+          "eventCount": 621,
+          "totalUsers": 20,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 36,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "soccertvstream.com",
+          "category": "Top 50",
+          "eventCount": 612,
+          "totalUsers": 6,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 37,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vctly.com",
+          "category": "Top 50",
+          "eventCount": 568,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 38,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "huhu.to",
+          "category": "Top 50",
+          "eventCount": 552,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 39,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "22.yallalives.fun",
+          "category": "Top 50",
+          "eventCount": 527,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 40,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "liveru.org",
+          "category": "Top 50",
+          "eventCount": 464,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 41,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "te.yalla-cou.xyz",
+          "category": "Top 50",
+          "eventCount": 439,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 42,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "reddit.com",
+          "category": "Top 50",
+          "eventCount": 427,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 43,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "25.yallashoots.fun",
+          "category": "Top 50",
+          "eventCount": 365,
+          "totalUsers": 5,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 44,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "jack13eo.mpgreatestclgczbmiddle.my",
+          "category": "Top 50",
+          "eventCount": 345,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 45,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "famelack.com",
+          "category": "Top 50",
+          "eventCount": 319,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 46,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "strikeout.im",
+          "category": "Top 50",
+          "eventCount": 312,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 47,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "starzplay.com",
+          "category": "Top 50",
+          "eventCount": 311,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 48,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sportslive.wine",
+          "category": "Top 50",
+          "eventCount": 299,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 49,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cxtvlive.com",
+          "category": "Top 50",
+          "eventCount": 288,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 50,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "tvradiozap.eu",
+          "category": "Top 50",
+          "eventCount": 280,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 51,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "oha.cx",
+          "category": "Top 50",
+          "eventCount": 256,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 52,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ayhal.com",
+          "category": "Top 50",
+          "eventCount": 252,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 53,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "oha.to",
+          "category": "Top 50",
+          "eventCount": 250,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 54,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "gbc.gi",
+          "category": "Top 50",
+          "eventCount": 238,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 55,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.tiktok.com",
+          "category": "Top 50",
+          "eventCount": 235,
+          "totalUsers": 60,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 56,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "13o.net",
+          "category": "Top 50",
+          "eventCount": 218,
+          "totalUsers": 4,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 57,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.youtube.com",
+          "category": "Top 50",
+          "eventCount": 212,
+          "totalUsers": 32,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 58,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "rojadirectaoficial.net",
+          "category": "Top 50",
+          "eventCount": 207,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 59,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "sportenfrance.com",
+          "category": "Top 50",
+          "eventCount": 182,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 60,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "192.168.1.67",
+          "category": "Top 50",
+          "eventCount": 152,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 61,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "freestreamingwebsites.xyz",
+          "category": "Top 50",
+          "eventCount": 152,
+          "totalUsers": 10,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 62,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "animesuge.at",
+          "category": "Top 50",
+          "eventCount": 146,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 63,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "vavoo.to",
+          "category": "Top 50",
+          "eventCount": 138,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 64,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.cinezzz.club",
+          "category": "Top 50",
+          "eventCount": 138,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 65,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "vrizov.com",
+          "category": "Top 50",
+          "eventCount": 137,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 66,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "a.kooorasia.com",
+          "category": "Top 50",
+          "eventCount": 135,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 67,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "fcikz.store",
+          "category": "Top 50",
+          "eventCount": 132,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 68,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "miraculous.to",
+          "category": "Top 50",
+          "eventCount": 131,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 69,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "accounts.google.com",
+          "category": "Top 50",
+          "eventCount": 123,
+          "totalUsers": 24,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 70,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.roblox.com",
+          "category": "Top 50",
+          "eventCount": 121,
+          "totalUsers": 15,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 71,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "homebasetvgh.com",
+          "category": "Top 50",
+          "eventCount": 119,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 72,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "apps.apple.com",
+          "category": "Top 50",
+          "eventCount": 117,
+          "totalUsers": 20,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 73,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "bzh-sport.lat",
+          "category": "Top 50",
+          "eventCount": 117,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 74,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "w16.french-manga.net",
+          "category": "Top 50",
+          "eventCount": 116,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 75,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "momdax.com",
+          "category": "Top 50",
+          "eventCount": 115,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 76,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.instagram.com",
+          "category": "Top 50",
+          "eventCount": 113,
+          "totalUsers": 16,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 77,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "purstream.id",
+          "category": "Top 50",
+          "eventCount": 110,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 78,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "cinehd.vc",
+          "category": "Top 50",
+          "eventCount": 109,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 79,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "anime-sama.store",
+          "category": "Top 50",
+          "eventCount": 102,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 80,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "score808live.tv",
+          "category": "Top 50",
+          "eventCount": 99,
+          "totalUsers": 5,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 81,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "yassirtv.com",
+          "category": "Top 50",
+          "eventCount": 96,
+          "totalUsers": 16,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 82,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "franime.fr",
+          "category": "Top 50",
+          "eventCount": 94,
+          "totalUsers": 12,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 83,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.akonami.org",
+          "category": "Top 50",
+          "eventCount": 89,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 84,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "dailymotion.com",
+          "category": "Top 50",
+          "eventCount": 82,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 85,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "i-00.com",
+          "category": "Top 50",
+          "eventCount": 76,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 86,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "instagram.com",
+          "category": "Top 50",
+          "eventCount": 76,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 87,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "narilyhukelpfulin.com",
+          "category": "Top 50",
+          "eventCount": 76,
+          "totalUsers": 5,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 88,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ww8.123moviesfree.net",
+          "category": "Top 50",
+          "eventCount": 75,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 89,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "www.facebook.com",
+          "category": "Top 50",
+          "eventCount": 72,
+          "totalUsers": 7,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 90,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "1whodq.com",
+          "category": "Top 50",
+          "eventCount": 70,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 91,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ww1.goojara.to",
+          "category": "Top 50",
+          "eventCount": 70,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 92,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "ab.blxwnnw.com",
+          "category": "Top 50",
+          "eventCount": 69,
+          "totalUsers": 17,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 93,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "hls.newworldtv.com",
+          "category": "Top 50",
+          "eventCount": 67,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 94,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "ott.tv5monde.com",
+          "category": "Top 50",
+          "eventCount": 64,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 95,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "play.google.com",
+          "category": "Top 50",
+          "eventCount": 64,
+          "totalUsers": 21,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 96,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "nakastream.tv",
+          "category": "Top 50",
+          "eventCount": 63,
+          "totalUsers": 3,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 97,
+          "eventName": "STATUS_DOMAIN_WEBVIDEO_PLAYER",
+          "customParameter": "purstream.ad",
+          "category": "Top 50",
+          "eventCount": 63,
+          "totalUsers": 2,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "unknown",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 98,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "nfrit.com",
+          "category": "Top 50",
+          "eventCount": 62,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 99,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "fr.softonic.com",
+          "category": "Top 50",
+          "eventCount": 61,
+          "totalUsers": 6,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        },
+        {
+          "rank": 100,
+          "eventName": "STATUS_DOMAIN_WEBVIEW",
+          "customParameter": "moviezda.com",
+          "category": "Top 50",
+          "eventCount": 61,
+          "totalUsers": 1,
+          "adultSafety": {
+            "provider": "leiniao-plus-nsfw-rules",
+            "status": "safe",
+            "checkedAt": "2026-09-07T08:04:09.550Z",
+            "sources": [
+              {
+                "provider": "leiniao-domain-adult-detail",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "endpoint": "https://hwlauncher-apps-o.api.leiniao.com/api/v4/tbroswer/domain/adult/detail"
+              },
+              {
+                "provider": "oisd-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://nsfw.oisd.nl/",
+                "cache": "refreshed"
+              },
+              {
+                "provider": "hagezi-nsfw",
+                "status": "not_detected",
+                "checkedAt": "2026-09-07T08:04:09.550Z",
+                "sourceUrl": "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/nsfw.txt",
+                "cache": "refreshed"
+              }
+            ]
+          }
+        }
+      ],
+      "categorySummary": [
+        {
+          "category": "Top 50",
+          "recordCount": 100,
+          "eventCount": 153812,
+          "totalUsers": 1474
+        },
+        {
+          "category": "电影",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "直播",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "运动",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        },
+        {
+          "category": "新闻",
+          "recordCount": 0,
+          "eventCount": 0,
+          "totalUsers": 0
+        }
+      ],
+      "adultExcluded": {
+        "recordCount": 122,
+        "eventCount": 55637
+      }
+    }
+  ]
+}
