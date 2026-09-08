@@ -1,0 +1,6238 @@
+{
+  "DZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/dz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/dz/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/dz/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ao/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-ao"
+    }
+  ],
+  "BJ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bj/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/bw"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-bw"
+    }
+  ],
+  "BF": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bf/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bi/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CV": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cv/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/cv"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CF": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cf/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/td/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/km/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "DJ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/dj/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "EG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/eg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/eg"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/eg/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/eg/"
+    },
+    {
+      "title": "WatchIT",
+      "country_official_url": "https://www.watchit.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GQ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gq/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ER": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/er/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ET": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/et/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-et"
+    }
+  ],
+  "GA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ga/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gm"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gh/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gh"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-gh"
+    }
+  ],
+  "GN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gw"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ci/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ke/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-ke"
+    }
+  ],
+  "LS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ls/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ly/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ly/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/ly/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-mw"
+    }
+  ],
+  "ML": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ml/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/mr/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ma/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ma/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/ma/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/mz"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-mz"
+    }
+  ],
+  "NA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/na/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/na"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-na"
+    }
+  ],
+  "NE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ne/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ne"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ng/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "irokotv",
+      "country_official_url": "https://irokotv.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-ng"
+    }
+  ],
+  "CG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "RW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/rw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-rw"
+    }
+  ],
+  "SN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sl/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/so/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ZA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/za/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/za"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/za/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-za"
+    }
+  ],
+  "SS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ss/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sd/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/sd/"
+    }
+  ],
+  "TZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-tz"
+    }
+  ],
+  "TG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/tn/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/tn/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "UG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ug/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ug"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-ug"
+    }
+  ],
+  "ZM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/zm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-zm"
+    }
+  ],
+  "ZW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/zw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/zw"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    },
+    {
+      "title": "DStv",
+      "country_official_url": "https://www.dstv.com/en-zw"
+    }
+  ],
+  "AF": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/af/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/am/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/am"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/az/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/az"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bh/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/bh"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/bh/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/bh/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bd/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bt/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/kh/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/kh"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CN": [
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Tencent Video",
+      "country_official_url": "https://wetv.vip"
+    }
+  ],
+  "CY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cy/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/cy"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ge/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "IN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/in/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/in"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ID": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/id/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/id"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Viu",
+      "country_official_url": "https://www.viu.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "IR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ir/"
+    }
+  ],
+  "IQ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/iq/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/iq/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/iq/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "IL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/il/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/il"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/il/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/il/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "JP": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/jp/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/jp"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/jp/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "JO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/jo/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/jo"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/jo/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/jo/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/kz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/kw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/kw/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/kw/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/kg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/la/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/la"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LB": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lb/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/lb"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/lb/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/lb/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/my/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/my"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Viu",
+      "country_official_url": "https://www.viu.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/mn"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NP": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/np/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "OM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/om/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/om"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/om/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/om/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PK": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pk/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ps/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ps/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    }
+  ],
+  "PH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ph/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ph"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ph/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Viu",
+      "country_official_url": "https://www.viu.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "QA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/qa/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/qa"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/qa/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/qa/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sa/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/sa"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/sa/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/sa/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/sg"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/sg/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Viu",
+      "country_official_url": "https://www.viu.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/kr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/kr"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/kr/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LK": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lk/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/lk"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/tw"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/tw/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TJ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tj/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/tj"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/th/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/th"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Viu",
+      "country_official_url": "https://www.viu.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/tr/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/tm"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ae/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ae"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ae/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/ae/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "UZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/uz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "VN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/vn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/vn"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "YE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ye/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ye/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/ye/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/al/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/al/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ad/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ad/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/at/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/at"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/at/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/at/"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/by/"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/by"
+    }
+  ],
+  "BE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/be/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/be"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/be/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ba/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ba/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/bg"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/bg/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "HR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/hr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/hr/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "DK": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/dk/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/dk"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/dk/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "EE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ee/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ee"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ee/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "FI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/fi/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/fi"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/fi/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "FR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/fr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/fr"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/fr/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/fr/"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "DE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/de/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/de"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/de/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/de/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gr"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/gr/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "HU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/hu/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/hu"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/hu/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "IS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/is/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/is/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "IE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ie/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ie"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ie/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ie/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "IT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/it/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/it"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/it/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/it/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LV": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lv/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/lv"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/lv/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/li/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/li/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lt/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/lt"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/lt/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lu/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/lu"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/lu/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mt/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/mt"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/mt/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/md/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/md"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MC": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mc/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/mc/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ME": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/me/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/me/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/nl/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/nl"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/nl/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MK": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mk/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/mk/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/no/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/no"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/no/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pl/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/pl"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/pl/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pt/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/pt"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/pt/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "RO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ro/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ro/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "RU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ru/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ru"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/sm/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "RS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/rs/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/rs/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SK": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sk/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/sk"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/sk/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/si/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/si"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/si/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ES": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/es/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/es"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/es/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/se/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/se"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/se/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ch/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ch"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ch/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ch/"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "UA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ua/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ua"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GB": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gb/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gb"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/gb/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/gb/"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ag/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ag"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ag/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ar/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ar"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ar/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ar/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bs/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/bs"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/bs/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BB": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bb/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/bb/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/bz"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/bz/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/bo/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/bo"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/bo/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/bo/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "BR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/br/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/br"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/br/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/br/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cl/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/cl"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/cl/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/cl/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/co/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/co"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/co/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/co/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/cr"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/cr/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/cr/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cu/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    }
+  ],
+  "DM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/dm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/dm"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/dm/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "DO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/do/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/do"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/do/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/do/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "EC": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ec/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ec"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ec/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ec/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gd/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gd"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/gd/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gt/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/gt"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/gt/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/gt/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "GY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/gy/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/gy/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "HT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ht/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ht/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "HN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/hn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/hn"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/hn/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/hn/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "JM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/jm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/jm/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MX": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mx/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/mx"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/mx/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/mx/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ni/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ni"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ni/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ni/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pa/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/pa"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/pa/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/pa/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/py/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/py"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/py/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/py/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pe/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/pe"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/pe/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/pe/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KN": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/kn/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/kn"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/kn/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "LC": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/lc/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/lc/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "VC": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/vc/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/vc/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/sr/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TT": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tt/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/tt"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/tt/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "UY": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/uy/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/uy/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/uy/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "VE": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ve/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ve"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ve/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ve/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ca/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/ca"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/ca/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/ca/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "US": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/us/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/us"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/us/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/us/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "Viki TV",
+      "country_official_url": "https://www.viki.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "AU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/au/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/au"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/au/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/au/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "FJ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/fj/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/fj"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "KI": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ki/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MH": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mh/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "FM": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/fm/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/fm"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NR": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/nr/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "NZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/nz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/nz"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/nz/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PW": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pw/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "PG": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/pg/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "WS": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/ws/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SB": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sb/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TO": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/to/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "VU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/vu/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/cz"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/cz/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "CD": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/cd/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SV": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sv/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Google",
+      "country_official_url": "https://tv.google/"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/sv"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/sv/"
+    },
+    {
+      "title": "Pluto",
+      "country_official_url": "https://pluto.tv"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Paramount+",
+      "country_official_url": "https://www.paramountplus.com/sv/"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SZ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sz/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/sz"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "HK": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/hk/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV Store",
+      "country_official_url": "https://www.apple.com/apple-tv-app/"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/hk"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/hk/"
+    },
+    {
+      "title": "Viu",
+      "country_official_url": "https://www.viu.com"
+    },
+    {
+      "title": "HBO Max",
+      "country_official_url": "https://www.max.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MQ": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mq/"
+    }
+  ],
+  "MU": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mu/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Apple TV",
+      "country_official_url": "https://tv.apple.com/mu"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "Canal+",
+      "country_official_url": "https://www.canalplus.com"
+    },
+    {
+      "title": "Shahid",
+      "country_official_url": "https://shahid.mbc.net/mu/"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "MV": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/mv/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "SC": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/sc/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "ST": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/st/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "StarTimes",
+      "country_official_url": "https://www.startimestv.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TV": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tv/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "TL": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/tl/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ],
+  "VA": [
+    {
+      "title": "Netflix",
+      "country_official_url": "https://www.netflix.com/va/"
+    },
+    {
+      "title": "Amazon Prime",
+      "country_official_url": "https://www.primevideo.com"
+    },
+    {
+      "title": "Disney+",
+      "country_official_url": "https://www.disneyplus.com/va/"
+    },
+    {
+      "title": "Crunchyroll",
+      "country_official_url": "https://www.crunchyroll.com"
+    },
+    {
+      "title": "MUBI",
+      "country_official_url": "https://mubi.com"
+    }
+  ]
+}

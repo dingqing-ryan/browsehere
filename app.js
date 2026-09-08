@@ -1,6 +1,7 @@
 (() => {
   const $ = (selector, scope = document) => scope.querySelector(selector);
   const colors = ['#e53935','#8e24aa','#3949ab','#039be5','#00897b','#7cb342','#fb8c00','#795548'];
+  const numberFormat = new Intl.NumberFormat();
   const params = new URLSearchParams(location.search);
   const apiBase = document.querySelector('meta[name="catalog-api-base"]')?.content.replace(/\/$/, '') || './mock-api';
   // UI copy is bundled: country changes only require the catalog JSON request, not a
@@ -90,7 +91,8 @@
       const title = record.category || 'Top 50';
       const id = `category-${title}`;
       if (!sections.has(id)) sections.set(id, { id, title, icon:'▦', services:[] });
-      sections.get(id).services.push({ id:`${id}-${record.rank}`, name:record.customParameter, url:/^https?:\/\//i.test(record.customParameter) ? record.customParameter : `https://${record.customParameter}`, desc:`#${record.rank} · ${Number(record.eventCount).toLocaleString()} events` });
+      const url = record.country_official_url || record.customParameter;
+      sections.get(id).services.push({ id:`${id}-${record.rank}`, name:record.title || record.customParameter, url:/^https?:\/\//i.test(url) ? url : `https://${url}`, desc:record.isCountryOfficial ? 'Official website' : `#${record.rank} · ${numberFormat.format(Number(record.eventCount))} events` });
     }
     const list = [...sections.values()]; const top = list.findIndex(section => section.title === 'Top 50');
     if (top > 0) list.unshift(list.splice(top, 1)[0]);
@@ -101,12 +103,12 @@
   function makeCard(service) {
     const link = document.createElement('a'); link.className = 'site-card'; link.href = service.url; link.target = '_blank'; link.rel = 'noopener noreferrer'; link.dataset.tvZone = 'site'; link.title = service.name;
     const host = new URL(service.url).hostname;
-    link.innerHTML = `<div class="site-card-inner"><div class="avatar" style="--avatar:${avatarColor(service.name)}"><img alt="" src="https://www.google.com/s2/favicons?domain=${encodeURIComponent(host)}&sz=64"></div><div class="site-info"><div class="site-name"></div><div class="site-desc"></div></div></div>`;
+    link.innerHTML = `<div class="site-card-inner"><div class="avatar" style="--avatar:${avatarColor(service.name)}"><img alt="" loading="lazy" decoding="async" src="https://www.google.com/s2/favicons?domain=${encodeURIComponent(host)}&sz=64"></div><div class="site-info"><div class="site-name"></div><div class="site-desc"></div></div></div>`;
     $('.site-name', link).textContent = service.name; $('.site-desc', link).textContent = window.currentCopy.descriptions?.[service.id] || service.desc;
     $('img', link).addEventListener('error', event => { event.currentTarget.remove(); $('.avatar', link).textContent = logoLetter(service.name); }, {once:true});
     return link;
   }
-  function render(profile, copy, source, sections) {
+  function render(profile, copy, sections) {
     window.currentCopy = copy;
     document.documentElement.lang = copy.htmlLang;
     document.title = `Stream Hub · ${profile.name}`;
@@ -116,7 +118,7 @@
     $('#page-subtitle').textContent = copy.subtitle;
     $('#country-note').textContent = copy.countryNote.replace('{country}', profile.name);
     $('#eyebrow').textContent = copy.eyebrow; $('#sidebar-hint').textContent = copy.remoteHint;
-    $('#remote-hint').textContent = copy.remoteHint; $('#data-source').textContent = source; $('#site-footer').textContent = copy.footer;
+    $('#remote-hint').textContent = copy.remoteHint; $('#site-footer').textContent = copy.footer;
     $('#status-line').textContent = copy.status.replace('{count}', sections.reduce((total, section) => total + section.services.length, 0));
     const menu = $('#sidebar-menu'); const catalog = $('#catalog'); menu.replaceChildren(); catalog.replaceChildren();
     for (const section of sections) {
@@ -132,7 +134,7 @@
   $('#menu-toggle').addEventListener('click', () => { const open = $('#sidebar').classList.toggle('open'); $('#menu-toggle').setAttribute('aria-expanded', String(open)); });
 
   async function fetchJson(path, base = apiBase) {
-    const response = await fetch(`${base}/${path}`, { cache:'no-store' });
+    const response = await fetch(`${base}/${path}`, { cache:'default' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return response.json();
   }
@@ -147,7 +149,7 @@
     const { profile, sections } = catalogFor(payload, code);
     const copy = copyForCountry(code);
     profile.name = localizedCountryName(code, profile.name, copy.htmlLang);
-    render(profile, copy, `ANALYTICS JSON · ${payload.generatedAt || 'UNAVAILABLE'}`, sections);
+    render(profile, copy, sections);
   }
 
   // TV remote: use viewport geometry rather than DOM order, so four-column cards
