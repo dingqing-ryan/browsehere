@@ -19,7 +19,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/dz/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -363,7 +363,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/eg/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "WatchIT",
@@ -725,7 +725,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/ly/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -837,7 +837,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/mr/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -863,7 +863,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/ma/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -996,10 +996,6 @@
       {
         "title": "Crunchyroll",
         "country_official_url": "https://www.crunchyroll.com"
-      },
-      {
-        "title": "irokotv",
-        "country_official_url": "https://irokotv.com"
       },
       {
         "title": "MUBI",
@@ -1227,7 +1223,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/sd/"
+        "country_official_url": "https://shahid.mbc.net/"
       }
     ],
     "TZ": [
@@ -1309,7 +1305,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/tn/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -1535,7 +1531,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/bh/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -1797,7 +1793,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/iq/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -1835,7 +1831,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/il/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -1911,7 +1907,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/jo/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -1967,7 +1963,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/kw/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -2061,7 +2057,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/lb/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -2215,7 +2211,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/om/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -2331,7 +2327,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/qa/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -2369,7 +2365,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/sa/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -2683,7 +2679,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/ae/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -2769,7 +2765,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/ye/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -6109,7 +6105,7 @@
       },
       {
         "title": "Shahid",
-        "country_official_url": "https://shahid.mbc.net/mu/"
+        "country_official_url": "https://shahid.mbc.net/"
       },
       {
         "title": "MUBI",
@@ -6264,20 +6260,8 @@
         "country_official_url": "https://tubitv.com/"
       },
       {
-        "title": "myflixerz.to",
-        "country_official_url": "https://myflixerz.to/"
-      },
-      {
-        "title": "sflix.to",
-        "country_official_url": "https://sflix.to"
-      },
-      {
         "title": "123moviesfree.net",
         "country_official_url": "https://ww1.123moviesfree.net"
-      },
-      {
-        "title": "9animetv.to",
-        "country_official_url": "https://9animetv.to"
       },
       {
         "title": "gomovies.sx",
@@ -6300,10 +6284,6 @@
         "country_official_url": "https://watch.freelivesports.tv/pages/discover/"
       },
       {
-        "title": "Global Live HD TV",
-        "country_official_url": "https://www.livehdtv.com/"
-      },
-      {
         "title": "Watch movies & Series online free in HD",
         "country_official_url": "https://en.primewire-official.live/home"
       },
@@ -6316,36 +6296,12 @@
         "country_official_url": "https://onhockey.tv/"
       },
       {
-        "title": "HiAnime.to Anime Website",
-        "country_official_url": "https://hianimez.to/"
-      },
-      {
-        "title": "AndyDay | Free Movies & TV Series Online",
-        "country_official_url": "https://andyday.tube/home"
-      },
-      {
         "title": "WatchSeries.pe",
         "country_official_url": "https://watchseries.pe/home"
       },
       {
-        "title": "HiMovies.to | Watch Movies Online, Stream Tv Shows online Free",
-        "country_official_url": "https://himovies.sx/home"
-      },
-      {
-        "title": "Reddit Soccer Streams, Watch Football Games Live for Free",
-        "country_official_url": "https://reddit.sportsbuff.stream/"
-      },
-      {
         "title": "movies7",
         "country_official_url": "https://movies7.fun/"
-      },
-      {
-        "title": "hdtoday.tv",
-        "country_official_url": "https://hdtoday.tv/home"
-      },
-      {
-        "title": "Streaming Sites – Best Free TV & Movie Streaming Sites List",
-        "country_official_url": "https://streamingsites.com/"
       },
       {
         "title": "Links For Free",
@@ -6366,26 +6322,6 @@
       {
         "title": "Buffstreams – Live Sports Streaming for NBA, NFL, Boxing, MMA, and F1",
         "country_official_url": "https://buffstreams.plus/index18"
-      },
-      {
-        "title": "Crackstreams | Watch Live NFL, NBA, MMA & UFC Streams with Original CrackStreams 2.0",
-        "country_official_url": "https://crackstreams.cx/"
-      },
-      {
-        "title": "StreamEast – Free HD Sports Streaming: NFL, NBA, UFC & More",
-        "country_official_url": "https://the.streameast.app/"
-      },
-      {
-        "title": "1Stream – Watch MMA, NBA, NFL HD Streams Online For Free",
-        "country_official_url": "https://1stream.vip/"
-      },
-      {
-        "title": "1Stream – Watch Live Streams of NFL, NBA, Boxing, MMA",
-        "country_official_url": "https://1stream.eu/"
-      },
-      {
-        "title": "NBA Streams | Reddit NBA Streams | NBABITE",
-        "country_official_url": "https://official.nbabite.com/home2"
       }
     ],
     "languages": {
@@ -6403,28 +6339,8 @@
           "country_official_url": "https://www.primevideo.com/"
         },
         {
-          "title": "037hdmovie",
-          "country_official_url": "https://037hdmovie.com"
-        },
-        {
-          "title": "movie2uhd.com",
-          "country_official_url": "https://movie2uhd.com"
-        },
-        {
-          "title": "movie44",
-          "country_official_url": "https://movie44.com"
-        },
-        {
           "title": "movie2fin",
           "country_official_url": "https://www.movie2fin.com/"
-        },
-        {
-          "title": "movie2ufree",
-          "country_official_url": "https://movie2ufree.com/"
-        },
-        {
-          "title": "movie678",
-          "country_official_url": "https://www.678movie-hd.com/"
         },
         {
           "title": "Watch Siam Sports Live TV from Asia – Online TV channel",
@@ -6449,10 +6365,6 @@
           "country_official_url": "https://www.primevideo.com/"
         },
         {
-          "title": "iBOMMA – Pure Entertainment Delight!",
-          "country_official_url": "https://www.ibomma.net/"
-        },
-        {
           "title": "movies-watch.com",
           "country_official_url": "https://www.movies-watch.com.pk/"
         },
@@ -6463,10 +6375,6 @@
         {
           "title": "9anime.to",
           "country_official_url": "https://9animetv.to/"
-        },
-        {
-          "title": "Epicsports.me",
-          "country_official_url": "https://www.epicsports.me/"
         },
         {
           "title": "SportsTrack",
@@ -6485,14 +6393,6 @@
           "country_official_url": "https://tooniboy.co/"
         },
         {
-          "title": "HiAnime.to Anime Website",
-          "country_official_url": "https://hianimez.to/"
-        },
-        {
-          "title": "Movierulz",
-          "country_official_url": "https://www.5movierulz.bid/"
-        },
-        {
           "title": "TamilGun",
           "country_official_url": "https://tamilgun.group/home/"
         },
@@ -6502,10 +6402,6 @@
         }
       ],
       "zh": [
-        {
-          "title": "低端影视 – 超清在线视频站",
-          "country_official_url": "https://ddys.pro/"
-        },
         {
           "title": "Netflix – Watch TV Shows Online, Watch Movies Online",
           "country_official_url": "https://www.netflix.com/"
@@ -6577,10 +6473,6 @@
           "country_official_url": "https://www.primevideo.com/"
         },
         {
-          "title": "motchill.tv",
-          "country_official_url": "https://motchill.tv/"
-        },
-        {
           "title": "bilibili",
           "country_official_url": "https://www.bilibili.com/"
         },
@@ -6601,10 +6493,6 @@
           "country_official_url": "https://motchillbr.io/"
         },
         {
-          "title": "PhimMoi.Net -> FimMoi.Net Trang chủ chính thức khi miền bị chặn",
-          "country_official_url": "https://fimmoi.net/"
-        },
-        {
           "title": "RoPhim – Phim hay cả rổ – Xem Phim Mới HD Online Vietsub",
           "country_official_url": "https://www.rophim.me/phimhay"
         },
@@ -6623,10 +6511,6 @@
         {
           "title": "FPT Play – TV Online",
           "country_official_url": "https://fptplay.vn/"
-        },
-        {
-          "title": "Boctem",
-          "country_official_url": "https://boctem.com/"
         }
       ],
       "tr": [
@@ -6645,14 +6529,6 @@
         {
           "title": "hdfilmcehennemi",
           "country_official_url": "https://www.hdfilmcehennemi.nl/"
-        },
-        {
-          "title": "4kfilmizlesene",
-          "country_official_url": "https://www.4kfilmizlesene.org/"
-        },
-        {
-          "title": "FullHD filmizlesene",
-          "country_official_url": "https://www.fullhdfilmizlesene.pw/"
         },
         {
           "title": "startv.com",
@@ -6707,14 +6583,6 @@
         {
           "title": "Watch Eurosport Live TV from Russian federation – Online TV channel",
           "country_official_url": "http://www.freeintertv.com/view/id-205/United_Kingdom-1-2-1?chname=Eurosport&amp;findch=1"
-        },
-        {
-          "title": "Смотреть спортивные трансляции онлайн бесплатно",
-          "country_official_url": "https://sportcast.online/"
-        },
-        {
-          "title": "Трансляции матчей НБА сезона-2024/25 – aanba.ru",
-          "country_official_url": "https://aanba.ru/"
         },
         {
           "title": "UAKino – дивитися фільми та серіали онлайн в HD якості",
@@ -6773,14 +6641,6 @@
           "country_official_url": "https://animesdigital.org/"
         },
         {
-          "title": "multicanais",
-          "country_official_url": "https://multicanaishd.best/"
-        },
-        {
-          "title": "TopFlix – Assistir Filmes e Séries Online Grátis",
-          "country_official_url": "https://topflix.watch/"
-        },
-        {
           "title": "pobreflix",
           "country_official_url": "https://pobreflix.life/"
         },
@@ -6801,28 +6661,12 @@
           "country_official_url": "https://superflixapi.cv/inicio"
         },
         {
-          "title": "SUPER TV AO VIVO",
-          "country_official_url": "https://supertvaovivo.fans/esportes/"
-        },
-        {
           "title": "JustWatch Sports",
           "country_official_url": "https://www.justwatch.com/br/esporte"
         },
         {
-          "title": "FuteMAX Oficial ⚽ – Futebol – UFC – Esportes e muito mais.",
-          "country_official_url": "https://futemax.moi/"
-        },
-        {
           "title": "FuteMAX APP Oficial – Futebol – UFC – Esportes – NBA",
           "country_official_url": "https://futemax.wtf/"
-        },
-        {
-          "title": "FuteMAX Oficial – Futebol Ao Vivo – UFC – Esportes",
-          "country_official_url": "https://futemax.beer/"
-        },
-        {
-          "title": "FuteMAX Oficial – Futebol – UFC – Esportes SEM ANÚNCIOS",
-          "country_official_url": "https://futemax.eco/"
         }
       ],
       "uk": [
@@ -6847,10 +6691,6 @@
           "country_official_url": "https://go3.tv/ru/sports"
         },
         {
-          "title": "UAFLIX",
-          "country_official_url": "https://uafix.net/"
-        },
-        {
           "title": "Дивитися фільми онлайн українською мовою в HD якості",
           "country_official_url": "https://uakino.club/"
         },
@@ -6861,10 +6701,6 @@
         {
           "title": "BASKINO Смотреть фильмы на BasKino онлайн, Кино в хорошем качестве бесплатно",
           "country_official_url": "https://baskino.se/"
-        },
-        {
-          "title": "Filmix. Все сериалы и фильмы",
-          "country_official_url": "https://filmix.ac/"
         }
       ],
       "en": [
@@ -6879,10 +6715,6 @@
         {
           "title": "Amazon Prime Video",
           "country_official_url": "https://www.primevideo.com/"
-        },
-        {
-          "title": "myflixerz.to",
-          "country_official_url": "https://myflixerz.to/"
         },
         {
           "title": "goojara2ch.city",
@@ -6901,28 +6733,8 @@
           "country_official_url": "https://www.lookmovie2.to/"
         },
         {
-          "title": "HiAnime.to Anime Website",
-          "country_official_url": "https://hianimez.to/"
-        },
-        {
-          "title": "AndyDay | Free Movies & TV Series Online",
-          "country_official_url": "https://andyday.tube/home"
-        },
-        {
           "title": "WatchSeries.pe",
           "country_official_url": "https://watchseries.pe/home"
-        },
-        {
-          "title": "HiMovies.to | Watch Movies Online, Stream Tv Shows online Free",
-          "country_official_url": "https://himovies.sx/home"
-        },
-        {
-          "title": "1Stream – Watch MMA, NBA, NFL HD Streams Online For Free",
-          "country_official_url": "https://1stream.vip/"
-        },
-        {
-          "title": "NBA Streams | Reddit NBA Streams | NBABITE",
-          "country_official_url": "https://official.nbabite.com/home2"
         },
         {
           "title": "movies7",
@@ -6935,10 +6747,6 @@
         {
           "title": "Angel Studios",
           "country_official_url": "https://www.angel.com/watch"
-        },
-        {
-          "title": "Crackle",
-          "country_official_url": "https://www.crackle.com/"
         },
         {
           "title": "Pluto TV",
@@ -6985,10 +6793,6 @@
           "country_official_url": "https://eshaeq.com/"
         },
         {
-          "title": "كورة ستار – kora star اهم مباريات اليوم بث مباشر جوال",
-          "country_official_url": "https://www.korastar.io/home1-new-56681/"
-        },
-        {
           "title": "الاسطورة لبث المباريات livehd7",
           "country_official_url": "https://www.hd7.live/"
         },
@@ -7013,16 +6817,8 @@
           "country_official_url": "https://bos.brstej.com/index27"
         },
         {
-          "title": "شاهد فور يو – Shahid4u",
-          "country_official_url": "https://sheid4u.net/"
-        },
-        {
           "title": "شاهد فور يو – شاهد فور يو",
           "country_official_url": "https://shahid4u.asia/"
-        },
-        {
-          "title": "افلام | عرب سيد الموقع الأول لمشاهدة الافلام والمسلسلات Arabseed",
-          "country_official_url": "https://m.asd.quest/main/"
         }
       ],
       "it": [
@@ -7039,16 +6835,8 @@
           "country_official_url": "https://www.primevideo.com/"
         },
         {
-          "title": "Guarda Calcio in Streaming Gratis e Tutto lo Sport",
-          "country_official_url": "https://guardacalcio.life/partite-streaming.html"
-        },
-        {
           "title": "CB01: Vedi GRATIS +30.000 Film e Serie-TV in Streaming HD in Italiano",
           "country_official_url": "https://www.cb01.so/"
-        },
-        {
-          "title": "CineBlog01 – Cb01 Community",
-          "country_official_url": "https://cineblog01.rest/"
         },
         {
           "title": "CB01 – Film e Serie TV su Cineblog01 – CB01 ex Cineblog01",
@@ -7079,10 +6867,6 @@
         {
           "title": "OnHockey.TV | Live hockey streams (NHL, KHL, Liiga, SHL, DEL, Extraliga, World Championship, Olympic Games)",
           "country_official_url": "https://onhockey.tv/"
-        },
-        {
-          "title": "https://s.to/",
-          "country_official_url": "https://s.to/"
         },
         {
           "title": "ZDF",
@@ -7119,10 +6903,6 @@
           "country_official_url": "https://www1.maxcine.net/"
         },
         {
-          "title": "nada.zdsports.us",
-          "country_official_url": "https://nada.zdsports.us/"
-        },
-        {
           "title": "TyC Sports Play – Todo los deportes en Vivo.",
           "country_official_url": "https://play.tycsports.com/"
         },
@@ -7153,10 +6933,6 @@
         {
           "title": "Pelota Libre TV – Fútbol en Vivo Gratis | Canales en HD",
           "country_official_url": "https://pelotalibretv.com/"
-        },
-        {
-          "title": "Fútbol Libre – Ver Partidos de Fútbol y Canales de Futbol en Vivo Gratis",
-          "country_official_url": "https://librefutbol.su/"
         },
         {
           "title": "Max.com",
@@ -7191,10 +6967,6 @@
         {
           "title": "XalaFlix – Le (super) site de streaming",
           "country_official_url": "https://xalaflix.io/"
-        },
-        {
-          "title": "Anime-Sama – Streaming et catalogage d’animes et scans.",
-          "country_official_url": "https://anime-sama.fr/"
         },
         {
           "title": "Movbor",
@@ -7249,10 +7021,6 @@
         {
           "title": "KinoGo.biz смотреть фильмы онлайн бесплатно в хорошем качестве",
           "country_official_url": "https://kinogo.biz/"
-        },
-        {
-          "title": "ShareVideo – Darmowy hosting plików video",
-          "country_official_url": "https://sharevideo.pl/"
         },
         {
           "title": "Kinogoo.FM: фильмы смотреть онлайн бесплатно в хорошем качестве HD 720, 1080p",
@@ -7319,10 +7087,6 @@
           "country_official_url": "https://play.qayadat.org/"
         },
         {
-          "title": "Watch Movies Online, Watch TV Shows Online, Free movie- Moviebox",
-          "country_official_url": "https://moviebox.ng/ur?utm_source="
-        },
-        {
           "title": "Tapmad",
           "country_official_url": "https://www.tapmad.com/"
         }
@@ -7359,10 +7123,6 @@
         {
           "title": "Cineb.net – Watch Full HD Movies Online and Stream Free Movies Online Now",
           "country_official_url": "https://cineb.rs/"
-        },
-        {
-          "title": "MovieBox, Watch Movies Online, Watch TV Shows Online- Moviebox",
-          "country_official_url": "https://moviebox.ng/fil"
         }
       ],
       "bn": [
@@ -7435,10 +7195,6 @@
           "country_official_url": "https://www.spochak.com/"
         },
         {
-          "title": "스포츠중계 365티비 – 무료 축구중계, 실시간티비 ,고화질 스포츠중계, 해외 스포츠중계, 무료스포츠 중계",
-          "country_official_url": "https://365tvda.com/"
-        },
-        {
           "title": "Wavve(웨이브)",
           "country_official_url": "https://www.wavve.com"
         },
@@ -7505,10 +7261,6 @@
           "country_official_url": "https://www.primevideo.com/"
         },
         {
-          "title": "https://gratisfilmer.cc/",
-          "country_official_url": "https://gratisfilmer.cc/"
-        },
-        {
           "title": "OnHockey.TV | Live hockey streams (NHL, KHL, Liiga, SHL, DEL, Extraliga, World Championship, Olympic Games)",
           "country_official_url": "https://onhockey.tv/"
         },
@@ -7521,16 +7273,8 @@
           "country_official_url": "https://dreamfilm.org/"
         },
         {
-          "title": "Swefilmer HD – Titta på Swesub Filmer online gratis | Dreamfilm – Filmer på svenska online",
-          "country_official_url": "https://swefilmer-se.li/"
-        },
-        {
           "title": "Home page – Nyafilmer",
           "country_official_url": "https://nyafilm14.com/home/"
-        },
-        {
-          "title": "Titta på filmer titta på serier på nätet med svenska undertexter swesub HD-kvalitet. Watch movies and series on nyafilmer",
-          "country_official_url": "https://nyafilmer.gg/home"
         }
       ],
       "ps": [
@@ -7591,16 +7335,8 @@
           "country_official_url": "https://utakmice.stream/nogomet/ligue-1-francuska/"
         },
         {
-          "title": "Filmoviplex: Najbolji filmovi i serije online sa prevodom",
-          "country_official_url": "https://www.filmoviplex.com/"
-        },
-        {
           "title": "Filmovizija – Online filmovi sa prevodom",
           "country_official_url": "https://www.filmovi.me/"
-        },
-        {
-          "title": "Filmovi online sa prevodom – Filmotip",
-          "country_official_url": "https://filmotip.com/"
         },
         {
           "title": "Online Sa Prevodom: Filmovi i Serije online sa prevodom",
@@ -7655,10 +7391,6 @@
         {
           "title": "FilmeHD",
           "country_official_url": "https://filmehd.to/"
-        },
-        {
-          "title": "meoo.ro – Vizionează filme și seriale online, gratuit și fără întreruperi. Cele mai noi titluri, subtitrări și calitate HD pe meoo.ro.",
-          "country_official_url": "https://meoo.ro/"
         }
       ],
       "ms": [
@@ -7703,10 +7435,6 @@
         {
           "title": "Amazon Prime Video",
           "country_official_url": "https://www.primevideo.com/"
-        },
-        {
-          "title": "Filmaon.info | Filma me titra shqip HD",
-          "country_official_url": "https://www.filmaon.info/"
         },
         {
           "title": "GjirafaVideo",
@@ -7847,10 +7575,6 @@
         {
           "title": "Amazon Prime Video",
           "country_official_url": "https://www.primevideo.com/"
-        },
-        {
-          "title": "https://gratisfilmer.cc/",
-          "country_official_url": "https://gratisfilmer.cc/"
         }
       ],
       "ja": [
@@ -7891,10 +7615,6 @@
         {
           "title": "Amazon Prime Video",
           "country_official_url": "https://www.primevideo.com/"
-        },
-        {
-          "title": "M4 Sport",
-          "country_official_url": "https://m4sport.hu/"
         },
         {
           "title": "Videó feltöltés – Videa",
