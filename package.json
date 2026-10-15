@@ -1,0 +1,14 @@
+{
+  "name": "browsehere",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview --port 8080 --strictPort",
+    "preview": "vite preview --port 8080 --strictPort"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

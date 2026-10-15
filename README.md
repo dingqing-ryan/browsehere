@@ -2,7 +2,7 @@
 
 面向电视大屏的国家化流媒体网站导航。在线地址：
 
-`https://dingqing-ryan.github.io/browsehere/home.html?country=AO`
+`https://dingqing-ryan.github.io/browsehere/?country=AO`
 
 ## 本地运行
 
@@ -12,7 +12,7 @@
 python3 -m http.server 8080
 ```
 
-然后访问 `http://localhost:8080/home.html?country=AO`。
+然后访问 `http://localhost:8080/?country=AO`。
 
 ## 国家选择与本地化
 

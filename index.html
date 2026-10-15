@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+ 
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="description" content="A country-aware catalog of free streaming services." />
+  <!-- 国家文件由 json/manifest.json 中的 countryCode 映射，不依赖文件名格式。 -->
+  <meta name="catalog-api-base" content="./json" />
+  <title>Stream Hub · Free global streaming</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <button class="menu-toggle" id="menu-toggle" aria-controls="sidebar" aria-expanded="false"
+    aria-label="Open catalog">☰</button>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand"><span class="brand-mark">▶</span><span id="app-name">Stream Hub</span></div>
+      <section class="region-card" aria-label="Region">
+        <p class="region-label" id="region-label">REGION</p>
+        <strong id="country-name">Loading</strong>
+        <span class="region-code" id="country-code">--</span>
+        <p class="country-note" id="country-note"></p>
+      </section>
+      <nav aria-label="分类目录">
+        <ul class="sidebar-menu" id="sidebar-menu"></ul>
+      </nav>
+      <p class="sidebar-hint" id="sidebar-hint">Use ▲▼◀▶ to navigate</p>
+    </aside>
+    <main class="main-content" id="main-content">
+      <header class="intro">
+        <p class="eyebrow" id="eyebrow">LOCAL STREAMING GUIDE</p>
+        <h1 id="page-title">Streaming Website Guide Hub</h1>
+        <p id="page-subtitle"></p>
+        <div class="hero-meta" id="remote-hint"></div>
+      </header>
+      <div class="status-line" id="status-line" role="status"></div>
+      <div id="catalog"></div>
+      <footer id="site-footer">Streaming Website Guide Hub Design by ❤️</footer>
+    </main>
+  </div>
+  <script type="module" src="./app.js"></script>
+</body>
+
+</html>

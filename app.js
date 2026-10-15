@@ -124,12 +124,16 @@
     for (const section of sections) {
       const label = localizedCategory(section.title, copy.language);
       const sectionId = `section-${section.id}`; const item = document.createElement('li'); const menuLink = document.createElement('a');
-      menuLink.href = `#${sectionId}`; menuLink.dataset.tvZone = 'category'; menuLink.dataset.section = section.id; menuLink.innerHTML = `<span class="menu-icon">${section.icon}</span><span>${label}</span>`; item.append(menuLink); menu.append(item);
+      menuLink.href = '#'; menuLink.setAttribute('aria-controls', sectionId); menuLink.dataset.tvZone = 'category'; menuLink.dataset.section = section.id; menuLink.innerHTML = `<span class="menu-icon">${section.icon}</span><span>${label}</span>`; item.append(menuLink); menu.append(item);
       const block = document.createElement('section'); block.className = 'section'; block.id = sectionId;
       const header = document.createElement('div'); header.className = 'section-header'; header.innerHTML = `<span class="section-icon">${section.icon}</span><h2></h2>`; $('h2', header).textContent = label;
       const grid = document.createElement('div'); grid.className = 'site-grid'; section.services.forEach(service => { const card = makeCard(service); card.dataset.section = section.id; grid.append(card); }); block.append(header, grid); catalog.append(block);
     }
-    document.querySelectorAll('.sidebar-menu a').forEach(link => link.addEventListener('click', () => { $('#sidebar').classList.remove('open'); $('#menu-toggle').setAttribute('aria-expanded', 'false'); }));
+    document.querySelectorAll('.sidebar-menu a').forEach(link => link.addEventListener('click', event => {
+      event.preventDefault(); document.getElementById(`section-${link.dataset.section}`)?.scrollIntoView({ block:'start' });
+      $('#sidebar').classList.remove('open'); $('#menu-toggle').setAttribute('aria-expanded', 'false');
+    }));
+    document.dispatchEvent(new Event('catalogready'));
   }
   $('#menu-toggle').addEventListener('click', () => { const open = $('#sidebar').classList.toggle('open'); $('#menu-toggle').setAttribute('aria-expanded', String(open)); });
 
@@ -160,12 +164,18 @@
     let focused = null;
     const items = () => [...document.querySelectorAll('[data-tv-zone]')].filter(el => el.getClientRects().length);
     const center = (el) => { const r = el.getBoundingClientRect(); return { x:r.left + r.width / 2, y:r.top + r.height / 2, r }; };
-    const setFocus = (el) => {
+    const setFocus = (el, syncSection = true) => {
       if (!el) return;
       document.body.classList.toggle('tv-content-focus', el.dataset.tvZone === 'site');
       focused?.classList.remove('tv-focused'); focused = el; focused.classList.add('tv-focused');
-      focused.focus({ preventScroll:true }); centerFocusedCard(); requestAnimationFrame(centerFocusedCard);
+      focused.focus({ preventScroll:true });
+      if (syncSection && focused.dataset.tvZone === 'category') document.getElementById(`section-${focused.dataset.section}`)?.scrollIntoView({ block:'start' });
+      centerFocusedCard(); requestAnimationFrame(centerFocusedCard);
     };
+    document.addEventListener('catalogready', () => {
+      tvMode = true; document.body.classList.add('tv-nav-active');
+      setFocus(document.querySelector('[data-tv-zone="category"][data-section="category-Top 50"]') || items()[0], false);
+    });
     const centerFocusedCard = () => {
       if (focused?.dataset.tvZone !== 'site') return;
       const scroller = pageNavAware ? $('#main-content') : document.scrollingElement;
@@ -178,11 +188,10 @@
     };
     const nextInDirection = (current, direction) => {
       if (current.dataset.tvZone === 'category' && direction === 'ArrowRight') return document.querySelector(`[data-tv-zone="site"][data-section="${current.dataset.section}"]`);
-      if (current.dataset.tvZone === 'site' && direction === 'ArrowLeft') return document.querySelector(`[data-tv-zone="category"][data-section="${current.dataset.section}"]`);
       const from = center(current); let winner = null; let best = Infinity;
       const currentZone = current.dataset.tvZone;
       const candidates = items().filter(candidate => currentZone === 'site'
-        ? candidate.dataset.tvZone === 'site' || direction === 'ArrowLeft' && candidate.dataset.tvZone === 'category'
+        ? candidate.dataset.tvZone === 'site'
         : direction === 'ArrowRight' ? candidate.dataset.tvZone === 'site' : candidate.dataset.tvZone === 'category');
       for (const candidate of candidates) {
         if (candidate === current) continue;
@@ -194,7 +203,9 @@
         const score = primary + secondary * 2.5;
         if (score < best) { best = score; winner = candidate; }
       }
-      return winner;
+      return winner || (currentZone === 'site' && direction === 'ArrowLeft'
+        ? document.querySelector(`[data-tv-zone="category"][data-section="${current.dataset.section}"]`)
+        : null);
     };
     const handoffToToolbar = () => {
       if (!pageNavAware || !window.NaviSwitch?.requestNavBarFocus) return;
