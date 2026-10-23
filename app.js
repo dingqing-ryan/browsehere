@@ -4,7 +4,6 @@
   const numberFormat = new Intl.NumberFormat();
   const params = new URLSearchParams(location.search);
   const apiBase = document.querySelector('meta[name="catalog-api-base"]')?.content.replace(/\/$/, '') || './mock-api';
-  let catalogManifest = null; let currentCode = '';
   // UI copy is bundled: country changes only require the catalog JSON request, not a
   // second locale request. Intl supplies the likely language for each ISO country.
   const uiCopy = {
@@ -32,7 +31,6 @@
     ms:{regionLabel:'WILAYAH',subtitle:'Tingkap percuma anda ke penstriman terbaik dunia.',countryNote:'Cadangan untuk {country}',eyebrow:'PANDUAN PENSTRIMAN TEMPATAN',remoteHint:'Gunakan ▲ ▼ ◀ ▶ untuk navigasi',status:'{count} perkhidmatan tersedia',footer:'Hab Panduan Laman Web Penstriman · Direka dengan ❤️'},
     sw:{regionLabel:'ENEO',subtitle:'Dirisha lako la bure kuelekea utiririshaji bora duniani.',countryNote:'Mapendekezo kwa {country}',eyebrow:'MWONGOZO WA UTIRIRISHAJI WA ENEO HUSIKA',remoteHint:'Tumia ▲ ▼ ◀ ▶ kuvinjari',status:'Huduma {count} zinapatikana',footer:'Kitovu cha Mwongozo wa Tovuti za Utiririshaji · Imeundwa kwa ❤️'}
   };
-  const languageLabels = { en:'English', zh:'中文', ja:'日本語', ko:'한국어', pt:'Português', es:'Español', fr:'Français', de:'Deutsch', it:'Italiano', ru:'Русский', ar:'العربية', hi:'हिन्दी', th:'ไทย', tr:'Türkçe', vi:'Tiếng Việt', id:'Bahasa Indonesia', nl:'Nederlands', pl:'Polski', uk:'Українська', fa:'فارسی', he:'עברית', ms:'Bahasa Melayu', sw:'Kiswahili' };
   const categoryCopy = {
     en:{'新闻':'News','电影':'Movies','直播':'Live','运动':'Sports'}, zh:{'新闻':'新闻','电影':'电影','直播':'直播','运动':'运动'},
     ja:{'新闻':'ニュース','电影':'映画','直播':'ライブ','运动':'スポーツ'}, ko:{'新闻':'뉴스','电影':'영화','直播':'라이브','运动':'스포츠'},
@@ -146,7 +144,6 @@
   }
   async function loadAndRender() {
     const [code, manifest] = await Promise.all([resolveCountry(), fetchJson('manifest.json').catch(() => null)]); let payload;
-    catalogManifest = manifest; currentCode = code;
     try {
       const entry = manifest.countries?.find(item => String(item.countryCode).toUpperCase() === code);
       if (!entry) throw new Error(`No country data for ${code}`);
@@ -167,9 +164,7 @@
     let focused = null;
     let catalogReady = false;
     let pendingDown = false;
-    const picker = $('#language-picker'); const regionPicker = $('#region-picker'); const pickerList = $('#language-list');
-    picker.hidden = true; pickerList.replaceChildren();
-    const items = () => [...document.querySelectorAll('[data-tv-zone]')].filter(el => el.getClientRects().length && (picker.hidden || el.dataset.tvZone === 'language' || el.dataset.tvZone === 'language-close'));
+    const items = () => [...document.querySelectorAll('[data-tv-zone]')].filter(el => el.getClientRects().length);
     const center = (el) => { const r = el.getBoundingClientRect(); return { x:r.left + r.width / 2, y:r.top + r.height / 2, r }; };
     const setFocus = (el, syncSection = true) => {
       if (!el) return;
@@ -177,46 +172,14 @@
       focused?.classList.remove('tv-focused'); focused = el; focused.classList.add('tv-focused');
       focused.focus({ preventScroll:true });
       if (syncSection && focused.dataset.tvZone === 'category') document.getElementById(`section-${focused.dataset.section}`)?.scrollIntoView({ block:'start' });
-      if (focused.dataset.tvZone === 'language') focused.scrollIntoView({ block:'nearest' });
       centerFocusedCard(); requestAnimationFrame(centerFocusedCard);
     };
-    const pickerEntries = async () => {
-      if (!catalogManifest?.countries?.length) catalogManifest = await fetchJson('manifest.json').catch(() => null);
-      const locale = document.documentElement.lang || 'en'; let displayNames;
-      try { displayNames = new Intl.DisplayNames([locale], { type:'language' }); } catch { /* Use bundled labels or language codes. */ }
-      return (catalogManifest?.countries || []).filter(({ recordCount }) => recordCount == null || recordCount > 0).map(({ countryCode }) => {
-        const code = String(countryCode).toUpperCase(); const { language } = localeForCountry(code);
-        let label = languageLabels[language] || language; let country = code;
-        try { label = languageLabels[language] || displayNames?.of(language) || language; country = localizedCountryName(code, code, locale); } catch { /* Keep no-network fallbacks. */ }
-        return { code, language, label, country };
-      }).sort((a, b) => a.label.localeCompare(b.label) || a.country.localeCompare(b.country));
-    };
-    const openPicker = async () => {
-      const entries = await pickerEntries(); if (!entries.length) return;
-      const fragment = document.createDocumentFragment();
-      for (const entry of entries) {
-        const option = document.createElement('button'); option.type = 'button'; option.className = 'language-option'; option.dataset.tvZone = 'language'; option.dataset.country = entry.code;
-        option.setAttribute('aria-current', String(entry.code === currentCode)); option.textContent = entry.label;
-        const country = document.createElement('small'); country.textContent = entry.country; option.append(country); fragment.append(option);
-      }
-      pickerList.replaceChildren(fragment); picker.hidden = false; tvMode = true; document.body.classList.add('tv-nav-active');
-      setFocus(pickerList.querySelector('[aria-current="true"]') || pickerList.firstElementChild, false);
-    };
-    const closePicker = () => { picker.hidden = true; setFocus(regionPicker, false); };
-    regionPicker.addEventListener('click', openPicker);
-    picker.addEventListener('click', event => {
-      const option = event.target.closest('[data-country]');
-      if (option) { const url = new URL(location.href); url.searchParams.set('country', option.dataset.country); location.assign(url); }
-      else if (event.target.closest('[data-tv-zone="language-close"]')) closePicker();
-    });
     document.addEventListener('catalogready', () => {
       catalogReady = true;
       tvMode = true; document.body.classList.add('tv-nav-active');
-      setFocus(regionPicker, false);
-      if (pendingDown) {
-        pendingDown = false;
-        setFocus(nextInDirection(regionPicker, 'ArrowDown') || regionPicker);
-      }
+      const initial = items()[0];
+      setFocus(initial, false);
+      if (pendingDown) { pendingDown = false; if (initial) setFocus(nextInDirection(initial, 'ArrowDown') || initial); }
     });
     const centerFocusedCard = () => {
       if (focused?.dataset.tvZone !== 'site') return;
@@ -229,14 +192,12 @@
       scroller.scrollTop = Math.max(0, Math.min(target, max));
     };
     const nextInDirection = (current, direction) => {
-      if (picker.hidden && current.dataset.tvZone === 'region' && direction === 'ArrowDown') return document.querySelector('[data-tv-zone="category"]');
-      if (picker.hidden && current.dataset.tvZone === 'category' && direction === 'ArrowUp' && current === document.querySelector('[data-tv-zone="category"]')) return regionPicker;
       if (current.dataset.tvZone === 'category' && direction === 'ArrowRight') return document.querySelector(`[data-tv-zone="site"][data-section="${current.dataset.section}"]`);
       const from = center(current); let winner = null; let best = Infinity;
       const currentZone = current.dataset.tvZone;
-      const candidates = items().filter(candidate => !picker.hidden || (currentZone === 'site'
+      const candidates = items().filter(candidate => currentZone === 'site'
         ? candidate.dataset.tvZone === 'site'
-        : direction === 'ArrowRight' ? candidate.dataset.tvZone === 'site' : candidate.dataset.tvZone === 'category'));
+        : direction === 'ArrowRight' ? candidate.dataset.tvZone === 'site' : candidate.dataset.tvZone === 'category');
       for (const candidate of candidates) {
         if (candidate === current) continue;
         const to = center(candidate); const dx = to.x - from.x; const dy = to.y - from.y;
@@ -259,7 +220,6 @@
     document.addEventListener('keydown', (event) => {
       if (!navKeys.has(event.key)) return;
       tvMode = true; document.body.classList.add('tv-nav-active');
-      if (event.key === 'Escape' && !picker.hidden) { closePicker(); event.preventDefault(); event.stopPropagation(); return; }
       if (!focused || !document.contains(focused)) {
         const initial = items()[0];
         const target = event.key.startsWith('Arrow') && initial ? nextInDirection(initial, event.key) : initial;
@@ -270,7 +230,7 @@
       }
       if (event.key.startsWith('Arrow')) {
         const target = nextInDirection(focused, event.key);
-        if (target) setFocus(target); else if (event.key === 'ArrowUp' && picker.hidden) handoffToToolbar();
+        if (target) setFocus(target); else if (event.key === 'ArrowUp') handoffToToolbar();
         event.preventDefault(); event.stopPropagation(); return;
       }
       if (event.key === 'Enter' || event.key === ' ') {
