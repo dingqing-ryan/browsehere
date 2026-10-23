@@ -27,7 +27,7 @@ for (const file of await readdir(folder)) {
     }).map(({ rank, category, customParameter, eventCount }) => ({ rank, category, customParameter, eventCount }));
     records.unshift(...sites.map((site, index) => ({ rank:`official-${index}`, category:'Top 50', title:site.title, country_official_url:site.country_official_url, customParameter:site.country_official_url, eventCount:0, isCountryOfficial:true })));
     injectedServices += sites.length;
-    if (code) countries.push({ countryCode:code, file });
+    if (code && records.length) countries.push({ countryCode:code, file, recordCount:records.length });
     return { countryCode:code, country:country.country || code, ...(title ? { title } : {}), ...(officialUrl ? { country_official_url:officialUrl } : {}), records };
   });
   await writeFile(`${folder}/${file}`, `${JSON.stringify({ countries:compactCountries })}\n`);
