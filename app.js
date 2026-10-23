@@ -254,7 +254,9 @@
       tvMode = true; document.body.classList.add('tv-nav-active');
       if (event.key === 'Escape' && !picker.hidden) { closePicker(); event.preventDefault(); event.stopPropagation(); return; }
       if (!focused || !document.contains(focused)) {
-        setFocus(items()[0]);
+        const initial = items()[0];
+        const target = event.key.startsWith('Arrow') && initial ? nextInDirection(initial, event.key) : initial;
+        setFocus(target || initial);
         event.preventDefault(); event.stopPropagation();
         return;
       }
