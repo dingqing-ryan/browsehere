@@ -165,6 +165,8 @@
     const navKeys = new Set(['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'Enter', ' ', 'Escape']);
     let tvMode = false;
     let focused = null;
+    let catalogReady = false;
+    let pendingDown = false;
     const picker = $('#language-picker'); const regionPicker = $('#region-picker'); const pickerList = $('#language-list');
     picker.hidden = true; pickerList.replaceChildren();
     const items = () => [...document.querySelectorAll('[data-tv-zone]')].filter(el => el.getClientRects().length && (picker.hidden || el.dataset.tvZone === 'language' || el.dataset.tvZone === 'language-close'));
@@ -208,8 +210,13 @@
       else if (event.target.closest('[data-tv-zone="language-close"]')) closePicker();
     });
     document.addEventListener('catalogready', () => {
+      catalogReady = true;
       tvMode = true; document.body.classList.add('tv-nav-active');
       setFocus(regionPicker, false);
+      if (pendingDown) {
+        pendingDown = false;
+        setFocus(nextInDirection(regionPicker, 'ArrowDown') || regionPicker);
+      }
     });
     const centerFocusedCard = () => {
       if (focused?.dataset.tvZone !== 'site') return;
@@ -256,6 +263,7 @@
       if (!focused || !document.contains(focused)) {
         const initial = items()[0];
         const target = event.key.startsWith('Arrow') && initial ? nextInDirection(initial, event.key) : initial;
+        if (!target && !catalogReady && event.key === 'ArrowDown') pendingDown = true;
         setFocus(target || initial);
         event.preventDefault(); event.stopPropagation();
         return;
